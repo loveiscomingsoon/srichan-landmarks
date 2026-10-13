@@ -1,0 +1,33 @@
+name: Backup uMap landmarks
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'backup_umap.py'
+      - '.github/workflows/backup.yml'
+permissions:
+  contents: write
+concurrency:
+  group: umap-backup
+  cancel-in-progress: false
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - name: Download public map and validate backup
+        run: python3 backup_umap.py
+      - name: Save changed map data in Git history
+        run: |
+          git add umap-backup.umap srichan-survey.geojson
+          if git diff --cached --quiet; then
+            echo "Map data unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Back up current uMap landmarks"
+          git push
