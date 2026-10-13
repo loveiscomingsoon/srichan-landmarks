@@ -326,6 +326,14 @@
     "limitBounds": {},
     "name": "ศรีจันทร์ ขอนแก่น — แผนที่สำรวจ 3 เขต",
     "slideshow": {},
+    "tilelayer": {
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL",
+      "maxZoom": 19,
+      "minZoom": 0,
+      "name": "OpenStreetMap",
+      "tms": false,
+      "url_template": "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+    },
     "ttl": {
       "300": "5 min",
       "3600": "1 hour",
