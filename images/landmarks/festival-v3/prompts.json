@@ -1,0 +1,5 @@
+{
+  "tool": "built-in image_gen",
+  "applies_to": "01–17",
+  "prompt": "Edit this existing Srichan poster by removing ONLY the small attribution/provenance label at the very bottom right: 'ภาพดัดแปลงจากภาพอ้างอิง' (or on poster01 the equivalent 'ภาพตัวอย่างแนวทางศิลป์'). Fill only that text area naturally with the matching existing warm cream paper texture. KEEP the centered festival footer text exactly: เทศกาล \"สีสัน ศรีจันทร์\" . Do not erase or move the festival name. Preserve every other pixel, architecture, photograph, orange circle, indigo ribbon, all large typography, Thai place name, poster number, paper grain, canvas size and composition. No redraw, no recrop, no new text, no replacement label. This is solely removal of the tiny bottom-right attribution label."
+}
