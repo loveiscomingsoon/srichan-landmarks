@@ -1,0 +1,5 @@
+{
+  "tool": "built-in image_gen",
+  "applies_to": "01–17; edit existing individual PNG",
+  "prompt": "Edit this existing poster with one precise change only: add the exact Thai footer text เทศกาล \"สีสัน ศรีจันทร์\" in small, neat, legible dark indigo #163B68 Thai sans-serif type, horizontally centered in the cream bottom margin. Keep generous safe padding from the bottom edge. Position it above the existing tiny attribution footer so neither overlaps. Keep it clearly subordinate to the location name. Preserve EVERY other element: exact existing architecture, objects, grayscale photo collage, orange circle, indigo ribbon, typography, Thai location name, number, title, layout, colors, grain and canvas dimensions. Do not redraw, reinterpret, recrop or change any of the building, place, signage or text. Only add this small footer. Exact added text verbatim: เทศกาล \"สีสัน ศรีจันทร์\" . Deliver the edited single poster."
+}

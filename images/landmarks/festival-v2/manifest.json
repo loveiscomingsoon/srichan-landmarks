@@ -1,0 +1,138 @@
+[
+  {
+    "number": 1,
+    "name": "01 อาคารธนาคารกรุงเทพ",
+    "png": "png/01.png",
+    "jpeg": "web/01.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/01.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 2,
+    "name": "02 กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
+    "png": "png/02.png",
+    "jpeg": "web/02.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/02.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 3,
+    "name": "03 ถนน ซอย 5 พฤศจิกา",
+    "png": "png/03.png",
+    "jpeg": "web/03.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/03.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 4,
+    "name": "04 อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
+    "png": "png/04.png",
+    "jpeg": "web/04.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/04.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 5,
+    "name": "05 ตรอกกุญแจ",
+    "png": "png/05.png",
+    "jpeg": "web/05.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/05.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 6,
+    "name": "06 ร้านชัยเชิญชิม บะหมี่เกี๊ยวหยกจัมโบ้",
+    "png": "png/06.png",
+    "jpeg": "web/06.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/06.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 7,
+    "name": "07 วัดซิกข์ ศรีคุรุสิงห์สภา",
+    "png": "png/07.png",
+    "jpeg": "web/07.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/07.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 8,
+    "name": "08 ร้านกุนเชียงนายบู๊",
+    "png": "png/08.png",
+    "jpeg": "web/08.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/08.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 9,
+    "name": "09 มูลนิธิจิตกุศลขอนแก่น",
+    "png": "png/09.png",
+    "jpeg": "web/09.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/09.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 10,
+    "name": "10 ร้านกาแฟ 2499",
+    "png": "png/10.png",
+    "jpeg": "web/10.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/10.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 11,
+    "name": "11 ขอนแก่น สตรีท อาร์ต",
+    "png": "png/11.png",
+    "jpeg": "web/11.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/11.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 12,
+    "name": "12 ร้านน้ำเต้าหู้ 100 ปี",
+    "png": "png/12.png",
+    "jpeg": "web/12.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/12.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 13,
+    "name": "13 วัดศรีจันทร์ พระอารามหลวง",
+    "png": "png/13.png",
+    "jpeg": "web/13.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/13.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 14,
+    "name": "14 ตึกโรงแรมแกรนด์โฮเต็ล",
+    "png": "png/14.png",
+    "jpeg": "web/14.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/14.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 15,
+    "name": "15 ร้านหมูแผ่นย่างถ่าน ตั้ง ฮะ เฮียง",
+    "png": "png/15.png",
+    "jpeg": "web/15.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/15.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 16,
+    "name": "16 ซอยร้านตัดเสื้อร่วมจิตร",
+    "png": "png/16.png",
+    "jpeg": "web/16.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/16.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  },
+  {
+    "number": 17,
+    "name": "17 ตลาดโต้รุ่งร่วมจิตร",
+    "png": "png/17.png",
+    "jpeg": "web/17.jpg",
+    "image_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v2/17.jpg",
+    "footer": "เทศกาล \"สีสัน ศรีจันทร์\""
+  }
+]
