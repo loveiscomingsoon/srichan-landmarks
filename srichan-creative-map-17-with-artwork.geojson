@@ -1,0 +1,498 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8324962,
+          16.4306201
+        ]
+      },
+      "properties": {
+        "name": "01 อาคารธนาคารกรุงเทพ",
+        "image_number": 1,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/01.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 1 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4306201,102.8324962",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "1",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/01.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "AT7sJ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83396,
+          16.43076
+        ]
+      },
+      "properties": {
+        "name": "02 กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
+        "image_number": 2,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/02.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 2 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "2",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/02.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "SdF73"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83301,
+          16.43158
+        ]
+      },
+      "properties": {
+        "name": "03 ถนน ซอย 5 พฤศจิกา",
+        "image_number": 3,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/03.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 3 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "3",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/03.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "PyaRK"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8338,
+          16.43132
+        ]
+      },
+      "properties": {
+        "name": "04 อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
+        "image_number": 4,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/04.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 4 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "4",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/04.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "fuvUp"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83443,
+          16.43003
+        ]
+      },
+      "properties": {
+        "name": "05 ตรอกกุญแจ",
+        "image_number": 5,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/05.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 5 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "5",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/05.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "QXWAD"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8364604,
+          16.4297363
+        ]
+      },
+      "properties": {
+        "name": "06 ร้านชัยเชิญชิม บะหมี่เกี๊ยวหยกจัมโบ้",
+        "image_number": 6,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/06.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 6 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4297363,102.8364604",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "6",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/06.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "NFS9L"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8365185,
+          16.4292234
+        ]
+      },
+      "properties": {
+        "name": "07 วัดซิกข์ ศรีคุรุสิงห์สภา",
+        "image_number": 7,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/07.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 7 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4292234,102.8365185",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "7",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/07.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "7vSCq"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8363502,
+          16.4290953
+        ]
+      },
+      "properties": {
+        "name": "08 ร้านกุนเชียงนายบู๊",
+        "image_number": 8,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/08.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 8 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4290953,102.8363502",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "8",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/08.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "VIpWV"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8375757,
+          16.4286959
+        ]
+      },
+      "properties": {
+        "name": "09 มูลนิธิจิตกุศลขอนแก่น",
+        "image_number": 9,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/09.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 9 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4286959,102.8375757",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "9",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/09.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "ebo1P"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83762,
+          16.4289792
+        ]
+      },
+      "properties": {
+        "name": "10 ร้านกาแฟ 2499",
+        "image_number": 10,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/10.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 10 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4289792,102.83762",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "10",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/10.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "lrE0l"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83759,
+          16.42954
+        ]
+      },
+      "properties": {
+        "name": "11 ขอนแก่น สตรีท อาร์ต",
+        "image_number": 11,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/11.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 11 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "11",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/11.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "BfMOc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8384082,
+          16.4305746
+        ]
+      },
+      "properties": {
+        "name": "12 ร้านน้ำเต้าหู้ 100 ปี",
+        "image_number": 12,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/12.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 12 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4305746,102.8384082",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "12",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/12.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "lD9gX"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.840284,
+          16.4317797
+        ]
+      },
+      "properties": {
+        "name": "13 วัดศรีจันทร์ พระอารามหลวง",
+        "image_number": 13,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/13.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 13 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4317797,102.840284",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "13",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/13.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "KQoJj"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83876,
+          16.43195
+        ]
+      },
+      "properties": {
+        "name": "14 ตึกโรงแรมแกรนด์โฮเต็ล",
+        "image_number": 14,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/14.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 14 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นอาคารเก่าตามภาพ ไม่ยืนยันว่าโรงแรมยังเปิดหรืออาคารยังอยู่ในสภาพเดิม",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "14",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/14.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "qc10j"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8368084,
+          16.4321324
+        ]
+      },
+      "properties": {
+        "name": "15 ร้านหมูแผ่นย่างถ่าน ตั้ง ฮะ เฮียง",
+        "image_number": 15,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/15.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 15 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4321324,102.8368084",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "15",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/15.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "Z4jAd"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83724,
+          16.4329
+        ]
+      },
+      "properties": {
+        "name": "16 ซอยร้านตัดเสื้อร่วมจิตร",
+        "image_number": 16,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/16.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 16 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "_umap_options": {
+          "color": "#b66c13",
+          "iconClass": "Circle",
+          "iconUrl": "16",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/16.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "oUGxC"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8369065,
+          16.4314599
+        ]
+      },
+      "properties": {
+        "name": "17 ตลาดโต้รุ่งร่วมจิตร",
+        "image_number": 17,
+        "kind": "existing_reference",
+        "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
+        "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
+        "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/17.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 17 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4314599,102.8369065\nสถานที่นี้มีหมุดเดิมในชั้นข้อมูลโครงการด้วย หมุดชั้นนี้ใช้เทียบหมายเลข 17 ของภาพ ไม่ใช่สถานที่เพิ่มอีกแห่ง",
+        "_umap_options": {
+          "color": "#187c83",
+          "iconClass": "Circle",
+          "iconUrl": "17",
+          "showLabel": true
+        },
+        "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/17.jpg",
+        "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
+        "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน"
+      },
+      "id": "Yobck"
+    }
+  ]
+}
