@@ -17,7 +17,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/01.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 1 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4306201,102.8324962",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/01.jpg}}\n\nอาคารสำคัญในย่านการเงินเก่าของเมือง มีการก่อสร้างและขยายอาคารต่างช่วงเวลา สะท้อนการเติบโตของศรีจันทร์\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4306201,102.8324962|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/01.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -27,9 +27,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/01.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "อาคารสำคัญในย่านการเงินเก่าของเมือง มีการก่อสร้างและขยายอาคารต่างช่วงเวลา สะท้อนการเติบโตของศรีจันทร์",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/01.html"
       },
-      "id": "nQNfJ"
+      "id": "O6RwE"
     },
     {
       "type": "Feature",
@@ -47,7 +50,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 2 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg}}\n\nกลุ่มอาคารพาณิชย์บนถนน 5 พฤศจิกาตามแผนที่เดิม ยังต้องยืนยันปีสร้างและประวัติร้านค้ากับชุมชน\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/02.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -57,9 +60,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "กลุ่มอาคารพาณิชย์บนถนน 5 พฤศจิกาตามแผนที่เดิม ยังต้องยืนยันปีสร้างและประวัติร้านค้ากับชุมชน",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/02.html"
       },
-      "id": "yQ5gA"
+      "id": "nbtqE"
     },
     {
       "type": "Feature",
@@ -77,7 +83,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 3 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg}}\n\nแนวถนนและอาคารค้าขายในย่านเก่าตามภาพอ้างอิง ยังไม่ยืนยันที่มาชื่อถนนหรือปีเริ่มพัฒนา\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/03.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -87,9 +93,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "แนวถนนและอาคารค้าขายในย่านเก่าตามภาพอ้างอิง ยังไม่ยืนยันที่มาชื่อถนนหรือปีเริ่มพัฒนา",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/03.html"
       },
-      "id": "yZtwL"
+      "id": "EHbUf"
     },
     {
       "type": "Feature",
@@ -107,7 +116,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 4 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg}}\n\nอาคารหัวมุมที่ระบุในแผนที่เดิม ประวัติการใช้งานและผู้ครอบครองแต่ละช่วงต้องตรวจเพิ่มก่อนเผยแพร่\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/04.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -117,9 +126,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "อาคารหัวมุมที่ระบุในแผนที่เดิม ประวัติการใช้งานและผู้ครอบครองแต่ละช่วงต้องตรวจเพิ่มก่อนเผยแพร่",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/04.html"
       },
-      "id": "0mfsY"
+      "id": "z9Mou"
     },
     {
       "type": "Feature",
@@ -137,7 +149,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 5 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg}}\n\nบทความสำรวจปี 2562 บันทึกร้านทำกุญแจบริเวณปากตรอก และร้านทำป้ายกับแผงพระเครื่องภายใน เชื่อมต่อย่านตลาดบางลำภู\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/05.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -147,9 +159,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "บทความสำรวจปี 2562 บันทึกร้านทำกุญแจบริเวณปากตรอก และร้านทำป้ายกับแผงพระเครื่องภายใน เชื่อมต่อย่านตลาดบางลำภู",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/05.html"
       },
-      "id": "8YdTV"
+      "id": "4jnWm"
     },
     {
       "type": "Feature",
@@ -167,7 +182,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/06.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 6 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4297363,102.8364604",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/06.jpg}}\n\nร้านบะหมี่เกี๊ยวหยกที่ปรากฏในแผนที่ศรีจันทร์เดิม ยังไม่พบหลักฐานยืนยันปีเริ่มกิจการ\n\nประวัติยังรอยืนยันกับชุมชน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4297363,102.8364604|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/06.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -177,9 +192,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/06.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "ร้านบะหมี่เกี๊ยวหยกที่ปรากฏในแผนที่ศรีจันทร์เดิม ยังไม่พบหลักฐานยืนยันปีเริ่มกิจการ",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/06.html"
       },
-      "id": "lOohc"
+      "id": "73bEO"
     },
     {
       "type": "Feature",
@@ -197,7 +215,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/07.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 7 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4292234,102.8365185",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/07.jpg}}\n\nศาสนสถานซิกข์ที่ระบุในแผนที่ย่าน ประวัติการก่อตั้งสาขาขอนแก่นควรยืนยันกับผู้ดูแล\n\nประวัติยังรอยืนยันกับชุมชน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4292234,102.8365185|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/07.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -207,9 +225,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/07.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "ศาสนสถานซิกข์ที่ระบุในแผนที่ย่าน ประวัติการก่อตั้งสาขาขอนแก่นควรยืนยันกับผู้ดูแล",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/07.html"
       },
-      "id": "A5AoN"
+      "id": "9Oi28"
     },
     {
       "type": "Feature",
@@ -227,7 +248,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/08.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 8 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4290953,102.8363502",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/08.jpg}}\n\nCEA ระบุเริ่มกิจการ พ.ศ. 2498 สืบทอดสูตรกุนเชียงของครอบครัว และเข้าร่วมโครงการพัฒนาแบรนด์ Made in Srichan\n\n[[https://creativecity.cea.or.th/th/district-projects/made-in-srichan-1|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูล CEA เผยแพร่ปี 2566\n\n[[https://www.google.com/maps/search/?api=1&query=16.4290953,102.8363502|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/08.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -237,9 +258,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/08.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "CEA ระบุเริ่มกิจการ พ.ศ. 2498 สืบทอดสูตรกุนเชียงของครอบครัว และเข้าร่วมโครงการพัฒนาแบรนด์ Made in Srichan",
+        "history_source_url": "https://creativecity.cea.or.th/th/district-projects/made-in-srichan-1",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/08.html"
       },
-      "id": "Lydtm"
+      "id": "OLKEe"
     },
     {
       "type": "Feature",
@@ -257,7 +281,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/09.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 9 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4286959,102.8375757",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/09.jpg}}\n\nบทความสำรวจระบุจุดเริ่มต้น พ.ศ. 2513 เกี่ยวข้องกับการช่วยเหลือผู้ป่วยและงานอาสากู้ภัยของเมือง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4286959,102.8375757|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/09.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -267,9 +291,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/09.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "บทความสำรวจระบุจุดเริ่มต้น พ.ศ. 2513 เกี่ยวข้องกับการช่วยเหลือผู้ป่วยและงานอาสากู้ภัยของเมือง",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/09.html"
       },
-      "id": "Xe9jE"
+      "id": "TTGdE"
     },
     {
       "type": "Feature",
@@ -287,7 +314,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/10.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 10 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4289792,102.83762",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/10.jpg}}\n\nนำบ้านเก่าของครอบครัวมาทำคาเฟ่ ชื่อร้านมาจากปีบนโฉนดที่ดิน และเริ่มเปิดร้าน พ.ศ. 2561 ตามบทสัมภาษณ์เจ้าของ\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4289792,102.83762|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/10.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -297,9 +324,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/10.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "นำบ้านเก่าของครอบครัวมาทำคาเฟ่ ชื่อร้านมาจากปีบนโฉนดที่ดิน และเริ่มเปิดร้าน พ.ศ. 2561 ตามบทสัมภาษณ์เจ้าของ",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/10.html"
       },
-      "id": "W0jsf"
+      "id": "k40mE"
     },
     {
       "type": "Feature",
@@ -317,7 +347,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 11 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg}}\n\nบทความปี 2562 บันทึกงานกราฟฟิตีในตรอก รวมถึงภาพมังกรและเด็กหญิง สภาพและผลงานที่ยังอยู่ควรสำรวจใหม่\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/11.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -327,9 +357,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "บทความปี 2562 บันทึกงานกราฟฟิตีในตรอก รวมถึงภาพมังกรและเด็กหญิง สภาพและผลงานที่ยังอยู่ควรสำรวจใหม่",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/11.html"
       },
-      "id": "yk0yI"
+      "id": "KB39r"
     },
     {
       "type": "Feature",
@@ -347,7 +380,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/12.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 12 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4305746,102.8384082",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/12.jpg}}\n\nร้านครอบครัวหลายรุ่น บทความปี 2562 บันทึกการโม่ถั่วและต้มน้ำเต้าหู้ด้วยเตาถ่าน ชื่อร้านไม่ใช่หลักฐานอายุครบ 100 ปี\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4305746,102.8384082|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/12.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -357,9 +390,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/12.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "ร้านครอบครัวหลายรุ่น บทความปี 2562 บันทึกการโม่ถั่วและต้มน้ำเต้าหู้ด้วยเตาถ่าน ชื่อร้านไม่ใช่หลักฐานอายุครบ 100 ปี",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/12.html"
       },
-      "id": "AZU1L"
+      "id": "QfLoa"
     },
     {
       "type": "Feature",
@@ -377,7 +413,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/13.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 13 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4317797,102.840284",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/13.jpg}}\n\nสำนักงานวัดระบุว่าก่อตั้ง พ.ศ. 2368 โดยญาคูหลักคำ (พิมพ์) เป็นวัดเก่าแก่สำคัญของเมืองขอนแก่น\n\n[[https://sites.google.com/view/watsrijankhonkaen/ประวตวด|อ่านประวัติและเรื่องราวฉบับเต็ม]]\n\n[[https://www.google.com/maps/search/?api=1&query=16.4317797,102.840284|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/13.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -387,9 +423,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/13.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "สำนักงานวัดระบุว่าก่อตั้ง พ.ศ. 2368 โดยญาคูหลักคำ (พิมพ์) เป็นวัดเก่าแก่สำคัญของเมืองขอนแก่น",
+        "history_source_url": "https://sites.google.com/view/watsrijankhonkaen/ประวตวด",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/13.html"
       },
-      "id": "AkT3R"
+      "id": "0Hsv2"
     },
     {
       "type": "Feature",
@@ -407,7 +446,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 14 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นอาคารเก่าตามภาพ ไม่ยืนยันว่าโรงแรมยังเปิดหรืออาคารยังอยู่ในสภาพเดิม",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg}}\n\nอดีตโรงแรมเก่าที่บทความปี 2562 บันทึกว่าเลิกกิจการแล้ว ต้องตรวจสภาพอาคารและสถานะพื้นที่ปัจจุบันอีกครั้ง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/14.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -417,9 +456,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "อดีตโรงแรมเก่าที่บทความปี 2562 บันทึกว่าเลิกกิจการแล้ว ต้องตรวจสภาพอาคารและสถานะพื้นที่ปัจจุบันอีกครั้ง",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/14.html"
       },
-      "id": "TpSDr"
+      "id": "o2pla"
     },
     {
       "type": "Feature",
@@ -437,7 +479,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/15.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 15 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4321324,102.8368084",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/15.jpg}}\n\nร้านของฝากที่ CEA บันทึกจุดเด่นเรื่องหมูแผ่นย่างเตาถ่าน และการพัฒนาแบรนด์ร่วมกับนักออกแบบใน Made in Srichan\n\n[[https://creativecity.cea.or.th/th/district-projects/made-in-srichan-1|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูล CEA เผยแพร่ปี 2566\n\n[[https://www.google.com/maps/search/?api=1&query=16.4321324,102.8368084|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/15.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -447,9 +489,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/15.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "ร้านของฝากที่ CEA บันทึกจุดเด่นเรื่องหมูแผ่นย่างเตาถ่าน และการพัฒนาแบรนด์ร่วมกับนักออกแบบใน Made in Srichan",
+        "history_source_url": "https://creativecity.cea.or.th/th/district-projects/made-in-srichan-1",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/15.html"
       },
-      "id": "XWHSH"
+      "id": "90Dhr"
     },
     {
       "type": "Feature",
@@ -467,7 +512,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 16 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: ตำแหน่งประมาณจากภาพวาด รอยืนยันภาคสนาม ห้ามใช้เป็นพิกัดนำทางแม่นยำ\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nวิธีประมาณ: เทียบตำแหน่งปลายหมุดในภาพกับจุดอ้างอิงที่พบในแผนที่จริง ภาพเป็นผังวาดไม่ใช่แผนที่ตามมาตราส่วน จึงคลาดเคลื่อนได้มาก\nเป็นจุดอ้างอิงกลุ่มอาคาร/ถนน/ตรอก/งานศิลปะ ไม่ใช่การยืนยันทางเข้าร้านรายเดียว",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg}}\n\nจุดอ้างอิงย่านร้านตัดเสื้อในแผนที่เดิม ยังต้องเก็บประวัติช่าง ร้านแรก และช่วงเวลาที่รุ่งเรืองจากคนในซอย\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/16.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#b66c13",
           "iconClass": "Circle",
@@ -477,9 +522,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "จุดอ้างอิงย่านร้านตัดเสื้อในแผนที่เดิม ยังต้องเก็บประวัติช่าง ร้านแรก และช่วงเวลาที่รุ่งเรืองจากคนในซอย",
+        "history_source_url": "",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/16.html"
       },
-      "id": "WVj8U"
+      "id": "t5Q1c"
     },
     {
       "type": "Feature",
@@ -497,7 +545,7 @@
         "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
         "position_status": "เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม",
         "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
-        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/17.jpg}}\n\nภาพดัดแปลงด้วย AI จากรูปอ้างอิงในแผนที่ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้ เพื่อสื่อสารย่าน รายละเอียดภาพอาจคลาดเคลื่อนจากสถานที่จริง\n\nจุด 17 ตามภาพ ศรีจันทร์ CREATIVE MAP ที่ผู้ใช้ให้\nประเภท: สถานที่เดิมตามเอกสารอ้างอิง ไม่ใช่ข้อเสนอกิจกรรมใหม่\nสถานะตำแหน่ง: เทียบตำแหน่งกับรายการ Google Maps ยังไม่สำรวจภาคสนาม\nตรวจข้อมูล 28 ตุลาคม 2569\nเวลาเปิดปิด สถานะกิจการ ทางเข้า และสิทธิใช้พื้นที่ต้องสอบถามเจ้าบ้านก่อนจัดกิจกรรม\nแหล่งเทียบ: https://www.google.com/maps/search/?api=1&query=16.4314599,102.8369065\nสถานที่นี้มีหมุดเดิมในชั้นข้อมูลโครงการด้วย หมุดชั้นนี้ใช้เทียบหมายเลข 17 ของภาพ ไม่ใช่สถานที่เพิ่มอีกแห่ง",
+        "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/17.jpg}}\n\nแหล่งอาหารเก่าแก่ที่เติบโตคู่โรงภาพยนตร์ในย่าน และเป็นพื้นที่ค้าขายอาหารหลายรุ่น ตามบทความสำรวจชุมชน\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\n\n[[https://www.google.com/maps/search/?api=1&query=16.4314599,102.8369065|เปิดลิงก์เดิม — Google Maps]]\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/17.html|ดูรายละเอียดเดิมฉบับเต็ม]]",
         "_umap_options": {
           "color": "#187c83",
           "iconClass": "Circle",
@@ -507,9 +555,12 @@
         "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/17.jpg",
         "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
         "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
-        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\""
+        "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
+        "history_summary": "แหล่งอาหารเก่าแก่ที่เติบโตคู่โรงภาพยนตร์ในย่าน และเป็นพื้นที่ค้าขายอาหารหลายรุ่น ตามบทความสำรวจชุมชน",
+        "history_source_url": "https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2",
+        "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/17.html"
       },
-      "id": "J0O7d"
+      "id": "0g9lL"
     }
   ]
 }
