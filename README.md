@@ -1,5 +1,9 @@
 # ศรีจันทร์ ขอนแก่น — ร่วมเติมแลนด์มาร์ก 3 เขต
 
+[เปิดแผนที่ศรีจันทร์ 3D และวางกิจกรรม](https://loveiscomingsoon.github.io/srichan-landmarks/3d/) · [วิธีใช้และที่มาข้อมูล](3d/README.md)
+
+แผนที่ 3D มีอาคาร 146 รูปทรง หมุดเดิม 17 จุด และขอบเขตสามเขต ความสูงส่วนใหญ่เป็นค่าประมาณ แผนกิจกรรมบันทึกในเบราว์เซอร์และส่งออก/นำเข้า GeoJSON ได้
+
 ## ภาพสถานที่ 17 จุด — สีส้มและน้ำเงินคราม
 
 [ดูภาพและดาวน์โหลดแยกรายสถานที่](https://loveiscomingsoon.github.io/srichan-landmarks/images/landmarks/) · [ไฟล์ภาพ](images/landmarks/) · [ข้อมูลหมุดพร้อมรูป](srichan-creative-map-17-with-artwork.geojson)

@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-29",
+  "landmarks": 17,
+  "zones": 3,
+  "buildings": 146,
+  "height_tags": 0,
+  "level_tags": 2,
+  "defaults": 144,
+  "building_source": "https://api.openstreetmap.org/api/0.6/map?bbox=102.828,16.426,102.842,16.435",
+  "license": "OpenStreetMap © contributors, ODbL",
+  "umap": "https://umap.openstreetmap.fr/en/map/3_1471827",
+  "google_reference": "https://www.google.com/maps/search/ย่านศรีจันทร์+ขอนแก่น/@16.4287037,102.7916857,14683m/data=!3m2!1e3!4b1!5m1!1e1?entry=ttu"
+}
