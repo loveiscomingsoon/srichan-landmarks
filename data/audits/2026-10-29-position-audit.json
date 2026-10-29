@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-29",
+  "total": 17,
+  "umap_3d_match": 17,
+  "google_exact_coordinate_match": 10,
+  "pending_exact_location": 7,
+  "coordinate_changes": 0,
+  "qr_sha256": "562d17d5afc4bb84f95eb43e5449c01d8d6b01ac35b164479544b8b9e7a7fffd",
+  "rows": [
+    {
+      "number": 1,
+      "name": "01 อาคารธนาคารกรุงเทพ",
+      "coordinates": [
+        102.8324962,
+        16.4306201
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ธนาคารกรุงเทพ สาขาขอนแก่น",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E+%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4306201,102.8299213,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a23162fd24f:0x6ecc1da904fac291!8m2!3d16.4306201!4d102.8324962!16s%2Fg%2F11c5h2zzg1!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 2,
+      "name": "02 กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
+      "coordinates": [
+        102.83396,
+        16.43076
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B8%88+%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C+%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4306198,102.8221964,3296m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 3,
+      "name": "03 ถนน ซอย 5 พฤศจิกา",
+      "coordinates": [
+        102.83301,
+        16.43158
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87+%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+40000/@16.4333225,102.8294423,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a3cdc951507:0xfb9b0907fea6337e!8m2!3d16.4333225!4d102.8320172!16s%2Fg%2F1vq9jrrs!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "พบรายการถนน 5 พฤศจิกาใน Google Maps แต่พิกัดกลางถนนไม่ใช่จุดภาพเดิม จึงคงหมุดช่วงถนนโดยประมาณ รอยืนยันจุดภาคสนาม"
+    },
+    {
+      "number": 4,
+      "name": "04 อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
+      "coordinates": [
+        102.8338,
+        16.43132
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333184,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 5,
+      "name": "05 ตรอกกุญแจ",
+      "coordinates": [
+        102.83443,
+        16.43003
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333104,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 6,
+      "name": "06 ร้านชัยเชิญชิม บะหมี่เกี๊ยวหยกจัมโบ้",
+      "coordinates": [
+        102.8364604,
+        16.4297363
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ชัยเชิญชิม บะหมี่เกี๊ยวหยก",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%A1+%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%8A%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%A2%E0%B8%81/@16.4297363,102.8338855,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a24d0b144b5:0x2cf20cfa7e93abce!8m2!3d16.4297363!4d102.8364604!16s%2Fg%2F11c45454py!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 7,
+      "name": "07 วัดซิกข์ ศรีคุรุสิงห์สภา",
+      "coordinates": [
+        102.8365185,
+        16.4292234
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "วัดซิกข์ขอนแก่น",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%8B%E0%B8%B4%E0%B8%81%E0%B8%82%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4292234,102.8339436,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228b66a4be8b7d:0xbfce6c96db7d09ce!8m2!3d16.4292234!4d102.8365185!16s%2Fg%2F11n09t09t3!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 8,
+      "name": "08 ร้านกุนเชียงนายบู๊",
+      "coordinates": [
+        102.8363502,
+        16.4290953
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ร้านกุนเชียงนายบู๊",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B9%E0%B9%8A/@16.4290953,102.8337753,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a24d6574235:0xd258cd3b8ee2861c!8m2!3d16.4290953!4d102.8363502!16s%2Fg%2F1pzqbqbk0!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 9,
+      "name": "09 มูลนิธิจิตกุศลขอนแก่น",
+      "coordinates": [
+        102.8375757,
+        16.4286959
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "มูลนิธิจิตกุศลขอนแก่น เต็กก่าจีซิมเกาะ",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%81%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0/@16.4286959,102.8350008,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a25a5ad3789:0xfe38ac31d84f88a3!8m2!3d16.4286959!4d102.8375757!16s%2Fg%2F1tcxg7f2!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 10,
+      "name": "10 ร้านกาแฟ 2499",
+      "coordinates": [
+        102.83762,
+        16.4289792
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "๒ ๔ ๙ ๙ Cafe",
+      "google_url": "https://www.google.com/maps/place/%E0%B9%92+%E0%B9%94+%E0%B9%99+%E0%B9%99+Cafe/@16.4289792,102.8350451,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228b4f7c0bbe15:0x904bffeb749cfe7c!8m2!3d16.4289792!4d102.83762!16s%2Fg%2F11g4j6f8m9!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 11,
+      "name": "11 ขอนแก่น สตรีท อาร์ต",
+      "coordinates": [
+        102.83759,
+        16.42954
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97+%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4289789,102.8273202,3296m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 12,
+      "name": "12 ร้านน้ำเต้าหู้ 100 ปี",
+      "coordinates": [
+        102.8384082,
+        16.4305746
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ร้านน้ำเต้าหู้ 100 ปี",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B9%E0%B9%89+100+%E0%B8%9B%E0%B8%B5/@16.4305746,102.8358333,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a25159c3e65:0xb4f442ad87e309a8!8m2!3d16.4305746!4d102.8384082!16s%2Fg%2F11c6ddsmdy!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 13,
+      "name": "13 วัดศรีจันทร์ พระอารามหลวง",
+      "coordinates": [
+        102.840284,
+        16.4317797
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "วัดศรีจันทร์ พระอารามหลวง",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87/@16.4317797,102.8377091,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a2561986ccf:0x56ba586469d1239a!8m2!3d16.4317797!4d102.840284!16s%2Fg%2F1vyj_zwq!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 14,
+      "name": "14 ตึกโรงแรมแกรนด์โฮเต็ล",
+      "coordinates": [
+        102.83876,
+        16.43195
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%82%E0%B8%AE%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A5+%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4317794,102.8299842,3295m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 15,
+      "name": "15 ร้านหมูแผ่นย่างถ่าน ตั้ง ฮะ เฮียง",
+      "coordinates": [
+        102.8368084,
+        16.4321324
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ร้านตั้งฮะเฮียง กุนเชียง ของฝาก",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AE%E0%B8%B0%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B8%A2%E0%B8%87+%E0%B8%81%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87+%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9D%E0%B8%B2%E0%B8%81/@16.4321324,102.8342335,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228bf96372e2a3:0xfb7a8d7fc301f65c!8m2!3d16.4321324!4d102.8368084!16s%2Fg%2F11h07gb80j!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    },
+    {
+      "number": 16,
+      "name": "16 ซอยร้านตัดเสื้อร่วมจิตร",
+      "coordinates": [
+        102.83724,
+        16.4329
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "",
+      "google_url": "https://www.google.com/maps/search/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD+%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4321324,102.8342335,824m/data=!3m2!1e3!4b1!5m1!1e1",
+      "result": "รอยืนยันจุดเฉพาะ",
+      "distance_m": null,
+      "note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม"
+    },
+    {
+      "number": 17,
+      "name": "17 ตลาดโต้รุ่งร่วมจิตร",
+      "coordinates": [
+        102.8369065,
+        16.4314599
+      ],
+      "umap_3d_match_before": true,
+      "google_name": "ตลาดโต้รุ่งร่วมจิตร",
+      "google_url": "https://www.google.com/maps/place/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%82%E0%B8%95%E0%B9%89%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3/@16.4314599,102.8343316,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a24d654b19f:0x78b11d668f021053!8m2!3d16.4314599!4d102.8369065!16s%2Fg%2F11g887_4ll!5m1!1e1",
+      "result": "พิกัดตรงกัน",
+      "distance_m": 0,
+      "note": "พิกัดตรงกับรายการ Google Maps ตรวจวันที่ 29 ตุลาคม 2569; ยังไม่ยืนยันทางเข้าและสภาพปัจจุบันภาคสนาม"
+    }
+  ]
+}
