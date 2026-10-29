@@ -5,11 +5,11 @@
 <meta name="theme-color" content="#173b62">
 <title>ศรีจันทร์ 3D — แผนที่วางกิจกรรม</title>
 <meta name="description" content="สำรวจศรีจันทร์สามมิติ พร้อม 17 สถานที่และขอบเขต 3 เขต ทดลองวางกิจกรรมและส่งออกแผนงาน">
-<link rel="stylesheet" href="vendor/maplibre-gl.css"><link rel="stylesheet" href="style.css?v=20261029-4">
-<script defer src="vendor/maplibre-gl.js"></script><script defer src="app.js?v=20261029-4"></script>
+<link rel="stylesheet" href="vendor/maplibre-gl.css"><link rel="stylesheet" href="style.css?v=20261029-5">
+<script defer src="vendor/maplibre-gl.js"></script><script defer src="app.js?v=20261029-5"></script>
 </head>
 <body>
-<header><div class="brand"><span class="logo">ศรี</span><div><h1>ศรีจันทร์ <b>3D</b></h1><p>เทศกาล “สีสัน ศรีจันทร์” · แผนที่วางกิจกรรม</p></div></div><nav><button id="panelToggle" aria-expanded="true">สถานที่ / เครื่องมือ</button><a href="https://umap.openstreetmap.fr/en/map/3_1471827" target="_blank" rel="noopener">แผนที่ร่วม ↗</a></nav></header>
+<header><div class="brand"><span class="logo">ศรี</span><div><h1>ศรีจันทร์ <b>3D</b></h1><p>เทศกาล “สีสัน ศรีจันทร์” · แผนที่วางกิจกรรม</p></div></div><nav><a href="compat.html">โหมดเบา</a><button id="panelToggle" aria-expanded="true">สถานที่ / เครื่องมือ</button><a href="https://umap.openstreetmap.fr/en/map/3_1471827" target="_blank" rel="noopener">แผนที่ร่วม ↗</a></nav></header>
 <main><div id="map" aria-label="แผนที่สามมิติย่านศรีจันทร์"></div>
 <aside id="panel" class="panel"><div class="eyebrow">SRICHAN DISTRICT</div><h2>ย่านเก่า เรื่องราวใหม่</h2><p class="intro">หมุนมุมมอง สำรวจสถานที่<br>แล้วลองวางกิจกรรมของเรา</p>
 <div class="tabs" role="tablist" aria-label="เลือกโหมด"><button id="exploreTab" role="tab" aria-selected="true">สำรวจ 17 จุด</button><button id="planTab" role="tab" aria-selected="false">วางกิจกรรม <span id="planCount">0</span></button></div>
@@ -21,7 +21,7 @@
 <div id="modeBar" hidden><span id="modeHint"></span><button id="finishRoute" hidden>จบเส้นทาง</button><button id="cancelMode">ยกเลิก</button></div>
 <div id="status" role="status">กำลังเปิดแผนที่…</div>
 <aside id="detail" class="detail" hidden><button id="closeDetail" class="close" aria-label="ปิดรายละเอียด">×</button><div id="detailContent"></div></aside>
-<div id="failure" hidden><h2>เปิดมุมมองสามมิติไม่ได้</h2><p id="failureMessage">ลองเปิดด้วย Chrome, Safari หรือ Edge รุ่นปัจจุบันที่รองรับ WebGL</p><a href="https://umap.openstreetmap.fr/en/map/3_1471827">เปิดแผนที่สองมิติพร้อมรูปและประวัติ ↗</a></div>
+<div id="failure" hidden><h2>เปิดมุมมองสามมิติไม่ได้</h2><p id="failureMessage">ลองเปิดด้วย Chrome, Safari หรือ Edge รุ่นปัจจุบันที่รองรับ WebGL</p><a href="compat.html">เปิด 3D โหมดเบา ไม่ใช้ WebGL ↗</a><a href="https://umap.openstreetmap.fr/en/map/3_1471827">เปิดแผนที่สองมิติพร้อมรูปและประวัติ ↗</a></div>
 </main>
 <dialog id="activityDialog"><form id="activityForm"><h2 id="formHeading">จุดกิจกรรมใหม่</h2><p id="pickedLocation" class="small"></p><label>ชื่อกิจกรรม<input id="activityName" required maxlength="120" placeholder="เช่น กินข้าวกลางบ้าน"></label><label>ประเภท<select id="activityCategory"><option>พิธีและชุมชน</option><option>เวที / การแสดง</option><option>อาหาร / ตลาด</option><option>จุดบริการ</option><option>อื่น ๆ</option></select></label><label>รายละเอียด<textarea id="activityNote" maxlength="2000" rows="3" placeholder="แนวคิด ผู้ประสานงาน หรือสิ่งที่ต้องสำรวจ"></textarea></label><div class="fileActions"><button type="button" id="cancelForm">ยกเลิก</button><button class="primary" type="submit">บันทึกจุด</button></div></form></dialog>
 <div id="toast" role="status" hidden></div>
