@@ -8,3 +8,5 @@
 .search-kind{min-width:28px;text-align:center;color:#b26930;font-size:20px}.places{content-visibility:auto}
 
 @media(min-width:651px){.places{max-height:360px;overflow:auto}}.pin.search-pin{background:#ed6b2a;width:36px;height:36px;font-size:23px;z-index:3;border-width:3px}
+
+main{height:calc(100vh - 78px);height:calc(100dvh - 78px)}@media(max-width:650px){main{height:calc(100vh - 72px);height:calc(100dvh - 72px)}}@media(pointer:coarse){button,.fileButton{min-height:42px}.pin{min-width:32px;min-height:32px}.close{min-width:42px;min-height:42px}}#deviceHelp p{font-size:14px}#deviceHelp{max-height:85vh;overflow:auto;padding-bottom:max(24px,env(safe-area-inset-bottom))}
