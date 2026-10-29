@@ -17,7 +17,8 @@
         "source_url": "https://www.openstreetmap.org/node/381897545",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สถานีขนส่งจังหวัดขอนแก่นแห่งที่ 2 Khon Kaen Van Terminal สถานีขนส่งจังหวัดขอนแก่นแห่งที่ 2"
       }
     },
     {
@@ -36,7 +37,8 @@
         "source_url": "https://www.openstreetmap.org/node/381897582",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สถานีดับเพลิง สถานีดับเพลิง"
       }
     },
     {
@@ -55,7 +57,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753098",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -75,7 +78,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนกลางเมือง"
+        "addr:street": "ถนนกลางเมือง",
+        "search_terms": "ไทย เมืองขอนแก่น 40000 ขอนแก่น ถนนกลางเมือง ในเมือง สถานีตำรวจภูธรเมืองขอนแกน Khon Kaen Police Station สถานีตำรวจภูธรเมืองขอนแกน ตำรวจแห่งชาติ Royal Thai Police RTP ตำรวจแห่งชาติ Q1831399"
       }
     },
     {
@@ -95,7 +99,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66-43-221600;+66-43-222433"
+        "phone": "+66-43-221600;+66-43-222433",
+        "search_terms": "โรงแรมสวัสดี Sawasdee Hotel โรงแรมสวัสดี"
       }
     },
     {
@@ -114,7 +119,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753123",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารธนชาต Thanachart Bank ธนาคารธนชาต"
       }
     },
     {
@@ -133,7 +139,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753128",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Yamaha Q158888 เมืองพลฉั่วเต็กไถ่ Muang Phon Chua Tek Thai เมืองพลฉั่วเต็กไถ่"
       }
     },
     {
@@ -152,7 +159,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753135",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 เอส. พี. มอเตอร์ S. P. Motor เอส. พี. มอเตอร์"
       }
     },
     {
@@ -173,7 +181,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Klang Mueang Road",
-        "addr:housenumber": "54/14"
+        "addr:housenumber": "54/14",
+        "search_terms": "TH Mueang Khon Kaen 54/14 40000 Khon Kaen Klang Mueang Road Nai Mueang คลังยา Khlang Ya คลังยา"
       }
     },
     {
@@ -192,7 +201,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753142",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "La Bicycle"
       }
     },
     {
@@ -213,7 +223,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+66-43-333056",
-        "website": "http://www.chaipat-hotel.com/"
+        "website": "http://www.chaipat-hotel.com/",
+        "search_terms": "โรงแรมชัยพัช Chaipat Hotel โรงแรมชัยพัช"
       }
     },
     {
@@ -235,7 +246,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "09:00-20:00",
         "addr:street": "ถนนกลางเมือง",
-        "addr:housenumber": "62/54-57"
+        "addr:housenumber": "62/54-57",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 62/54-57 40000 ขอนแก่น Khon Kaen ถนนกลางเมือง Klang Mueang ในเมือง Nai Mueang เซนโทซ่า Sentosa เซนโทซ่า"
       }
     },
     {
@@ -254,7 +266,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753169",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Yamaha Q158888 แก่นนครยานยนต์ Kaen Nakhon Yan Yon แก่นนครยานยนต์"
       }
     },
     {
@@ -273,7 +286,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753170",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงแรมวิลล่า Hotel Villa โรงแรมวิลล่า"
       }
     },
     {
@@ -292,7 +306,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753174",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 เอส. พี. มอเตอร์ S. P. Motor เอส. พี. มอเตอร์"
       }
     },
     {
@@ -313,7 +328,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+66(0) 4322 0400-14",
-        "website": "http://www.charoenthanikhonkaen.com"
+        "website": "http://www.charoenthanikhonkaen.com",
+        "search_terms": "โรงแรมเจริญธานีขอนแกน Charoen Thani Khon Kaen โรงแรมเจริญธานีขอนแกน"
       }
     },
     {
@@ -333,7 +349,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66-43-236888"
+        "phone": "+66-43-236888",
+        "search_terms": "โรงแรมวีวิช Vwish Hotel โรงแรมวีวิช"
       }
     },
     {
@@ -353,7 +370,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Sa 09:30-20:00, Su 09:30-16:00"
+        "opening_hours": "Mo-Sa 09:30-20:00, Su 09:30-16:00",
+        "search_terms": "คลินิกทันตกรรม อัจฉรา-สุทิน A&S Zahnarztpraxis A&S Dental Clinic คลินิกทันตกรรม อัจฉรา-สุทิน"
       }
     },
     {
@@ -373,7 +391,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Klang Mueang Road"
+        "addr:street": "Klang Mueang Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Klang Mueang Road Nai Mueang ธนาคารอิสลามแห่งประเทศไทย Islamic Bank of Thailand ธนาคารอิสลามแห่งประเทศไทย ธนาคารอิสลามแห่งประเทศไทย Islamic Bank of Thailand ธนาคารอิสลามแห่งประเทศไทย"
       }
     },
     {
@@ -392,7 +411,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753202",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารออมสิน Government Savings Bank ธนาคารออมสิน Q6579041 ธนาคารออมสิน Government Savings Bank ธนาคารออมสิน"
       }
     },
     {
@@ -411,7 +431,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753217",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 นำชัยมอเตอร์เซลส์ Nam Chai Motor Sales นำชัยมอเตอร์เซลส์"
       }
     },
     {
@@ -430,7 +451,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753218",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารกสิกรไทย Kasikornbank ธนาคารกสิกรไทย Q276557 ธนาคารกสิกรไทย Kasikornbank ธนาคารกสิกรไทย"
       }
     },
     {
@@ -449,7 +471,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753221",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -469,7 +492,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนกลางเมือง"
+        "addr:street": "ถนนกลางเมือง",
+        "search_terms": "ไทย เมืองขอนแก่น 40000 ขอนแก่น ถนนกลางเมือง ในเมือง ไปรษณีย์ขอนแกน Khon Kaen Post Office ไปรษณีย์ขอนแกน"
       }
     },
     {
@@ -488,7 +512,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753229",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Lighthouse"
       }
     },
     {
@@ -510,7 +535,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 07:00-00:00",
         "addr:street": "ถนนศรีจันทร์",
-        "addr:housenumber": "280"
+        "addr:housenumber": "280",
+        "search_terms": "TH เมืองขอนแก่น Muang Khon Kaen 280 40000 ขอนแก่น Khon Kaen ถนนศรีจันทร์ Srichan Road ในเมือง Nai Muang ซันไชน์ดรักส์ Sunshine Drugs ซันไชน์ดรักส์"
       }
     },
     {
@@ -529,7 +555,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753243",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -548,7 +575,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753245",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Joe Mobile Joe Mobile โจโมไบล์"
       }
     },
     {
@@ -567,7 +595,8 @@
         "source_url": "https://www.openstreetmap.org/node/683753247",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -586,7 +615,8 @@
         "source_url": "https://www.openstreetmap.org/node/705719751",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารไทยพาณิชย์ Siam Commercial Bank ธนาคารไทยพาณิชย์ Q2038986 ธนาคารไทยพาณิชย์ Siam Commercial Bank ธนาคารไทยพาณิชย์"
       }
     },
     {
@@ -605,7 +635,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681810",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ศูนย์รวนสินค้า OTOP ภาคอีสาน OTOP Center ศูนย์รวนสินค้า OTOP ภาคอีสาน"
       }
     },
     {
@@ -624,7 +655,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681812",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารอาคารสงเคราะห์ GH Bank ธนาคารอาคารสงเคราะห์"
       }
     },
     {
@@ -643,7 +675,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681818",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ไทยวารี Thai Wari ไทยวารี"
       }
     },
     {
@@ -662,7 +695,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681825",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "New Holland Agriculture"
       }
     },
     {
@@ -681,7 +715,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681827",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารกรุงเทพ Bangkok Bank ธนาคารกรุงเทพ Q806483 ธนาคารกรุงเทพ Bangkok Bank ธนาคารกรุงเทพ"
       }
     },
     {
@@ -700,7 +735,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681836",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สายป่าน Sai Pan สายป่าน"
       }
     },
     {
@@ -719,7 +755,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681864",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 ฮอนด้า Honda ฮอนด้า"
       }
     },
     {
@@ -738,7 +775,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681866",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Beauty Salon"
       }
     },
     {
@@ -757,7 +795,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681887",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 ฮอนด้า Honda ฮอนด้า"
       }
     },
     {
@@ -777,7 +816,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:housenumber": "7/5"
+        "addr:housenumber": "7/5",
+        "search_terms": "Mueang Khon Kaen 7/5 40000 Khon Kaen Nai Mueang Blues Bar & Grill Blue's Bar"
       }
     },
     {
@@ -796,7 +836,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681900",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ไอทีซิตี้ IT City ไอทีซิตี้"
       }
     },
     {
@@ -815,7 +856,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681915",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Krungsri กรุงศรี Bank of Ayudhya กรุงศรี Q782537 กรุงศรี Bank of Ayudhya กรุงศรี"
       }
     },
     {
@@ -835,7 +877,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66-43-227745"
+        "phone": "+66-43-227745",
+        "search_terms": "โรงแรม แกรนด์ลีโอ Grand Leo Hotel โรงแรม แกรนด์ลีโอ"
       }
     },
     {
@@ -854,7 +897,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681946",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารกรุงไทย Krung Thai Bank ธนาคารกรุงไทย Q962865 ธนาคารกรุงไทย Krung Thai Bank ธนาคารกรุงไทย"
       }
     },
     {
@@ -873,7 +917,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681964",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงแรมแก่นนคร Kaennakorn Hotel โรงแรมแก่นนคร"
       }
     },
     {
@@ -892,7 +937,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681983",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Honda Q9584 ฮอนด้า Honda ฮอนด้า"
       }
     },
     {
@@ -911,7 +957,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681988",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารกรุงไทย Krung Thai Bank ธนาคารกรุงไทย Q962865 ธนาคารกรุงไทย Krung Thai Bank ธนาคารกรุงไทย"
       }
     },
     {
@@ -930,7 +977,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681991",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Eric's Bar"
       }
     },
     {
@@ -952,7 +1000,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "11:00-23:45",
         "addr:street": "ถนนชีท่าขอน",
-        "addr:housenumber": "90/586"
+        "addr:housenumber": "90/586",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 90/586 40000 ขอนแก่น Khon Kaen ถนนชีท่าขอน Chi Tha Khon Road ในเมือง Nai Mueang 4 VIP ส้มตำ Club VIP Somtum Club"
       }
     },
     {
@@ -971,7 +1020,8 @@
         "source_url": "https://www.openstreetmap.org/node/711681996",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เพาเวอร์ โซน Power Zone เพาเวอร์ โซน"
       }
     },
     {
@@ -990,7 +1040,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682013",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Tops Tops ท็อปส์ Q7825140 Tops Tops ท็อปส์"
       }
     },
     {
@@ -1009,7 +1060,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682014",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "แยงซีเกียง Yaeng Si Kiang แยงซีเกียง"
       }
     },
     {
@@ -1028,7 +1080,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682039",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ซีไอเอ็มบี ไทย CIMB Thai ซีไอเอ็มบี ไทย"
       }
     },
     {
@@ -1047,7 +1100,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682057",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โฆษะ เบียร์ การ์เด้น Kosa Beer Garden โฆษะ เบียร์ การ์เด้น"
       }
     },
     {
@@ -1066,7 +1120,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682069",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สำนักงานเทศบาลนครขอนแก่น Khon Kaen Municipality Office สำนักงานเทศบาลนครขอนแก่น"
       }
     },
     {
@@ -1085,7 +1140,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682080",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Yamaha Q158888 ยามาฮ่า Yamaha ยามาฮ่า"
       }
     },
     {
@@ -1104,7 +1160,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682083",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Lucky Bar Lucky Bar"
       }
     },
     {
@@ -1123,7 +1180,8 @@
         "source_url": "https://www.openstreetmap.org/node/711682093",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ขอนแก่นไทยแลนด์ แผนกคอมพิวเตอร์ Khon Kaen Thailand, Computer Section ขอนแก่นไทยแลนด์ แผนกคอมพิวเตอร์"
       }
     },
     {
@@ -1142,7 +1200,8 @@
         "source_url": "https://www.openstreetmap.org/node/715076969",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เรือนดอกไม้ Flower House เรือนดอกไม้"
       }
     },
     {
@@ -1161,7 +1220,8 @@
         "source_url": "https://www.openstreetmap.org/node/715076971",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Mueang Khon Kaen 40000 Khon Kaen Nai Mueang Didines Didines"
       }
     },
     {
@@ -1180,7 +1240,8 @@
         "source_url": "https://www.openstreetmap.org/node/728293781",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ร้านนำสิน Numsin ร้านนำสิน"
       }
     },
     {
@@ -1199,7 +1260,8 @@
         "source_url": "https://www.openstreetmap.org/node/728293848",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "มาราธอน มิวสิค Marathon Music มาราธอน มิวสิค"
       }
     },
     {
@@ -1221,7 +1283,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 11:30-14:00,17:00-21:30",
         "phone": "+6643239958",
-        "website": "http://www.foodkk.com/"
+        "website": "http://www.foodkk.com/",
+        "search_terms": "หน้าไม้ Na Mai หน้าไม้"
       }
     },
     {
@@ -1241,7 +1304,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66-43-243174"
+        "phone": "+66-43-243174",
+        "search_terms": "โรงแรมภูอินน์ Phu Inn Hotel โรงแรมภูอินน์"
       }
     },
     {
@@ -1260,7 +1324,8 @@
         "source_url": "https://www.openstreetmap.org/node/737304635",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ศรีคุรุสิงห์สภา Sri Guru Singh Sabha ศรีคุรุสิงห์สภา"
       }
     },
     {
@@ -1279,7 +1344,8 @@
         "source_url": "https://www.openstreetmap.org/node/746363964",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "คลินิกศัลยกรรมตกแต่ง น.พ. บวรศิลป์ Dr. Borwornsilp Cosmetic Surgery Clinic คลินิกศัลยกรรมตกแต่ง น.พ. บวรศิลป์"
       }
     },
     {
@@ -1300,7 +1366,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Lang Muang Road",
-        "addr:housenumber": "177"
+        "addr:housenumber": "177",
+        "search_terms": "TH Muang Khon Kaen 177 40000 Khon Kaen Lang Muang Road Nai Mueang ชัยมหาเบเกอรี & ซูเปอร์มาร์เก็ต Chaimaha Bakery & Supermarket ชัยมหาเบเกอรี & ซูเปอร์มาร์เก็ต"
       }
     },
     {
@@ -1319,7 +1386,8 @@
         "source_url": "https://www.openstreetmap.org/node/746363977",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "TH โรงเรียนสอนศาสนาอิสลามขอนแก่น Khon Kaen Islamic School โรงเรียนสอนศาสนาอิสลามขอนแก่น"
       }
     },
     {
@@ -1338,7 +1406,8 @@
         "source_url": "https://www.openstreetmap.org/node/747067256",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "มูลนิธิจิตกุศลขอนแก่น (ซุ่นซิมเซี่ยงตึ๊ง) Jit Kusol Khon Kaen Foundation มูลนิธิจิตกุศลขอนแก่น (ซุ่นซิมเซี่ยงตึ๊ง)"
       }
     },
     {
@@ -1357,7 +1426,8 @@
         "source_url": "https://www.openstreetmap.org/node/761289239",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บ้านเภสัชกร Baan Bhesajakorn บ้านเภสัชกร"
       }
     },
     {
@@ -1376,7 +1446,8 @@
         "source_url": "https://www.openstreetmap.org/node/761289385",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ฟาร์มาคอน (ท่งจี่ตึ้ง) Pharmacon (Thong Ji Tueng) ฟาร์มาคอน (ท่งจี่ตึ้ง)"
       }
     },
     {
@@ -1395,7 +1466,8 @@
         "source_url": "https://www.openstreetmap.org/node/761289388",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "พระคริสตธรรมภาคตะวันออกเฉียงเหนือ Northeastern Bible Seminary พระคริสตธรรมภาคตะวันออกเฉียงเหนือ"
       }
     },
     {
@@ -1414,7 +1486,8 @@
         "source_url": "https://www.openstreetmap.org/node/763166218",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "มาติโก้ทัวร์แอนด์เอกซ์เพรส Matico Tour & Express มาติโก้ทัวร์แอนด์เอกซ์เพรส"
       }
     },
     {
@@ -1433,7 +1506,8 @@
         "source_url": "https://www.openstreetmap.org/node/763166225",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เคี้ยงมินิมาร์ท Khiang Minimart เคี้ยงมินิมาร์ท"
       }
     },
     {
@@ -1453,7 +1527,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang ข้าวต้มแต้จิ๋ว Khao Tom Teochew ข้าวต้มแต้จิ๋ว"
       }
     },
     {
@@ -1472,7 +1547,8 @@
         "source_url": "https://www.openstreetmap.org/node/767185704",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สถานธนานุบาล 1 Municipal Pawnshop สถานธนานุบาล 1"
       }
     },
     {
@@ -1492,7 +1568,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang คาร์แคร์กับกาแฟ Carcare & Coffee คาร์แคร์กับกาแฟ"
       }
     },
     {
@@ -1512,7 +1589,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang ทันตแพทย์ดนัย-ศรีรัตน์ Dr. Danai - Srirat ทันตแพทย์ดนัย-ศรีรัตน์"
       }
     },
     {
@@ -1531,7 +1609,8 @@
         "source_url": "https://www.openstreetmap.org/node/767880873",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Be First Be First บีเฟิร์สต์"
       }
     },
     {
@@ -1550,7 +1629,8 @@
         "source_url": "https://www.openstreetmap.org/node/767880879",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เจอกัน ฟูด & ดริงก์ Choe Kan Food & Drink เจอกัน ฟูด & ดริงก์"
       }
     },
     {
@@ -1569,7 +1649,8 @@
         "source_url": "https://www.openstreetmap.org/node/768551860",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เทคแคร์มินิมาร์ท Take Care Minimart เทคแคร์มินิมาร์ท"
       }
     },
     {
@@ -1589,7 +1670,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang เมี่ยงทอดอุดร Miang Thod Udon เมี่ยงทอดอุดร"
       }
     },
     {
@@ -1610,7 +1692,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+66-43-321562",
-        "website": "https://www.dmahotel-khonkaen.com/"
+        "website": "https://www.dmahotel-khonkaen.com/",
+        "search_terms": "ดีมาโฮเต็ล D'Ma Hotel ดีมาโฮเต็ล"
       }
     },
     {
@@ -1629,7 +1712,8 @@
         "source_url": "https://www.openstreetmap.org/node/769984332",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บ้านไม้คาร์แคร์ Baan Mai Car Care บ้านไม้คาร์แคร์"
       }
     },
     {
@@ -1648,7 +1732,8 @@
         "source_url": "https://www.openstreetmap.org/node/773662060",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "คลินิกจัดฟันบ้านฟันสวย Baan Fan Suay Dentistry คลินิกจัดฟันบ้านฟันสวย"
       }
     },
     {
@@ -1667,7 +1752,8 @@
         "source_url": "https://www.openstreetmap.org/node/773662065",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บ้านยาพรพัฒน์ Baan Yaa Pornpat บ้านยาพรพัฒน์"
       }
     },
     {
@@ -1686,7 +1772,8 @@
         "source_url": "https://www.openstreetmap.org/node/784666878",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงแรมเป็นหนึ่ง Pen Nueng Hotel โรงแรมเป็นหนึ่ง"
       }
     },
     {
@@ -1705,7 +1792,8 @@
         "source_url": "https://www.openstreetmap.org/node/1102988648",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โฆษะ สเต็ก เฮ้าส์ Kosa Steak House โฆษะ สเต็ก เฮ้าส์"
       }
     },
     {
@@ -1724,7 +1812,8 @@
         "source_url": "https://www.openstreetmap.org/node/1201648730",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เจ้าพ่อเกษม Chao Pho Kasem เจ้าพ่อเกษม"
       }
     },
     {
@@ -1743,7 +1832,8 @@
         "source_url": "https://www.openstreetmap.org/node/1202912736",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เล้งเย็นตาโฟ Leng Yen Tofu เล้งเย็นตาโฟ"
       }
     },
     {
@@ -1762,7 +1852,8 @@
         "source_url": "https://www.openstreetmap.org/node/1226778776",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อนุสาวรีย์ประชาธิปไตย Democracy Monument อนุสาวรีย์ประชาธิปไตย"
       }
     },
     {
@@ -1784,7 +1875,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su,PH 10:30-22:00",
         "phone": "+66815927119;+6643239275",
-        "website": "http://www.5starsfood.net/"
+        "website": "http://www.5starsfood.net/",
+        "search_terms": "5 ดาว ราชาโต๊ะจีน 5 Stars Food"
       }
     },
     {
@@ -1803,7 +1895,8 @@
         "source_url": "https://www.openstreetmap.org/node/1237110627",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "พระแม่ธรณี Phra Mae Thorani"
       }
     },
     {
@@ -1822,7 +1915,8 @@
         "source_url": "https://www.openstreetmap.org/node/1237110634",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ท้าวมหาพรหม ท้าวกบิลพรหม พระราหู Thao Mahaphrom Thao Kabin Phonhom Phra Rahu"
       }
     },
     {
@@ -1841,7 +1935,8 @@
         "source_url": "https://www.openstreetmap.org/node/1237110656",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "พระศิวะ พระอุมาเทวี พระพิฆเนศ Phra Siwa Phra U Ma Thewi Phra Phikkhanet"
       }
     },
     {
@@ -1860,7 +1955,8 @@
         "source_url": "https://www.openstreetmap.org/node/1237124245",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ข้าวต้ม ก๊ก 24 น. Kok 24 hr Boiled Rice ข้าวต้ม ก๊ก 24 น."
       }
     },
     {
@@ -1879,7 +1975,8 @@
         "source_url": "https://www.openstreetmap.org/node/1238623483",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เฮงง่วนเฮียง Heng Nguan Hiang เฮงง่วนเฮียง"
       }
     },
     {
@@ -1898,7 +1995,8 @@
         "source_url": "https://www.openstreetmap.org/node/1238623496",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สหมิตรขอนแก่น (2005) Sahamit Khon Kaen (2005) สหมิตรขอนแก่น (2005)"
       }
     },
     {
@@ -1919,7 +2017,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนหน้าเมือง",
-        "addr:housenumber": "39/6"
+        "addr:housenumber": "39/6",
+        "search_terms": "TH เมืองขอนแก่น Muang Khon Kaen 39/6 40000 ขอนแก่น Khon Kaen ถนนหน้าเมือง Na Muang Road ในเมือง Nai Muang คลินิกเวชกรรมหน้าเมือง Na Muang Medical Clinic คลินิกเวชกรรมหน้าเมือง"
       }
     },
     {
@@ -1940,7 +2039,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+6643236266;+6643334459",
-        "website": "http://www.cspaint.co.th"
+        "website": "http://www.cspaint.co.th",
+        "search_terms": "เจริญแสงพานิช เพ้นท์ Charoensang Panich Paint เจริญแสงพานิช เพ้นท์"
       }
     },
     {
@@ -1959,7 +2059,8 @@
         "source_url": "https://www.openstreetmap.org/node/1238623524",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ร่งแสงขอนแก่น Rungsang Khon Kaen รุ่งแสงขอนแก่น"
       }
     },
     {
@@ -1978,7 +2079,8 @@
         "source_url": "https://www.openstreetmap.org/node/1248304852",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ชัยรัตนธรรมอิเล็กตริก Chairattanatham Electric ชัยรัตนธรรมอิเล็กตริก"
       }
     },
     {
@@ -1997,7 +2099,8 @@
         "source_url": "https://www.openstreetmap.org/node/1248304901",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บุปผามาดา Buppha Mada บุปผามาดา"
       }
     },
     {
@@ -2016,7 +2119,8 @@
         "source_url": "https://www.openstreetmap.org/node/1248304902",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อภิภัทรไลท์ติ้ง Aphiphat Lighting อภิภัทรไลท์ติ้ง"
       }
     },
     {
@@ -2035,7 +2139,8 @@
         "source_url": "https://www.openstreetmap.org/node/1252261821",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ญาพ่อเซียงแก้ว Ya Pho Siang Kaeo"
       }
     },
     {
@@ -2054,7 +2159,8 @@
         "source_url": "https://www.openstreetmap.org/node/1254056943",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "รุมตอม Rumtorm รุมตอม"
       }
     },
     {
@@ -2073,7 +2179,8 @@
         "source_url": "https://www.openstreetmap.org/node/1254056950",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ต้อง Tong ต้อง"
       }
     },
     {
@@ -2092,7 +2199,8 @@
         "source_url": "https://www.openstreetmap.org/node/1257625188",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ฝันดี ซิทตี้ วิว Fan Di City View ฝันดี ซิทตี้ วิว"
       }
     },
     {
@@ -2111,7 +2219,8 @@
         "source_url": "https://www.openstreetmap.org/node/1277097965",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ครัวนายตุ๋ย Nai Tui Cuisine ครัวนายตุ๋ย"
       }
     },
     {
@@ -2130,7 +2239,8 @@
         "source_url": "https://www.openstreetmap.org/node/1277097975",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Coconut Restaurant Coconut Restaurant โคโคนัท"
       }
     },
     {
@@ -2151,7 +2261,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+6643235800;+66891393919",
-        "website": "http://www.tamarindkhonkaen.com/"
+        "website": "http://www.tamarindkhonkaen.com/",
+        "search_terms": "Tamarind Residences"
       }
     },
     {
@@ -2170,7 +2281,8 @@
         "source_url": "https://www.openstreetmap.org/node/1279102771",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อนันต์เบเกอรี่ Anan Bakery อนันต์เบเกอรี่"
       }
     },
     {
@@ -2189,7 +2301,8 @@
         "source_url": "https://www.openstreetmap.org/node/1279240751",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "หอพระ Buddha Image หอพระ"
       }
     },
     {
@@ -2208,7 +2321,8 @@
         "source_url": "https://www.openstreetmap.org/node/1279240770",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงอาหาร Cafeteria โรงอาหาร"
       }
     },
     {
@@ -2227,7 +2341,8 @@
         "source_url": "https://www.openstreetmap.org/node/1298310997",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "U-Bar U-Bar ยูบาร์"
       }
     },
     {
@@ -2246,7 +2361,8 @@
         "source_url": "https://www.openstreetmap.org/node/1299490637",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อาเข่ง Ar Kheng อาเข่ง"
       }
     },
     {
@@ -2265,7 +2381,8 @@
         "source_url": "https://www.openstreetmap.org/node/1299490638",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "แว่นท็อปเจริญ แว่นท็อปเจริญ Q62391732 แว่นท็อปเจริญ Top Charoen แว่นท็อปเจริญ"
       }
     },
     {
@@ -2284,7 +2401,8 @@
         "source_url": "https://www.openstreetmap.org/node/1299490640",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อรพินเบเกอรี่ Oraphin Bakery อรพินเบเกอรี่"
       }
     },
     {
@@ -2303,7 +2421,8 @@
         "source_url": "https://www.openstreetmap.org/node/1299490642",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เอกชัยเบเกอรี่ Ekachai Bakery เอกชัยเบเกอรี่"
       }
     },
     {
@@ -2323,7 +2442,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang ปังไหน..อ่ะ? Pung-Nai..Ah? ปังไหน..อ่ะ?"
       }
     },
     {
@@ -2344,7 +2464,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+66-43-320320",
-        "website": "https://www.kosahotel.com/"
+        "website": "https://www.kosahotel.com/",
+        "search_terms": "โรงแรมโฆษะ Kosa Hotel"
       }
     },
     {
@@ -2363,7 +2484,8 @@
         "source_url": "https://www.openstreetmap.org/node/1594856927",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ประภาสแกลเลอรี่ Prabhas Gallery ประภาสแกลเลอรี่"
       }
     },
     {
@@ -2382,7 +2504,8 @@
         "source_url": "https://www.openstreetmap.org/node/1653918201",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ก๋วยเตี๋ยวเนื้อน่องลาย Nong Lai Beef Noodle ก๋วยเตี๋ยวเนื้อน่องลาย"
       }
     },
     {
@@ -2402,7 +2525,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang สถานปฏิบัติการเภสัชกรรมชุมชน 3 KKU Community Pharmacy สถานปฏิบัติการเภสัชกรรมชุมชน 3"
       }
     },
     {
@@ -2422,7 +2546,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang คลินิกเทคนิคการแพทย์และกายภาพบำบัด KKU Medical Technology and Physical Therapy Clinic คลินิกเทคนิคการแพทย์และกายภาพบำบัด"
       }
     },
     {
@@ -2442,7 +2567,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang คลินิกทันตกรรมพิเศษในเมือง KKU Special Dental Clinic @ Downtown คลินิกทันตกรรมพิเศษในเมือง"
       }
     },
     {
@@ -2462,7 +2588,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Klang Mueang Road"
+        "addr:street": "Klang Mueang Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Klang Mueang Road Nai Mueang อัมพรแหนมเนือง Amphorn Naem Nuang อัมพรแหนมเนือง"
       }
     },
     {
@@ -2481,7 +2608,8 @@
         "source_url": "https://www.openstreetmap.org/node/2760029441",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ลอยก๋วยเตี๋ยวเป็ด Loy Duck Noodle ลอยก๋วยเตี๋ยวเป็ด"
       }
     },
     {
@@ -2500,7 +2628,8 @@
         "source_url": "https://www.openstreetmap.org/node/2904555494",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ทีเอสฟาร์มา TS Pharma ทีเอสฟาร์มา"
       }
     },
     {
@@ -2520,7 +2649,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "16:00-24:00"
+        "opening_hours": "16:00-24:00",
+        "search_terms": "ข้าวต้มเครื่องแม่หน่อย Khao Tom Khrueang Mae Noi ข้าวต้มเครื่องแม่หน่อย"
       }
     },
     {
@@ -2541,7 +2671,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Si Chan Road",
-        "addr:housenumber": "402"
+        "addr:housenumber": "402",
+        "search_terms": "Khon Kaen TH Muang Khon Kaen 402 40000 Si Chan Road คลินิกหมอสุกิจ Doctor Sukij คลินิกหมอสุกิจ"
       }
     },
     {
@@ -2560,7 +2691,8 @@
         "source_url": "https://www.openstreetmap.org/node/3270010111",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เคี้ยงซูเปอร์มาร์เก็ต Khiang Supermarket เคี้ยงซูเปอร์มาร์เก็ต"
       }
     },
     {
@@ -2580,7 +2712,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang ขอนแก่นรวมแพทย์ ขอนแก่นรวมแพทย์"
       }
     },
     {
@@ -2600,7 +2733,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "website": "https://hopinnhotel.com/"
+        "website": "https://hopinnhotel.com/",
+        "search_terms": "Hop Inn Khon Kaen"
       }
     },
     {
@@ -2619,7 +2753,8 @@
         "source_url": "https://www.openstreetmap.org/node/3365549822",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "คาเฟ่ อเมซอน Café Amazon คาเฟ่ อเมซอน Q43247503 คาเฟ่ อเมซอน Café Amazon คาเฟ่ อเมซอน"
       }
     },
     {
@@ -2638,7 +2773,8 @@
         "source_url": "https://www.openstreetmap.org/node/3365549823",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Jiffy Jiffy จิฟฟี่ Q16770436 Jiffy Jiffy จิฟฟี่"
       }
     },
     {
@@ -2658,7 +2794,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "website": "http://www.pttplc.com"
+        "website": "http://www.pttplc.com",
+        "search_terms": "ป.ต.ท. PTT ป.ต.ท. Q1810389 ป.ต.ท. PTT PTT ป.ต.ท. ปตท PTT"
       }
     },
     {
@@ -2677,7 +2814,8 @@
         "source_url": "https://www.openstreetmap.org/node/3393344267",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ทิเซงฟาร์มาซี Ti Seng Pharmacy ทิเซงฟาร์มาซี"
       }
     },
     {
@@ -2698,7 +2836,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Si Chan Road",
-        "addr:housenumber": "410-418"
+        "addr:housenumber": "410-418",
+        "search_terms": "Khon Kaen TH Muang Khon Kaen 410-418 40000 Si Chan Road ธีระวัฒน์ ไมโครคลีนิค Theerawat Microclinic ธีระวัฒน์ ไมโครคลีนิค"
       }
     },
     {
@@ -2717,7 +2856,8 @@
         "source_url": "https://www.openstreetmap.org/node/3393349876",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ปั๊มแก๊ส LPG LPG Station ปั๊มแก๊ส LPG ฮ้อยานยนต์ขอนแก่น Hor Yanyon Khon Kaen ฮ้อยานยนต์ขอนแก่น"
       }
     },
     {
@@ -2736,7 +2876,8 @@
         "source_url": "https://www.openstreetmap.org/node/3412105674",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "B2 Boutique & Budget Hotel B2 Boutique & Budget Hotel โรงแรมบีทู"
       }
     },
     {
@@ -2756,7 +2897,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "10:30-23:00"
+        "opening_hours": "10:30-23:00",
+        "search_terms": "ประชาสโมสร Prachasamosorn ประชาสโมสร"
       }
     },
     {
@@ -2778,7 +2920,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "10:30-21:00",
         "addr:street": "Robmuang Road",
-        "addr:housenumber": "179/5"
+        "addr:housenumber": "179/5",
+        "search_terms": "TH Muang 179/5 40000 Khon Kaen Robmuang Road บลองนัวร์ Blanc Noir Blanc Noir บลองนัวร์"
       }
     },
     {
@@ -2797,7 +2940,8 @@
         "source_url": "https://www.openstreetmap.org/node/3429644985",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงแรมจันทร์ธารา Chanthara Hotel โรงแรมจันทร์ธารา"
       }
     },
     {
@@ -2816,7 +2960,8 @@
         "source_url": "https://www.openstreetmap.org/node/3570881699",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โจ๊กคุณไหมหมูเด้ง Jok Khun Mai Moo Deng โจ๊กคุณไหมหมูเด้ง"
       }
     },
     {
@@ -2836,7 +2981,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Lang Muang Road"
+        "addr:street": "Lang Muang Road",
+        "search_terms": "TH Muang Khon Kaen 40000 Khon Kaen Lang Muang Road Nai Mueang อู๋เซี่ยงจี๊ Oo Siang Ji อู๋เซี่ยงจี๊"
       }
     },
     {
@@ -2855,7 +3001,8 @@
         "source_url": "https://www.openstreetmap.org/node/3570890672",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บ้านปลาทู Seafood Baan Pla Thu Seafood บ้านปลาทู ซีฟู้ด"
       }
     },
     {
@@ -2876,7 +3023,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนชีท่าขอน",
-        "addr:housenumber": "7/22-23"
+        "addr:housenumber": "7/22-23",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 7/22-23 40000 ขอนแก่น Khon Kaen ถนนชีท่าขอน Chi Tha Khon Road ในเมือง Nai Mueang Mister Moon"
       }
     },
     {
@@ -2895,7 +3043,8 @@
         "source_url": "https://www.openstreetmap.org/node/3626449374",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บ้านคุณหมอฟัน Baan Khun Mor Fun บ้านคุณหมอฟัน"
       }
     },
     {
@@ -2918,7 +3067,8 @@
         "opening_hours": "07:00-16:00",
         "phone": "+66-43-242937, +66-89-7154580",
         "addr:street": "หลังเมือง ซอย 6",
-        "addr:housenumber": "169/30"
+        "addr:housenumber": "169/30",
+        "search_terms": "TH เมือง 169/30 40000 ขอนแก่น หลังเมือง ซอย 6 ในเมือง ครัวหยก Khrua Yok ครัวหยก"
       }
     },
     {
@@ -2937,7 +3087,8 @@
         "source_url": "https://www.openstreetmap.org/node/3787171833",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เอเซียหูฉลาม Asia Shark Fin เอเซียหูฉลาม"
       }
     },
     {
@@ -2956,7 +3107,8 @@
         "source_url": "https://www.openstreetmap.org/node/3787189838",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บะหมี่เรอดัง Roe Dang Noodle บะหมี่เรอดัง"
       }
     },
     {
@@ -2975,7 +3127,8 @@
         "source_url": "https://www.openstreetmap.org/node/3914797145",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "กาแฟสดดอยช้าง Doi Chang Coffee กาแฟสดดอยช้าง"
       }
     },
     {
@@ -2994,7 +3147,8 @@
         "source_url": "https://www.openstreetmap.org/node/3914797146",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ครัวสุดา Khrua Suda ครัวสุดา"
       }
     },
     {
@@ -3014,7 +3168,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "06:00-14:00"
+        "opening_hours": "06:00-14:00",
+        "search_terms": "ข้าวราดแกงเจ๊เปิ้ล Jay Ple ข้าวราดแกงเจ๊เปิ้ล"
       }
     },
     {
@@ -3033,7 +3188,8 @@
         "source_url": "https://www.openstreetmap.org/node/3929936114",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ร้านนายจันทร์ Nai Chan ร้านนายจันทร์"
       }
     },
     {
@@ -3052,7 +3208,8 @@
         "source_url": "https://www.openstreetmap.org/node/3929941739",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สถานธนานุบาล 2 Municipal Pawnshop 2 สถานธนานุบาล 2"
       }
     },
     {
@@ -3074,7 +3231,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Th 17:30-19:30; Sa 10:00-15:00",
         "addr:street": "Ammart Road",
-        "addr:housenumber": "52/9-10"
+        "addr:housenumber": "52/9-10",
+        "search_terms": "TH Mueang Khon Kaen 52/9-10 40000 Khon Kaen Ammart Road Nai Mueang คลินิกเด็กและภูมิแพ้ขอนแก่น Pediatric and Allergy Clinic คลินิกเด็กและภูมิแพ้ขอนแก่น"
       }
     },
     {
@@ -3094,7 +3252,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang สุมาลีโอชา Sumalee O-char สุมาลีโอชา"
       }
     },
     {
@@ -3113,7 +3272,8 @@
         "source_url": "https://www.openstreetmap.org/node/4183133516",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Happy Bar"
       }
     },
     {
@@ -3135,7 +3295,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 07:30-19:00",
         "phone": "+66897112829",
-        "website": "https://topcarrents.com/"
+        "website": "https://topcarrents.com/",
+        "search_terms": "Top Car Rent Top Carrents ท็อปคาร์เร้นท์"
       }
     },
     {
@@ -3154,7 +3315,8 @@
         "source_url": "https://www.openstreetmap.org/node/4183251889",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "คาเฟ่ อเมซอน Café Amazon คาเฟ่ อเมซอน Q43247503 คาเฟ่ อเมซอน Café Amazon คาเฟ่ อเมซอน"
       }
     },
     {
@@ -3173,7 +3335,8 @@
         "source_url": "https://www.openstreetmap.org/node/4183294389",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Lucky Bar"
       }
     },
     {
@@ -3194,7 +3357,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "1642",
-        "website": "https://www.mkrestaurant.com/"
+        "website": "https://www.mkrestaurant.com/",
+        "search_terms": "MK Restaurants Q62075359 MK Restaurants MK Restaurants MK Restaurants"
       }
     },
     {
@@ -3214,7 +3378,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "24/7"
+        "opening_hours": "24/7",
+        "search_terms": "Tom N Toms Tom N Toms 탐앤탐스 Q18142418 Tom N Toms Tom N Toms 탐앤탐스"
       }
     },
     {
@@ -3234,7 +3399,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "website": "https://www.subway.com"
+        "website": "https://www.subway.com",
+        "search_terms": "Subway Q244457 Subway Subway"
       }
     },
     {
@@ -3253,7 +3419,8 @@
         "source_url": "https://www.openstreetmap.org/node/4184745589",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Kacha Kacha"
       }
     },
     {
@@ -3272,7 +3439,8 @@
         "source_url": "https://www.openstreetmap.org/node/4184746089",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Deep"
       }
     },
     {
@@ -3291,7 +3459,8 @@
         "source_url": "https://www.openstreetmap.org/node/4206584689",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ขอนแก่นวิทยา Khon Kaen Witthaya ขอนแก่นวิทยา"
       }
     },
     {
@@ -3311,7 +3480,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนอำมาตย์"
+        "addr:street": "ถนนอำมาตย์",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 40000 ขอนแก่น Khon Kaen ถนนอำมาตย์ Ammart Road ในเมือง Nai Mueang ครัวผู้การ (เซ่งฮง) Khrua Phukan (Seng Hong) ครัวผู้การ (เซ่งฮง)"
       }
     },
     {
@@ -3331,7 +3501,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "Ammart Road"
+        "addr:street": "Ammart Road",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Ammart Road Nai Mueang แสงทองอิเล็กทริคไบค์ Sang Thong Electric Bike แสงทองอิเล็กทริคไบค์"
       }
     },
     {
@@ -3351,7 +3522,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Fr 07:00-08:00, 17:00-20:00; Sa 09:00-20:00; Su 14:00-19:00"
+        "opening_hours": "Mo-Fr 07:00-08:00, 17:00-20:00; Sa 09:00-20:00; Su 14:00-19:00",
+        "search_terms": "คลินิกเด็ก หมออำนวยพร Dr. Amnuayporn Pediatric Clinic คลินิกเด็ก หมออำนวยพร"
       }
     },
     {
@@ -3371,7 +3543,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Su-Fr 18:00-21:00, Sa 09:00-12:00"
+        "opening_hours": "Su-Fr 18:00-21:00, Sa 09:00-12:00",
+        "search_terms": "ขอนแก่นจักษุคลินิก Khon Kaen Eye Clinic ขอนแก่นจักษุคลินิก"
       }
     },
     {
@@ -3390,7 +3563,8 @@
         "source_url": "https://www.openstreetmap.org/node/4221153817",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สถานียา Sathani Ya สถานียา"
       }
     },
     {
@@ -3409,7 +3583,8 @@
         "source_url": "https://www.openstreetmap.org/node/4221184797",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เตี๋ยวเรือหวานเย็น Tiew Ruea Whan Yen เตี๋ยวเรือหวานเย็น"
       }
     },
     {
@@ -3428,7 +3603,8 @@
         "source_url": "https://www.openstreetmap.org/node/4221215218",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ประสิทธิ์โภชนา Prasit Bhojana ประสิทธิ์โภชนา"
       }
     },
     {
@@ -3447,7 +3623,8 @@
         "source_url": "https://www.openstreetmap.org/node/4245400176",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เตียฮั่วหยู Tia Hua Yu เตียฮั่วหยู 張和裕"
       }
     },
     {
@@ -3467,7 +3644,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "09:00-14:00, 14:30-22:00"
+        "opening_hours": "09:00-14:00, 14:30-22:00",
+        "search_terms": "น้องเมย์ราดหน้าน้ำมันหอย Nong May Gravy Noodle น้องเมย์ราดหน้าน้ำมันหอย"
       }
     },
     {
@@ -3489,7 +3667,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 10:00-18:00",
         "addr:street": "Lang Muang Road",
-        "addr:housenumber": "100"
+        "addr:housenumber": "100",
+        "search_terms": "TH Mueang Khon Kaen 100 40000 Khon Kaen Lang Muang Road Nai Mueang บุญโฮม Boon Home Indigo บุญโฮม"
       }
     },
     {
@@ -3510,7 +3689,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "opening_hours": "09:30-20:00",
-        "addr:street": "Soi Lang Mueang 5"
+        "addr:street": "Soi Lang Mueang 5",
+        "search_terms": "TH Mueang Khon Kaen 40000 Khon Kaen Soi Lang Mueang 5 Nai Mueang หัวกะทิ Hua Kathi หัวกะทิ"
       }
     },
     {
@@ -3531,7 +3711,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Si Chan Road",
-        "addr:housenumber": "572"
+        "addr:housenumber": "572",
+        "search_terms": "TH Mueang Khon Kaen 572 40000 Khon Kaen Si Chan Road Nai Mueang คลินิกนายแพทย์ชินวัฒน์ Shinnawat Clinic คลินิกนายแพทย์ชินวัฒน์"
       }
     },
     {
@@ -3553,7 +3734,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Sa 11:00-21:30",
         "addr:street": "Klang Mueang Road",
-        "addr:housenumber": "54/17"
+        "addr:housenumber": "54/17",
+        "search_terms": "TH Muang Khon Kaen 54/17 40000 Khon Kaen Klang Mueang Road Nai Mueang โซล Seoul 서울 โซล"
       }
     },
     {
@@ -3574,7 +3756,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Lang Muang Road",
-        "addr:housenumber": "74/8"
+        "addr:housenumber": "74/8",
+        "search_terms": "TH Muang Khon Kaen 74/8 40000 Khon Kaen Lang Muang Road Nai Mueang คลินิกตา หมอวีระศักดิ์ Doctor Veerasak Eye Clinic คลินิกตา หมอวีระศักดิ์"
       }
     },
     {
@@ -3595,7 +3778,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "Lang Muang Road",
-        "addr:housenumber": "155/19"
+        "addr:housenumber": "155/19",
+        "search_terms": "TH Muang Khon Kaen 155/19 40000 Khon Kaen Lang Muang Road Nai Mueang Fratello House Fratello House ฟราเทลโล่ เฮ้าส์"
       }
     },
     {
@@ -3617,7 +3801,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "08:00-20:00",
         "addr:street": "Si Chan Road",
-        "addr:housenumber": "622"
+        "addr:housenumber": "622",
+        "search_terms": "TH Mueang Khon Kaen 622 40000 Khon Kaen Si Chan Road Nai Mueang พัฒนาสังฆภัณฑ์ 8 โค้วไคฮวด Phatthana Sangkhaphan 8 พัฒนาสังฆภัณฑ์ 8"
       }
     },
     {
@@ -3636,7 +3821,8 @@
         "source_url": "https://www.openstreetmap.org/node/4343804720",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ปรีชาข้าวต้ม Preecha Boiled Rice ปรีชาข้าวต้ม"
       }
     },
     {
@@ -3656,7 +3842,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนกลางเมือง"
+        "addr:street": "ถนนกลางเมือง",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 40000 ขอนแก่น Khon Kaen ถนนกลางเมือง Klang Mueang Road ในเมือง Nai Mueang ธัญญาพรเภสัช Thanyaporn Bhesaj ธัญญาพรเภสัช"
       }
     },
     {
@@ -3677,7 +3864,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 06:00-18:00",
-        "phone": "0866405547"
+        "phone": "0866405547",
+        "search_terms": "ร้านสองพี่น้อง(เหล่าตี้ฟาง) ร้านสองพี่น้อง(เหล่าตี้ฟาง)"
       }
     },
     {
@@ -3697,7 +3885,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "08:30-16:00"
+        "opening_hours": "08:30-16:00",
+        "search_terms": "ก๋วยเตี๋ยวหมูนงลักษณ์ 2 Nonglak 2 Pork Noodle ก๋วยเตี๋ยวหมูนงลักษณ์ 2"
       }
     },
     {
@@ -3717,7 +3906,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนหลังเมือง"
+        "addr:street": "ถนนหลังเมือง",
+        "search_terms": "TH เมืองขอนแก่น 40000 ขอนแก่น ถนนหลังเมือง ในเมือง โจ๊กเจ๊น้อย Jok Je Noi โจ๊กเจ๊น้อย"
       }
     },
     {
@@ -3736,7 +3926,8 @@
         "source_url": "https://www.openstreetmap.org/node/4752586021",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "คอฟฟี่ เด้อ หล่า เดอะ แกลเลอรี่ Coffee Der La The Gallery คอฟฟี่ เด้อ หล่า เดอะ แกลเลอรี่"
       }
     },
     {
@@ -3756,7 +3947,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "18:00-01:00"
+        "opening_hours": "18:00-01:00",
+        "search_terms": "เติมรมย์ Toem Rom เติมรมย์ 點隆"
       }
     },
     {
@@ -3776,7 +3968,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "06:00-12:00"
+        "opening_hours": "06:00-12:00",
+        "search_terms": "ซุปเปอร์หมูกาแฟ Super Moo Coffee ซุปเปอร์หมูกาแฟ"
       }
     },
     {
@@ -3798,7 +3991,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "11:00-21:00",
         "addr:street": "หลังเมือง",
-        "addr:housenumber": "80"
+        "addr:housenumber": "80",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 80 40000 ขอนแก่น Khon Kaen หลังเมือง Lang Muang Road ในเมือง Nai Mueang Good แหนมเนือง Good Namnueng กู๊ดแหนมเนือง"
       }
     },
     {
@@ -3817,7 +4011,8 @@
         "source_url": "https://www.openstreetmap.org/node/4917864021",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "อ.กลการ"
       }
     },
     {
@@ -3838,7 +4033,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนหน้าเมือง",
-        "addr:housenumber": "209"
+        "addr:housenumber": "209",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 209 40000 ขอนแก่น Khon Kaen ถนนหน้าเมือง Nah Mueang Road ในเมือง Nai Mueang P&P Food Market P&P Food Market พีแอนด์พี ฟู้ดมาร์เก็ต"
       }
     },
     {
@@ -3857,7 +4053,8 @@
         "source_url": "https://www.openstreetmap.org/node/5055056921",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "SuperRich Currency Exchange SuperRich Currency Exchange SuperRich Change de devises"
       }
     },
     {
@@ -3879,7 +4076,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "24/7",
         "addr:street": "ถนนศรีจันทร์",
-        "addr:housenumber": "687"
+        "addr:housenumber": "687",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 687 40000 ขอนแก่น Khon Kaen ถนนศรีจันทร์ Si Chan Road ในเมือง Nai Mueang Coffee World Coffee World คอฟฟี่เวิลด์"
       }
     },
     {
@@ -3902,7 +4100,8 @@
         "opening_hours": "Mo-Sa 09:00-17:30",
         "phone": "0905919944",
         "addr:street": "ถนนศรีจันทร์",
-        "addr:housenumber": "326"
+        "addr:housenumber": "326",
+        "search_terms": "326 40000 ถนนศรีจันทร์ เดอะวันโกลด์แอนด์จิวเวลรี่ The1Gold&Jewelry"
       }
     },
     {
@@ -3926,7 +4125,8 @@
         "phone": "+66 96 398 5365",
         "website": "https://facebook.com/profile.php?id=100063502032863",
         "addr:street": "ถ.ประชาสำราญ",
-        "addr:housenumber": "348/16"
+        "addr:housenumber": "348/16",
+        "search_terms": "348/16 ถ.ประชาสำราญ Pomodoro Pomodoro โพโมโดโร"
       }
     },
     {
@@ -3947,7 +4147,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนรอบเมือง",
-        "addr:housenumber": "184/15"
+        "addr:housenumber": "184/15",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 184/15 40000 ขอนแก่น Khon Kaen ถนนรอบเมือง Robmuang Road ในเมือง Nai Mueang QBix Hotel"
       }
     },
     {
@@ -3969,7 +4170,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "11:00-21:30",
         "addr:street": "ถนนรอบเมือง",
-        "addr:housenumber": "169/10"
+        "addr:housenumber": "169/10",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 169/10 40000 ขอนแก่น Khon Kaen ถนนรอบเมือง Robmuang Road ในเมือง Nai Mueang Dragon Sushi Dragon Sushi Khon Kaen ดรากอนซูชิ ขอนแก่น"
       }
     },
     {
@@ -3990,7 +4192,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนรอบเมือง",
-        "addr:housenumber": "169/13"
+        "addr:housenumber": "169/13",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 169/13 40000 ขอนแก่น Khon Kaen ถนนรอบเมือง Robmuang Road ในเมือง Nai Mueang pa meaw pa meaw ป้าแมว"
       }
     },
     {
@@ -4012,7 +4215,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "09:00-20:00",
         "addr:street": "ถนนรอบเมือง",
-        "addr:housenumber": "724/1"
+        "addr:housenumber": "724/1",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 724/1 40000 ขอนแก่น Khon Kaen ถนนรอบเมือง Robmuang Road ในเมือง Nai Mueang เจ้ตุ๊ก คาร์แคร์ Jay Tuk Car Care เจ้ตุ๊ก คาร์แคร์"
       }
     },
     {
@@ -4034,7 +4238,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "09:00-23:00",
         "addr:street": "ถนนรอบเมือง",
-        "addr:housenumber": "152/1"
+        "addr:housenumber": "152/1",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 152/1 40000 ขอนแก่น Khon Kaen ถนนรอบเมือง Robmuang Road ในเมือง Nai Mueang ตุ๊กตุ๊ก คาเฟ่ Tuk Tuk Cafe & Restaurant ตุ๊กตุ๊ก คาเฟ่"
       }
     },
     {
@@ -4056,7 +4261,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "09:00-20:00",
         "addr:street": "ถนนรื่นรมย์",
-        "addr:housenumber": "888"
+        "addr:housenumber": "888",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 888 40000 ขอนแก่น Khon Kaen ถนนรื่นรมย์ Ruenrom Road ในเมือง Nai Mueang CUB House Khon Kaen honda"
       }
     },
     {
@@ -4075,7 +4281,8 @@
         "source_url": "https://www.openstreetmap.org/node/5948158723",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Findig Findig ฟินดิจ Q110958398 Findig Findig ฟินดิจ"
       }
     },
     {
@@ -4094,7 +4301,8 @@
         "source_url": "https://www.openstreetmap.org/node/6009125709",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เชลล์ Shell เชลล์ Q110716465 เชลล์ Shell เชลล์"
       }
     },
     {
@@ -4114,7 +4322,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "10:00-21:00"
+        "opening_hours": "10:00-21:00",
+        "search_terms": "เอชเค เป็ดย่างอาหารจีน HK Grilled Duck and Chinese Food"
       }
     },
     {
@@ -4133,7 +4342,8 @@
         "source_url": "https://www.openstreetmap.org/node/6009141402",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ผัดไทยโคราช Pad Thai Khorat"
       }
     },
     {
@@ -4152,7 +4362,8 @@
         "source_url": "https://www.openstreetmap.org/node/6033312014",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Starbucks Q37158 Starbucks Starbucks Starbucks Coffee"
       }
     },
     {
@@ -4175,7 +4386,8 @@
         "opening_hours": "Mo-Fr 08:30-17:30",
         "phone": "+6643220494",
         "addr:street": "ซอยรอบเมือง 13",
-        "addr:housenumber": "217/1"
+        "addr:housenumber": "217/1",
+        "search_terms": "217/1 40000 ซอยรอบเมือง 13 Architects 49 Khon Kaen"
       }
     },
     {
@@ -4194,7 +4406,8 @@
         "source_url": "https://www.openstreetmap.org/node/6053623186",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เตี๋ยวเรือ 14 Tiaw Ruea 14"
       }
     },
     {
@@ -4216,7 +4429,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Tu-Sa 09:00-16:00",
         "addr:street": "ถนนศรีจันทร์",
-        "addr:housenumber": "336/17"
+        "addr:housenumber": "336/17",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 336/17 40000 ขอนแก่น Khon Kaen ถนนศรีจันทร์ Srichan Road ในเมือง Nai Mueang คลินิกทันตแพทย์พันโชค-วิริยา Phanchoke-Wiriya Dental Clinic"
       }
     },
     {
@@ -4235,7 +4449,8 @@
         "source_url": "https://www.openstreetmap.org/node/6232902090",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Full Frame"
       }
     },
     {
@@ -4257,7 +4472,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 18:00-02:00",
         "addr:street": "ถนนประชาสำราญ",
-        "addr:housenumber": "212"
+        "addr:housenumber": "212",
+        "search_terms": "ขอนแก่น 212 40000 ถนนประชาสำราญ สุขสันต์ขอนแก่น Suksan Khon Kaen"
       }
     },
     {
@@ -4276,7 +4492,8 @@
         "source_url": "https://www.openstreetmap.org/node/6232934789",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Seph House Seph' Housé"
       }
     },
     {
@@ -4295,7 +4512,8 @@
         "source_url": "https://www.openstreetmap.org/node/6232952166",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Diamonds"
       }
     },
     {
@@ -4314,7 +4532,8 @@
         "source_url": "https://www.openstreetmap.org/node/6359765686",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ฟินดิจ"
       }
     },
     {
@@ -4333,7 +4552,8 @@
         "source_url": "https://www.openstreetmap.org/node/6359766386",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Citibank Q857063 Citibank Citi Citi"
       }
     },
     {
@@ -4353,7 +4573,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Su,PH 08:00-19:00"
+        "opening_hours": "Mo-Su,PH 08:00-19:00",
+        "search_terms": "เป็งเส็ง"
       }
     },
     {
@@ -4372,7 +4593,8 @@
         "source_url": "https://www.openstreetmap.org/node/6359766592",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "แสงสุวรรณ"
       }
     },
     {
@@ -4391,7 +4613,8 @@
         "source_url": "https://www.openstreetmap.org/node/6359766689",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธิติวิทยา"
       }
     },
     {
@@ -4410,7 +4633,8 @@
         "source_url": "https://www.openstreetmap.org/node/6362382491",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Kentucky Fried Chicken KFC Q524757 KFC KFC"
       }
     },
     {
@@ -4432,7 +4656,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "11:00-24:00",
         "addr:street": "ถนนชีท่าขอน",
-        "addr:housenumber": "75/4"
+        "addr:housenumber": "75/4",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 75/4 40000 ขอนแก่น Khon Kaen ถนนชีท่าขอน Chi Tha Khon Road ในเมือง Nai Mueang ระเริงลิ้น Raroeng Lin"
       }
     },
     {
@@ -4454,7 +4679,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "08:00-19:00",
         "addr:street": "ถนนหลังเมือง",
-        "addr:housenumber": "2/4-6"
+        "addr:housenumber": "2/4-6",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 2/4-6 40000 ขอนแก่น Khon Kaen ถนนหลังเมือง Lang Muang Road ในเมือง Nai Mueang Velo-C เวโลซี"
       }
     },
     {
@@ -4476,7 +4702,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "17:30-24:00",
         "addr:street": "ถนนอำมาตย์",
-        "addr:housenumber": "71"
+        "addr:housenumber": "71",
+        "search_terms": "TH เมืองขอนแก่น Mueang Khon Kaen 71 40000 ขอนแก่น Khon Kaen ถนนอำมาตย์ Ammart Road ในเมือง Nai Mueang ไปไหน ไปกัน Painai Paigun"
       }
     },
     {
@@ -4495,7 +4722,8 @@
         "source_url": "https://www.openstreetmap.org/node/6440043425",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -4515,7 +4743,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "24/7"
+        "opening_hours": "24/7",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -4537,7 +4766,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 18:00-03:00",
         "phone": "0870648400",
-        "addr:street": "ชอยรื่นรมย์ 1 (ข้าวเหนียว)"
+        "addr:street": "ชอยรื่นรมย์ 1 (ข้าวเหนียว)",
+        "search_terms": "ชอยรื่นรมย์ 1 (ข้าวเหนียว) โจ๋นแซบ - ลาบก้อย Johnsap E-sarn's style meat"
       }
     },
     {
@@ -4558,7 +4788,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนร่วมจิตร",
-        "addr:housenumber": "98"
+        "addr:housenumber": "98",
+        "search_terms": "TH เมืองขอนแก่น Muang Khon Kaen 98 40000 ขอนแก่น Khon Kaen ถนนร่วมจิตร Ruamjit Road ในเมือง Nai Muang ตั้งฮะเฮียง Tang Hah Hiang ตั้งฮะเฮียง"
       }
     },
     {
@@ -4578,7 +4809,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนอำมาตย์"
+        "addr:street": "ถนนอำมาตย์",
+        "search_terms": "TH เมืองขอนแก่น Muang Khon Kaen 40000 ขอนแก่น Khon Kaen ถนนอำมาตย์ Ammart Road ในเมือง Nai Muang เตี๋ยวตุ๋นหม้อไฟ Indy Tiaw Tun Mo Fai Indy"
       }
     },
     {
@@ -4599,7 +4831,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนร่วมจิตร",
-        "addr:housenumber": "11-12"
+        "addr:housenumber": "11-12",
+        "search_terms": "TH เมืองขอนแก่น Muang Khon Kaen 11-12 40000 ขอนแก่น Khon Kaen ถนนร่วมจิตร Ruamjit Road ในเมือง Nai Muang Jingle Bell Music จิงเกิ้ลเบล มิวสิค"
       }
     },
     {
@@ -4619,7 +4852,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "24/7"
+        "opening_hours": "24/7",
+        "search_terms": "RICH Store."
       }
     },
     {
@@ -4640,7 +4874,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "addr:street": "ถนนชีท่าขอน",
-        "addr:housenumber": "397-399"
+        "addr:housenumber": "397-399",
+        "search_terms": "397-399 40000 ถนนชีท่าขอน ขอนแก่นแฟนเก่า"
       }
     },
     {
@@ -4663,7 +4898,8 @@
         "opening_hours": "Mo-Su 09:00-15:00",
         "phone": "+66 84 5101575",
         "website": "https://www.facebook.com/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%A1%E0%B8%B9-298886360555282/",
-        "addr:street": "ถนนอำมาตย์"
+        "addr:street": "ถนนอำมาตย์",
+        "search_terms": "khon kaen 40000 ถนนอำมาตย์ Muay Noodle Restaurant / หมวยก๋วยเตี๋ยวหมู"
       }
     },
     {
@@ -4687,7 +4923,8 @@
         "phone": "+66 43 389445",
         "website": "https://fb.me/kkjnet",
         "addr:street": "ซอยรื่นรมย์ 1",
-        "addr:housenumber": "348/11-12"
+        "addr:housenumber": "348/11-12",
+        "search_terms": "ขอนแก่น 348/11-12 40000 ซอยรื่นรมย์ 1 Asus Acer Lenovo Intel AMD Epson Brother Canon HP Dell Huawei เจเน็ต คอมพิวเตอร์ J-Net computer บริษัท ขอนแก่น เจเน็ต คอมพิวเตอร์ จำกัด"
       }
     },
     {
@@ -4711,7 +4948,8 @@
         "phone": "+66 43 222992",
         "website": "https://fb.me/kjp2002.k11",
         "addr:street": "ถนนกลางเมือง",
-        "addr:housenumber": "62/202"
+        "addr:housenumber": "62/202",
+        "search_terms": "ขอนแก่น 62/202 40000 ถนนกลางเมือง ห้างทองกาญจนาภิเษก เยื้องสถานีตำรวจ kjp2002 kjp2002"
       }
     },
     {
@@ -4730,7 +4968,8 @@
         "source_url": "https://www.openstreetmap.org/node/10548725614",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Seasons 27 at Ad Lib"
       }
     },
     {
@@ -4749,7 +4988,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553842284",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Smile Bar"
       }
     },
     {
@@ -4768,7 +5008,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553851415",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "4am"
       }
     },
     {
@@ -4787,7 +5028,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553852504",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "DC Bar & Craft Beer"
       }
     },
     {
@@ -4806,7 +5048,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553887378",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ชีลลีนบาร์ Chillin Bar"
       }
     },
     {
@@ -4825,7 +5068,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553890318",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Crash Bar & Eatery"
       }
     },
     {
@@ -4844,7 +5088,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553891406",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Kelly's Bar"
       }
     },
     {
@@ -4863,7 +5108,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553893362",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Kin-D Restaurant"
       }
     },
     {
@@ -4882,7 +5128,8 @@
         "source_url": "https://www.openstreetmap.org/node/10553896353",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Cobra Bistro"
       }
     },
     {
@@ -4905,7 +5152,8 @@
         "phone": "+66 43 100 555",
         "website": "https://www.adlibhotels.co/khon-kaen",
         "addr:street": "ซอยศรีจันทร์",
-        "addr:housenumber": "999"
+        "addr:housenumber": "999",
+        "search_terms": "ขอนแก่น 999 40000 ซอยศรีจันทร์ Ad Lib Ad Lib @ Khon Kaen Innovation Centre"
       }
     },
     {
@@ -4927,7 +5175,8 @@
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 20:00-02:00",
         "addr:street": "ถนนประชาสำราญ",
-        "addr:housenumber": "25"
+        "addr:housenumber": "25",
+        "search_terms": "ขอนแก่น 25 40000 ถนนประชาสำราญ The Library"
       }
     },
     {
@@ -4948,7 +5197,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "opening_hours": "Mo-Su 18:00-01:00",
-        "addr:street": "ถนนศรีจันทร์"
+        "addr:street": "ถนนศรีจันทร์",
+        "search_terms": "ขอนแก่น 40000 ถนนศรีจันทร์ Mystic Khon Kaen"
       }
     },
     {
@@ -4971,7 +5221,8 @@
         "opening_hours": "Mo-Su 08:00-22:00",
         "phone": "+66982404746",
         "addr:street": "ถนนเฉลิมพระเกียรติ",
-        "addr:housenumber": "90/569"
+        "addr:housenumber": "90/569",
+        "search_terms": "Tambon Nai Mueang, Mueang Khon Kaen District, Khon Kaen 90/569 40000 ถนนเฉลิมพระเกียรติ Salon Home Of Stars"
       }
     },
     {
@@ -4994,7 +5245,8 @@
         "opening_hours": "Mo-Su 15:00-23:00",
         "phone": "0955961695",
         "addr:street": "ถนนศรีจันทร์",
-        "addr:housenumber": "345"
+        "addr:housenumber": "345",
+        "search_terms": "ขอนแก่น 345 40000 ถนนศรีจันทร์ Srichan Milk ศรีจันทร์นมสด"
       }
     },
     {
@@ -5018,7 +5270,8 @@
         "phone": "0925924649",
         "website": "https://www.facebook.com/malamao69/",
         "addr:street": "ถนนหน้าเมือง",
-        "addr:housenumber": "236"
+        "addr:housenumber": "236",
+        "search_terms": "ขอนแก่น 236 40000 ถนนหน้าเมือง ปิ้งย่างประธานเหมา"
       }
     },
     {
@@ -5037,7 +5290,8 @@
         "source_url": "https://www.openstreetmap.org/node/12592454674",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Triumph Q1140383 Triumph Khon Kaen Motorcycle"
       }
     },
     {
@@ -5056,7 +5310,8 @@
         "source_url": "https://www.openstreetmap.org/node/12645801001",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "99"
       }
     },
     {
@@ -5076,7 +5331,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "website": "https://www.nuadthaiandspa.com/"
+        "website": "https://www.nuadthaiandspa.com/",
+        "search_terms": "School of Professional Carrier Extension & Thai Cultural Spa"
       }
     },
     {
@@ -5096,7 +5352,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66811371760"
+        "phone": "+66811371760",
+        "search_terms": "Pookky's"
       }
     },
     {
@@ -5115,7 +5372,8 @@
         "source_url": "https://www.openstreetmap.org/node/13277105999",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "We Drink"
       }
     },
     {
@@ -5135,7 +5393,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "+66 99 7021 937"
+        "phone": "+66 99 7021 937",
+        "search_terms": "N.P. One"
       }
     },
     {
@@ -5154,7 +5413,8 @@
         "source_url": "https://www.openstreetmap.org/node/13397226145",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงเรียนดนตรีวรรณกานต์"
       }
     },
     {
@@ -5174,7 +5434,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Su,PH 18:00-21:00"
+        "opening_hours": "Mo-Su,PH 18:00-21:00",
+        "search_terms": "นิป แนฟ นมสด Nip Naf Cafe นิป แนฟ นมสด"
       }
     },
     {
@@ -5194,7 +5455,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Su,PH 16:30-23:30"
+        "opening_hours": "Mo-Su,PH 16:30-23:30",
+        "search_terms": "แจ่วจงเจริญ JaewJongCharoen"
       }
     },
     {
@@ -5214,7 +5476,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Sa 09:00-19:00"
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "search_terms": "มาราธอน มิวสิค เซนเตอร์ Marathon Music Center มาราธอน มิวสิค เซนเตอร์"
       }
     },
     {
@@ -5234,7 +5497,8 @@
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "Mo-Su,PH 09:30-16:30"
+        "opening_hours": "Mo-Su,PH 09:30-16:30",
+        "search_terms": "เตี๋ยว เทพารักษ์ ขอนแก่น"
       }
     },
     {
@@ -5253,7 +5517,8 @@
         "source_url": "https://www.openstreetmap.org/node/13476574116",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ลาบโต๊ะแดง"
       }
     },
     {
@@ -5272,7 +5537,8 @@
         "source_url": "https://www.openstreetmap.org/node/13592004701",
         "position_note": "จุดจาก OpenStreetMap",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "หูกระจง Terminalia Coffee"
       }
     },
     {
@@ -5294,7 +5560,8 @@
         "source_date": "2026-10-29",
         "phone": "0637627579",
         "addr:street": "ถนนสถิตย์ยุติธรรม",
-        "addr:housenumber": "1 2"
+        "addr:housenumber": "1 2",
+        "search_terms": "เมืองขอนแก่น 1 2 ขอนแก่น 40000 ขอนแก่น ถนนสถิตย์ยุติธรรม ในเมือง ฌูร์คาเฟ่ - chourr cafe"
       }
     },
     {
@@ -5313,7 +5580,8 @@
         "source_url": "https://www.openstreetmap.org/way/50885039",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ตลาดหนองไผ่ล้อม Nong Phai Lom Market ตลาดหนองไผ่ล้อม"
       }
     },
     {
@@ -5332,7 +5600,8 @@
         "source_url": "https://www.openstreetmap.org/way/61649275",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "วัดศรีจันทร์ Wat Si Chan วัดศรีจันทร์"
       }
     },
     {
@@ -5351,7 +5620,8 @@
         "source_url": "https://www.openstreetmap.org/way/64042725",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ไทย เมืองขอนแก่น 40000 ขอนแก่น ในเมือง พิพิธภัณฑ์ธนารักษ์ จังหวัดขอนแก่น พิพิธภัณฑ์ธนารักษ์ จังหวัดขอนแก่น"
       }
     },
     {
@@ -5370,7 +5640,8 @@
         "source_url": "https://www.openstreetmap.org/way/64042726",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ตลาดร่วมจิตร Ruamjit Market ตลาดร่วมจิตร 联吉哒叻"
       }
     },
     {
@@ -5389,7 +5660,8 @@
         "source_url": "https://www.openstreetmap.org/way/66320154",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงเรียนวัดศรีจันทร์ Wat Srichan School โรงเรียนวัดศรีจันทร์"
       }
     },
     {
@@ -5408,7 +5680,8 @@
         "source_url": "https://www.openstreetmap.org/way/104245995",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ตลาดบางลำภู Bang Lamphu Market ตลาดบางลำภู"
       }
     },
     {
@@ -5427,7 +5700,8 @@
         "source_url": "https://www.openstreetmap.org/way/104246001",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Thailand เมืองขอนแก่น 40000 Khon Kaen ในเมือง ตลาดสดเทศบาล 3 โบ๊เบ๊ Thetsaban 3 Bobe Fresh Market ตลาดสดเทศบาล 3 โบ๊เบ๊ เทศบาลนครขอนแก่น"
       }
     },
     {
@@ -5446,7 +5720,8 @@
         "source_url": "https://www.openstreetmap.org/way/106646060",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สวนเฉลิมพระเกียรติ Chaloem Phra Kiat Park สวนเฉลิมพระเกียรติ"
       }
     },
     {
@@ -5465,7 +5740,8 @@
         "source_url": "https://www.openstreetmap.org/way/106646061",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "เจ้าพ่อหลักเมืองขอนแก่น Khon Kaen Guardian Angel Shrine เจ้าพ่อหลักเมืองขอนแก่น"
       }
     },
     {
@@ -5484,7 +5760,8 @@
         "source_url": "https://www.openstreetmap.org/way/106646063",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Mueang Khon Kaen 40000 Khon Kaen ศาลหลักเมืองขอนแก่น Khon Kaen City Pillar Shrine ศาลหลักเมืองขอนแก่น San Lak Mueang Khon Kaen"
       }
     },
     {
@@ -5505,7 +5782,8 @@
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
         "phone": "+66-43-913-333",
-        "website": "https://www.heritagegrandkhonkaen.com/"
+        "website": "https://www.heritagegrandkhonkaen.com/",
+        "search_terms": "เดอะ เฮอริเทจ แกรนด์ ขอนแก่น The Heritage Grand Khon Kaen Hotel and Convention เดอะ เฮอริเทจ แกรนด์ ขอนแก่น"
       }
     },
     {
@@ -5524,7 +5802,8 @@
         "source_url": "https://www.openstreetmap.org/way/107843357",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "หนองสระพัง Nong Sa Phang หนองสระพัง"
       }
     },
     {
@@ -5543,7 +5822,8 @@
         "source_url": "https://www.openstreetmap.org/way/108892854",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ลานกีฬาพระกิตติคุณ ชุมชนเจ้าพ่อเกษม Chao Pho Kasem Community Playground ลานกีฬาพระกิตติคุณ ชุมชนเจ้าพ่อเกษม"
       }
     },
     {
@@ -5563,7 +5843,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:street": "ถนนกลางเมือง"
+        "addr:street": "ถนนกลางเมือง",
+        "search_terms": "ไทย เมืองขอนแก่น 40000 ขอนแก่น ถนนกลางเมือง ในเมือง ตลาดสดเทศบาล 1 Thetsaban 1 Fresh Market ตลาดสดเทศบาล 1 เทศบาลนครขอนแก่น"
       }
     },
     {
@@ -5582,7 +5863,8 @@
         "source_url": "https://www.openstreetmap.org/way/112331696",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงเรียนเทศบาลคุ้มหนองคู Khum Nongkhu Municipal School โรงเรียนเทศบาลคุ้มหนองคู"
       }
     },
     {
@@ -5601,7 +5883,8 @@
         "source_url": "https://www.openstreetmap.org/way/112560409",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "สำนักทะเบียนท้องถิ่น Local Registry Office สำนักทะเบียนท้องถิ่น"
       }
     },
     {
@@ -5620,7 +5903,8 @@
         "source_url": "https://www.openstreetmap.org/way/114663638",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ที่จอดรถยูบาร์ Car park for U-Bar ที่จอดรถยูบาร์"
       }
     },
     {
@@ -5639,7 +5923,8 @@
         "source_url": "https://www.openstreetmap.org/way/114663640",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ที่จอดรถตึกคอม Car park for TukCom ที่จอดรถตึกคอม"
       }
     },
     {
@@ -5658,7 +5943,8 @@
         "source_url": "https://www.openstreetmap.org/way/114663641",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ฟิต ซอกเกอร์ Fit Soccer ฟิต ซอกเกอร์"
       }
     },
     {
@@ -5677,7 +5963,8 @@
         "source_url": "https://www.openstreetmap.org/way/312691568",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Tawen Dang"
       }
     },
     {
@@ -5696,7 +5983,8 @@
         "source_url": "https://www.openstreetmap.org/way/312691570",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Eco Place Hotel"
       }
     },
     {
@@ -5715,7 +6003,8 @@
         "source_url": "https://www.openstreetmap.org/way/335850378",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "มูลนิธิขอนแก่นสามัคคีอุทิศ (โป๊ยเซียน) Poysian Khon Kaen มูลนิธิขอนแก่นสามัคคีอุทิศ (โป๊ยเซียน)"
       }
     },
     {
@@ -5734,7 +6023,8 @@
         "source_url": "https://www.openstreetmap.org/way/383287231",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "บางจาก Bangchak บางจาก Q6579719 บางจาก Bangchak บางจาก"
       }
     },
     {
@@ -5753,7 +6043,8 @@
         "source_url": "https://www.openstreetmap.org/way/383290689",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ตลาดตองแปด Tong Pad Market ตลาดตองแปด"
       }
     },
     {
@@ -5773,7 +6064,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "24/7"
+        "opening_hours": "24/7",
+        "search_terms": "7-11 7-Eleven http://www.7eleven.co.th/ Q259340 th:เซเว่น อีเลฟเว่น 7-Eleven 7-Eleven"
       }
     },
     {
@@ -5793,7 +6085,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "phone": "0856813949"
+        "phone": "0856813949",
+        "search_terms": "Phanthipa Residence"
       }
     },
     {
@@ -5812,7 +6105,8 @@
         "source_url": "https://www.openstreetmap.org/way/577709078",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Chada Veranda Hotel"
       }
     },
     {
@@ -5831,7 +6125,8 @@
         "source_url": "https://www.openstreetmap.org/way/577709087",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "ธนาคารนครหลวงไทย Siam City Bank ธนาคารนครหลวงไทย"
       }
     },
     {
@@ -5850,7 +6145,8 @@
         "source_url": "https://www.openstreetmap.org/way/577709099",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "Italasia"
       }
     },
     {
@@ -5870,7 +6166,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "addr:housenumber": "3/12-13"
+        "addr:housenumber": "3/12-13",
+        "search_terms": "3/12-13 Yokotai"
       }
     },
     {
@@ -5889,7 +6186,8 @@
         "source_url": "https://www.openstreetmap.org/way/577709102",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "My Bar"
       }
     },
     {
@@ -5909,7 +6207,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "opening_hours": "24/7"
+        "opening_hours": "24/7",
+        "search_terms": "Hugz Mall"
       }
     },
     {
@@ -5928,7 +6227,8 @@
         "source_url": "https://www.openstreetmap.org/way/665999572",
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
-        "source_date": "2026-10-29"
+        "source_date": "2026-10-29",
+        "search_terms": "โรงแรมกลาเซียร์ Glacier Hotel"
       }
     },
     {
@@ -5951,7 +6251,8 @@
         "opening_hours": "Mo-Su 08:00-18:00",
         "phone": "+66 64 865 6116",
         "addr:street": "ถนนหน้าเมือง",
-        "addr:housenumber": "412"
+        "addr:housenumber": "412",
+        "search_terms": "เมืองขอนแก่น 412 40000 ขอนแก่น ถนนหน้าเมือง ในเมือง รินไหมไทย Rim Mai Thai"
       }
     },
     {
@@ -5971,7 +6272,8 @@
         "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
         "source": "OpenStreetMap",
         "source_date": "2026-10-29",
-        "website": "https://hkwkk.ac.th/"
+        "website": "https://hkwkk.ac.th/",
+        "search_terms": "โรงเรียนฮั่วเคี้ยววิทยาลัย Hua Khiew Wittayalai School โรงเรียนฮั่วเคี้ยววิทยาลัย 坤敬公立華僑學校"
       }
     }
   ]

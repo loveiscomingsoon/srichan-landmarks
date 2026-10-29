@@ -4,3 +4,7 @@
 
 
 @media(max-width:650px){.mapTools{max-width:calc(100% - 62px);gap:4px}.mapTools button{min-height:36px;padding:6px 8px;font-size:11px}#status{top:auto!important;bottom:28px;max-width:85%!important}.detail{max-height:55%}.compat-credit{max-width:100%;font-size:8px!important}}
+
+.search-kind{min-width:28px;text-align:center;color:#b26930;font-size:20px}.places{content-visibility:auto}
+
+@media(min-width:651px){.places{max-height:360px;overflow:auto}}.pin.search-pin{background:#ed6b2a;width:36px;height:36px;font-size:23px;z-index:3;border-width:3px}
