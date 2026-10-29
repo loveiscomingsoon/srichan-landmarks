@@ -280,7 +280,7 @@
       ],
       "properties": {
         "browsable": true,
-        "displayOnLoad": true,
+        "displayOnLoad": false,
         "fields": [
           {
             "key": "id",
@@ -324,7 +324,7 @@
             ],
             "type": "Point"
           },
-          "id": "8Y2cw",
+          "id": "Mck9m",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -367,7 +367,7 @@
             ],
             "type": "Point"
           },
-          "id": "TYd6L",
+          "id": "tdYOA",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -378,7 +378,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg}}\n\nกลุ่มอาคารพาณิชย์บนถนน 5 พฤศจิกาตามแผนที่เดิม ยังต้องยืนยันปีสร้างและประวัติร้านค้ากับชุมชน\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/02.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B8%88+%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C+%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4306198,102.8221964,3296m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg}}\n\nกลุ่มอาคารพาณิชย์บนถนน 5 พฤศจิกาตามแผนที่เดิม ยังต้องยืนยันปีสร้างและประวัติร้านค้ากับชุมชน\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/02.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.43076,102.83396|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/02.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B8%88+%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C+%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4306198,102.8221964,3296m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -386,13 +387,17 @@
             "history_summary": "กลุ่มอาคารพาณิชย์บนถนน 5 พฤศจิกาตามแผนที่เดิม ยังต้องยืนยันปีสร้างและประวัติร้านค้ากับชุมชน",
             "image_number": 2,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "02 กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/02.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.43076,102.83396",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -404,7 +409,7 @@
             ],
             "type": "Point"
           },
-          "id": "a1M54",
+          "id": "6KgkH",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -415,7 +420,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg}}\n\nบทความ Old but Cool ระบุว่า ถนน 5 พฤศจิกาได้รับชื่อนี้เพื่อระลึกถึงการเสด็จเยือนขอนแก่นของรัชกาลที่ 9 วันที่ 5 พฤศจิกายน พ.ศ. 2498 โดยเป็นถนนที่ตัดเข้าซอยบริเวณถนนหน้าเมือง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/srichan-old-but-cool-ย่านเก่าแต่เก๋า|อ่านเพิ่มเติม — ศรีจันทร์ ย่านเก่าแต่เก๋า]]\nบทความเผยแพร่ 12 กรกฎาคม 2565 ข้อมูลคำบอกเล่าและสภาพพื้นที่อาจต่างจากปัจจุบัน\n\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/03.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: พบรายการถนน 5 พฤศจิกาใน Google Maps แต่พิกัดกลางถนนไม่ใช่จุดภาพเดิม จึงคงหมุดช่วงถนนโดยประมาณ รอยืนยันจุดภาคสนาม\n[[https://www.google.com/maps/place/%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87+%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+40000/@16.4333225,102.8294423,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a3cdc951507:0xfb9b0907fea6337e!8m2!3d16.4333225!4d102.8320172!16s%2Fg%2F1vq9jrrs!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg}}\n\nบทความ Old but Cool ระบุว่า ถนน 5 พฤศจิกาได้รับชื่อนี้เพื่อระลึกถึงการเสด็จเยือนขอนแก่นของรัชกาลที่ 9 วันที่ 5 พฤศจิกายน พ.ศ. 2498 โดยเป็นถนนที่ตัดเข้าซอยบริเวณถนนหน้าเมือง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/srichan-old-but-cool-ย่านเก่าแต่เก๋า|อ่านเพิ่มเติม — ศรีจันทร์ ย่านเก่าแต่เก๋า]]\nบทความเผยแพร่ 12 กรกฎาคม 2565 ข้อมูลคำบอกเล่าและสภาพพื้นที่อาจต่างจากปัจจุบัน\n\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/03.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.43158,102.83301|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/03.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/place/%E0%B8%96%E0%B8%99%E0%B8%99+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87+%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+40000/@16.4333225,102.8294423,824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x31228a3cdc951507:0xfb9b0907fea6337e!8m2!3d16.4333225!4d102.8320172!16s%2Fg%2F1vq9jrrs!5m1!1e1",
@@ -425,13 +431,17 @@
             "history_updated": "2026-10-28",
             "image_number": 3,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "03 ถนน ซอย 5 พฤศจิกา",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/03.html",
-            "position_audit_note": "พบรายการถนน 5 พฤศจิกาใน Google Maps แต่พิกัดกลางถนนไม่ใช่จุดภาพเดิม จึงคงหมุดช่วงถนนโดยประมาณ รอยืนยันจุดภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "ถนน ซอย 5 พฤศจิกา",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.43158,102.83301",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -443,7 +453,7 @@
             ],
             "type": "Point"
           },
-          "id": "5o9DB",
+          "id": "PmrSu",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -454,7 +464,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg}}\n\nอาคารหัวมุมที่ระบุในแผนที่เดิม ประวัติการใช้งานและผู้ครอบครองแต่ละช่วงต้องตรวจเพิ่มก่อนเผยแพร่\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/04.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333184,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg}}\n\nอาคารหัวมุมที่ระบุในแผนที่เดิม ประวัติการใช้งานและผู้ครอบครองแต่ละช่วงต้องตรวจเพิ่มก่อนเผยแพร่\n\nประวัติยังรอยืนยันกับชุมชน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/04.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.43132,102.8338|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/04.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B8+5+%E0%B8%9E%E0%B8%A4%E0%B8%A8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333184,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -462,13 +473,17 @@
             "history_summary": "อาคารหัวมุมที่ระบุในแผนที่เดิม ประวัติการใช้งานและผู้ครอบครองแต่ละช่วงต้องตรวจเพิ่มก่อนเผยแพร่",
             "image_number": 4,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "04 อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/04.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.43132,102.8338",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -480,7 +495,7 @@
             ],
             "type": "Point"
           },
-          "id": "FSEqh",
+          "id": "n5Lve",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -491,7 +506,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg}}\n\nบทความสำรวจปี 2562 บันทึกร้านทำกุญแจบริเวณปากตรอก และร้านทำป้ายกับแผงพระเครื่องภายใน เชื่อมต่อย่านตลาดบางลำภู\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/05.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333104,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg}}\n\nบทความสำรวจปี 2562 บันทึกร้านทำกุญแจบริเวณปากตรอก และร้านทำป้ายกับแผงพระเครื่องภายใน เชื่อมต่อย่านตลาดบางลำภู\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/05.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.43003,102.83443|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/05.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4333104,102.7908173,13182m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -499,13 +515,17 @@
             "history_summary": "บทความสำรวจปี 2562 บันทึกร้านทำกุญแจบริเวณปากตรอก และร้านทำป้ายกับแผงพระเครื่องภายใน เชื่อมต่อย่านตลาดบางลำภู",
             "image_number": 5,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "05 ตรอกกุญแจ",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/05.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "ตรอกกุญแจ",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.43003,102.83443",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -517,7 +537,7 @@
             ],
             "type": "Point"
           },
-          "id": "SGZjH",
+          "id": "8Bspx",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -558,7 +578,7 @@
             ],
             "type": "Point"
           },
-          "id": "QtDRk",
+          "id": "xZylI",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -599,7 +619,7 @@
             ],
             "type": "Point"
           },
-          "id": "Pi8dW",
+          "id": "kqEZT",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -640,7 +660,7 @@
             ],
             "type": "Point"
           },
-          "id": "P3l0Y",
+          "id": "FydDh",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -681,7 +701,7 @@
             ],
             "type": "Point"
           },
-          "id": "QgWC2",
+          "id": "TXRA4",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -722,7 +742,7 @@
             ],
             "type": "Point"
           },
-          "id": "UtYWr",
+          "id": "eYvA3",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -733,7 +753,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg}}\n\nบทความปี 2562 บันทึกงานกราฟฟิตีในตรอก รวมถึงภาพมังกรและเด็กหญิง สภาพและผลงานที่ยังอยู่ควรสำรวจใหม่\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/11.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97+%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4289789,102.8273202,3296m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg}}\n\nบทความปี 2562 บันทึกงานกราฟฟิตีในตรอก รวมถึงภาพมังกรและเด็กหญิง สภาพและผลงานที่ยังอยู่ควรสำรวจใหม่\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/11.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.42954,102.83759|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/11.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97+%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4289789,102.8273202,3296m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -741,13 +762,17 @@
             "history_summary": "บทความปี 2562 บันทึกงานกราฟฟิตีในตรอก รวมถึงภาพมังกรและเด็กหญิง สภาพและผลงานที่ยังอยู่ควรสำรวจใหม่",
             "image_number": 11,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "11 ขอนแก่น สตรีท อาร์ต",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/11.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "ขอนแก่น สตรีท อาร์ต",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.42954,102.83759",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -759,7 +784,7 @@
             ],
             "type": "Point"
           },
-          "id": "rFEKN",
+          "id": "89hEL",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -800,7 +825,7 @@
             ],
             "type": "Point"
           },
-          "id": "ULMiZ",
+          "id": "ddrDK",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -841,7 +866,7 @@
             ],
             "type": "Point"
           },
-          "id": "xx9yr",
+          "id": "PQUeP",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -852,7 +877,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg}}\n\nอดีตโรงแรมเก่าที่บทความปี 2562 บันทึกว่าเลิกกิจการแล้ว ต้องตรวจสภาพอาคารและสถานะพื้นที่ปัจจุบันอีกครั้ง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/14.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%82%E0%B8%AE%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A5+%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4317794,102.8299842,3295m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg}}\n\nอดีตโรงแรมเก่าที่บทความปี 2562 บันทึกว่าเลิกกิจการแล้ว ต้องตรวจสภาพอาคารและสถานะพื้นที่ปัจจุบันอีกครั้ง\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/ศร-จ-นทร-the-good-old-days-are-now-ตอนท-2|อ่านประวัติและเรื่องราวฉบับเต็ม]]\nข้อมูลบทความปี 2562 ไม่ยืนยันสถานะปัจจุบัน\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/14.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.43195,102.83876|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/14.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%82%E0%B8%AE%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A5+%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99+%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C/@16.4317794,102.8299842,3295m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -860,13 +886,17 @@
             "history_summary": "อดีตโรงแรมเก่าที่บทความปี 2562 บันทึกว่าเลิกกิจการแล้ว ต้องตรวจสภาพอาคารและสถานะพื้นที่ปัจจุบันอีกครั้ง",
             "image_number": 14,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "14 ตึกโรงแรมแกรนด์โฮเต็ล",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/14.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "ตึกโรงแรมแกรนด์โฮเต็ล",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.43195,102.83876",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -878,7 +908,7 @@
             ],
             "type": "Point"
           },
-          "id": "K354t",
+          "id": "bC6H5",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -919,7 +949,7 @@
             ],
             "type": "Point"
           },
-          "id": "BCQCw",
+          "id": "X3QFU",
           "properties": {
             "_umap_options": {
               "color": "#b66c13",
@@ -930,7 +960,8 @@
             "artwork_source": "ภาพหมายเลขเดียวกันในแผนที่ศรีจันทร์.jpg ที่ผู้ใช้ให้",
             "artwork_type": "ภาพดัดแปลงด้วย AI ไม่ใช่ภาพถ่ายบันทึกสภาพปัจจุบัน",
             "artwork_url": "https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg",
-            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg}}\n\nซอยร่วมจิตรเคยเป็นย่านแฟชั่นและร้านตัดเสื้อ บทความ Old but Cool เล่าเรื่องผ่านทายาทร้านทรงประดิษฐ์ ซึ่งเป็นห้องเสื้อยุคบุกเบิกที่มีชื่อเสียงด้านการตัดสูทและงานเย็บด้วยมือ\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/srichan-old-but-cool-ย่านเก่าแต่เก๋า|อ่านเพิ่มเติม — ศรีจันทร์ ย่านเก่าแต่เก๋า]]\nบทความเผยแพร่ 12 กรกฎาคม 2565 ข้อมูลคำบอกเล่าและสภาพพื้นที่อาจต่างจากปัจจุบัน\n\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/16.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nตรวจตำแหน่ง 29 ตุลาคม 2569: ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม\n[[https://www.google.com/maps/search/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD+%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4321324,102.8342335,824m/data=!3m2!1e3!4b1!5m1!1e1|ตรวจข้อมูลตำแหน่งใน Google Maps]]",
+            "camera_bearing_status": "ยังไม่ทราบทิศกล้อง ห้ามใช้เป็นมุมถ่ายซ้ำที่ยืนยันแล้ว",
+            "description": "{{https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg}}\n\nซอยร่วมจิตรเคยเป็นย่านแฟชั่นและร้านตัดเสื้อ บทความ Old but Cool เล่าเรื่องผ่านทายาทร้านทรงประดิษฐ์ ซึ่งเป็นห้องเสื้อยุคบุกเบิกที่มีชื่อเสียงด้านการตัดสูทและงานเย็บด้วยมือ\n\n[[https://srichanclubkk.wixsite.com/creativedistrict/post/srichan-old-but-cool-ย่านเก่าแต่เก๋า|อ่านเพิ่มเติม — ศรีจันทร์ ย่านเก่าแต่เก๋า]]\nบทความเผยแพร่ 12 กรกฎาคม 2565 ข้อมูลคำบอกเล่าและสภาพพื้นที่อาจต่างจากปัจจุบัน\n\nตำแหน่งประมาณ รอยืนยันภาคสนาม\n\n[[https://loveiscomingsoon.github.io/srichan-landmarks/details/original/16.html|ดูรายละเอียดเดิมฉบับเต็ม]]\n\nจุดชมมุมภาพโดยประมาณ — ใช้แทนบริเวณของภาพอ้างอิง ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน จุดยืนและทิศกล้องจริงยังต้องเทียบกับพื้นที่\n[[https://www.google.com/maps/search/?api=1&query=16.4329,102.83724|เปิดบริเวณมุมภาพใน Google Maps]]\n[[https://raw.githubusercontent.com/loveiscomingsoon/srichan-landmarks/main/images/landmarks/festival-v3/16.jpg|เปิดภาพอ้างอิงของจุดนี้]]",
             "festival_name": "เทศกาล \"สีสัน ศรีจันทร์\"",
             "google_maps_name": "",
             "google_maps_url": "https://www.google.com/maps/search/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%89%E0%B8%AD+%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@16.4321324,102.8342335,824m/data=!3m2!1e3!4b1!5m1!1e1",
@@ -940,13 +971,17 @@
             "history_updated": "2026-10-28",
             "image_number": 16,
             "kind": "existing_reference",
+            "location_role": "photo_viewpoint",
             "name": "16 ซอยร้านตัดเสื้อร่วมจิตร",
             "original_details_url": "https://loveiscomingsoon.github.io/srichan-landmarks/details/original/16.html",
-            "position_audit_note": "ค้นหา Google Maps แล้วยังไม่พบรายการที่ยืนยันสถานที่เฉพาะในภาพได้ คงพิกัดประมาณเดิม รอชุมชน/ภาคสนาม",
+            "position_audit_note": "ปรับเป็นจุดชมมุมภาพโดยประมาณตามแนวทางผู้ใช้ 29 ตุลาคม 2569 ยังไม่ยืนยันจุดยืน ทิศกล้อง หรือทางเข้า",
             "position_checked_on": "2026-10-29",
-            "position_status": "ตำแหน่งประมาณ — ตรวจ Google Maps 2026-10-29 แล้วยังยืนยันจุดเฉพาะไม่ได้ ห้ามใช้เป็นพิกัดนำทางแม่นยำ",
+            "position_status": "ตำแหน่งประมาณของจุดชมมุมภาพ ไม่ใช่พิกัดอาคารหรือทางเข้าที่ตรวจยืนยัน",
             "source": "แผนที่ศรีจันทร์.jpg — ศรีจันทร์ CREATIVE MAP",
-            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม"
+            "survey_status": "รอยืนยันเจ้าบ้านและภาคสนาม",
+            "view_area_name": "ซอยร้านตัดเสื้อร่วมจิตร",
+            "view_area_url": "https://www.google.com/maps/search/?api=1&query=16.4329,102.83724",
+            "viewpoint_status": "จุดชมมุมภาพโดยประมาณ ยังไม่ยืนยันจุดยืนและทิศกล้องจริง"
           },
           "type": "Feature"
         },
@@ -958,7 +993,7 @@
             ],
             "type": "Point"
           },
-          "id": "7WIA7",
+          "id": "yAzzx",
           "properties": {
             "_umap_options": {
               "color": "#187c83",
@@ -1076,6 +1111,26 @@
           },
           {
             "key": "position_audit_note",
+            "type": "String"
+          },
+          {
+            "key": "location_role",
+            "type": "String"
+          },
+          {
+            "key": "viewpoint_status",
+            "type": "String"
+          },
+          {
+            "key": "camera_bearing_status",
+            "type": "String"
+          },
+          {
+            "key": "view_area_name",
+            "type": "String"
+          },
+          {
+            "key": "view_area_url",
             "type": "String"
           }
         ],
