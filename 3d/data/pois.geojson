@@ -1,0 +1,5978 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836545,
+          16.4333558
+        ]
+      },
+      "properties": {
+        "name": "สถานีขนส่งจังหวัดขอนแก่นแห่งที่ 2",
+        "category": "บริการ / สถานที่",
+        "kind": "bus_station",
+        "source_url": "https://www.openstreetmap.org/node/381897545",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8294503,
+          16.4306817
+        ]
+      },
+      "properties": {
+        "name": "สถานีดับเพลิง",
+        "category": "บริการ / สถานที่",
+        "kind": "fire_station",
+        "source_url": "https://www.openstreetmap.org/node/381897582",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8335257,
+          16.4278915
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/683753098",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8359986,
+          16.4286155
+        ]
+      },
+      "properties": {
+        "name": "สถานีตำรวจภูธรเมืองขอนแกน",
+        "category": "บริการ / สถานที่",
+        "kind": "police",
+        "source_url": "https://www.openstreetmap.org/node/683753108",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนกลางเมือง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337015,
+          16.427791
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมสวัสดี",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/683753110",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-221600;+66-43-222433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8338301,
+          16.4289477
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารธนชาต",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/683753123",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8341069,
+          16.4341511
+        ]
+      },
+      "properties": {
+        "name": "เมืองพลฉั่วเต็กไถ่",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/683753128",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8341298,
+          16.4343494
+        ]
+      },
+      "properties": {
+        "name": "เอส. พี. มอเตอร์",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/683753135",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8358883,
+          16.4347044
+        ]
+      },
+      "properties": {
+        "name": "คลังยา",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/683753140",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Klang Mueang Road",
+        "addr:housenumber": "54/14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8334817,
+          16.4274947
+        ]
+      },
+      "properties": {
+        "name": "La Bicycle",
+        "category": "ร้านค้า",
+        "kind": "bicycle",
+        "source_url": "https://www.openstreetmap.org/node/683753142",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8333643,
+          16.4328369
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมชัยพัช",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/683753158",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-333056",
+        "website": "http://www.chaipat-hotel.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8351928,
+          16.4287781
+        ]
+      },
+      "properties": {
+        "name": "เซนโทซ่า",
+        "category": "ร้านค้า",
+        "kind": "department_store",
+        "source_url": "https://www.openstreetmap.org/node/683753160",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:00-20:00",
+        "addr:street": "ถนนกลางเมือง",
+        "addr:housenumber": "62/54-57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8340649,
+          16.4333823
+        ]
+      },
+      "properties": {
+        "name": "แก่นนครยานยนต์",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/683753169",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8362071,
+          16.4343611
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมวิลล่า",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/683753170",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8345052,
+          16.4343112
+        ]
+      },
+      "properties": {
+        "name": "เอส. พี. มอเตอร์",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/683753174",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.832657,
+          16.4296028
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมเจริญธานีขอนแกน",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/683753177",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66(0) 4322 0400-14",
+        "website": "http://www.charoenthanikhonkaen.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8355545,
+          16.4338205
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมวีวิช",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/683753193",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-236888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8357537,
+          16.4307883
+        ]
+      },
+      "properties": {
+        "name": "คลินิกทันตกรรม อัจฉรา-สุทิน",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/683753195",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 09:30-20:00, Su 09:30-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836237,
+          16.4349174
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารอิสลามแห่งประเทศไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/683753199",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Klang Mueang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.833734,
+          16.4303122
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารออมสิน",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/683753202",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8343867,
+          16.4334096
+        ]
+      },
+      "properties": {
+        "name": "นำชัยมอเตอร์เซลส์",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/683753217",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8335989,
+          16.4285504
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารกสิกรไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/683753218",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.835358,
+          16.4293237
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/683753221",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8358253,
+          16.4297934
+        ]
+      },
+      "properties": {
+        "name": "ไปรษณีย์ขอนแกน",
+        "category": "บริการ / สถานที่",
+        "kind": "post_office",
+        "source_url": "https://www.openstreetmap.org/node/683753227",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนกลางเมือง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8325446,
+          16.430213
+        ]
+      },
+      "properties": {
+        "name": "Lighthouse",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/683753229",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8329561,
+          16.4306318
+        ]
+      },
+      "properties": {
+        "name": "ซันไชน์ดรักส์",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/683753231",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 07:00-00:00",
+        "addr:street": "ถนนศรีจันทร์",
+        "addr:housenumber": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8325512,
+          16.430678
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/683753243",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8353141,
+          16.4263506
+        ]
+      },
+      "properties": {
+        "name": "โจโมไบล์",
+        "category": "ร้านค้า",
+        "kind": "mobile_phone",
+        "source_url": "https://www.openstreetmap.org/node/683753245",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8359163,
+          16.4349047
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/683753247",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8373702,
+          16.4302644
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารไทยพาณิชย์",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/705719751",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.832212,
+          16.4300943
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์รวนสินค้า OTOP ภาคอีสาน",
+        "category": "ร้านค้า",
+        "kind": "gift",
+        "source_url": "https://www.openstreetmap.org/node/711681810",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8396199,
+          16.4297532
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารอาคารสงเคราะห์",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711681812",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8326936,
+          16.4308747
+        ]
+      },
+      "properties": {
+        "name": "ไทยวารี",
+        "category": "ร้านค้า",
+        "kind": "books",
+        "source_url": "https://www.openstreetmap.org/node/711681818",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8283085,
+          16.4315359
+        ]
+      },
+      "properties": {
+        "name": "New Holland Agriculture",
+        "category": "ร้านค้า",
+        "kind": "agrarian",
+        "source_url": "https://www.openstreetmap.org/node/711681825",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8323755,
+          16.4306146
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารกรุงเทพ",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711681827",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308862,
+          16.4312116
+        ]
+      },
+      "properties": {
+        "name": "สายป่าน",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/711681836",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.841544,
+          16.4294821
+        ]
+      },
+      "properties": {
+        "name": "ฮอนด้า",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/711681864",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308218,
+          16.4298241
+        ]
+      },
+      "properties": {
+        "name": "Beauty Salon",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/711681866",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8367435,
+          16.430352
+        ]
+      },
+      "properties": {
+        "name": "ฮอนด้า",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/711681887",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8290394,
+          16.429212
+        ]
+      },
+      "properties": {
+        "name": "Blue's Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/711681892",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:housenumber": "7/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83194,
+          16.4301326
+        ]
+      },
+      "properties": {
+        "name": "ไอทีซิตี้",
+        "category": "ร้านค้า",
+        "kind": "computer",
+        "source_url": "https://www.openstreetmap.org/node/711681900",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8311357,
+          16.4307677
+        ]
+      },
+      "properties": {
+        "name": "กรุงศรี",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711681915",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8300113,
+          16.4307255
+        ]
+      },
+      "properties": {
+        "name": "โรงแรม แกรนด์ลีโอ",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/711681929",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-227745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8318365,
+          16.4307311
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารกรุงไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711681946",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8398914,
+          16.429715
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมแก่นนคร",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/711681964",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828919,
+          16.4315504
+        ]
+      },
+      "properties": {
+        "name": "ฮอนด้า",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/711681983",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8369954,
+          16.4303168
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารกรุงไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711681988",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8310758,
+          16.4298809
+        ]
+      },
+      "properties": {
+        "name": "Eric's Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/711681991",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8416209,
+          16.4267771
+        ]
+      },
+      "properties": {
+        "name": "VIP ส้มตำ Club",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/711681994",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "11:00-23:45",
+        "addr:street": "ถนนชีท่าขอน",
+        "addr:housenumber": "90/586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828975,
+          16.4314712
+        ]
+      },
+      "properties": {
+        "name": "เพาเวอร์ โซน",
+        "category": "ร้านค้า",
+        "kind": "electronics",
+        "source_url": "https://www.openstreetmap.org/node/711681996",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8316507,
+          16.4299546
+        ]
+      },
+      "properties": {
+        "name": "ท็อปส์",
+        "category": "ร้านค้า",
+        "kind": "supermarket",
+        "source_url": "https://www.openstreetmap.org/node/711682013",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8380612,
+          16.4299729
+        ]
+      },
+      "properties": {
+        "name": "แยงซีเกียง",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/711682014",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8316084,
+          16.4307883
+        ]
+      },
+      "properties": {
+        "name": "ซีไอเอ็มบี ไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/711682039",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.831622,
+          16.4297168
+        ]
+      },
+      "properties": {
+        "name": "โฆษะ เบียร์ การ์เด้น",
+        "category": "บริการ / สถานที่",
+        "kind": "biergarten",
+        "source_url": "https://www.openstreetmap.org/node/711682057",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8296588,
+          16.4297599
+        ]
+      },
+      "properties": {
+        "name": "สำนักงานเทศบาลนครขอนแก่น",
+        "category": "สำนักงาน",
+        "kind": "government",
+        "source_url": "https://www.openstreetmap.org/node/711682069",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8409691,
+          16.4297613
+        ]
+      },
+      "properties": {
+        "name": "ยามาฮ่า",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/711682080",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8311359,
+          16.4298929
+        ]
+      },
+      "properties": {
+        "name": "Lucky Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/711682083",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8367244,
+          16.4301612
+        ]
+      },
+      "properties": {
+        "name": "ขอนแก่นไทยแลนด์ แผนกคอมพิวเตอร์",
+        "category": "ร้านค้า",
+        "kind": "computer",
+        "source_url": "https://www.openstreetmap.org/node/711682093",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8289015,
+          16.4294351
+        ]
+      },
+      "properties": {
+        "name": "เรือนดอกไม้",
+        "category": "ร้านค้า",
+        "kind": "florist",
+        "source_url": "https://www.openstreetmap.org/node/715076969",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.829006,
+          16.429072
+        ]
+      },
+      "properties": {
+        "name": "Didines",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/715076971",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8343537,
+          16.4303811
+        ]
+      },
+      "properties": {
+        "name": "ร้านนำสิน",
+        "category": "ร้านค้า",
+        "kind": "musical_instrument",
+        "source_url": "https://www.openstreetmap.org/node/728293781",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8349982,
+          16.4303081
+        ]
+      },
+      "properties": {
+        "name": "มาราธอน มิวสิค",
+        "category": "ร้านค้า",
+        "kind": "musical_instrument",
+        "source_url": "https://www.openstreetmap.org/node/728293848",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8323927,
+          16.4343091
+        ]
+      },
+      "properties": {
+        "name": "หน้าไม้",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/733928262",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 11:30-14:00,17:00-21:30",
+        "phone": "+6643239958",
+        "website": "http://www.foodkk.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.837219,
+          16.4313773
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมภูอินน์",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/737304626",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-243174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8365772,
+          16.4292071
+        ]
+      },
+      "properties": {
+        "name": "ศรีคุรุสิงห์สภา",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/737304635",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.841352,
+          16.4334059
+        ]
+      },
+      "properties": {
+        "name": "คลินิกศัลยกรรมตกแต่ง น.พ. บวรศิลป์",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/746363964",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377546,
+          16.430222
+        ]
+      },
+      "properties": {
+        "name": "ชัยมหาเบเกอรี & ซูเปอร์มาร์เก็ต",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/746363970",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road",
+        "addr:housenumber": "177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.840364,
+          16.4334655
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนสอนศาสนาอิสลามขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/746363977",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.837504,
+          16.428484
+        ]
+      },
+      "properties": {
+        "name": "มูลนิธิจิตกุศลขอนแก่น (ซุ่นซิมเซี่ยงตึ๊ง)",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/747067256",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8341211,
+          16.4340021
+        ]
+      },
+      "properties": {
+        "name": "บ้านเภสัชกร",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/761289239",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8340418,
+          16.4332151
+        ]
+      },
+      "properties": {
+        "name": "ฟาร์มาคอน (ท่งจี่ตึ้ง)",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/761289385",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8352091,
+          16.4342978
+        ]
+      },
+      "properties": {
+        "name": "พระคริสตธรรมภาคตะวันออกเฉียงเหนือ",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/761289388",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8331611,
+          16.4305339
+        ]
+      },
+      "properties": {
+        "name": "มาติโก้ทัวร์แอนด์เอกซ์เพรส",
+        "category": "ร้านค้า",
+        "kind": "travel_agency",
+        "source_url": "https://www.openstreetmap.org/node/763166218",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8335431,
+          16.4304847
+        ]
+      },
+      "properties": {
+        "name": "เคี้ยงมินิมาร์ท",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/763166225",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8380105,
+          16.4349871
+        ]
+      },
+      "properties": {
+        "name": "ข้าวต้มแต้จิ๋ว",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/767185696",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.840594,
+          16.4332507
+        ]
+      },
+      "properties": {
+        "name": "สถานธนานุบาล 1",
+        "category": "สำนักงาน",
+        "kind": "pawnbroker",
+        "source_url": "https://www.openstreetmap.org/node/767185704",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8379302,
+          16.4326589
+        ]
+      },
+      "properties": {
+        "name": "คาร์แคร์กับกาแฟ",
+        "category": "บริการ / สถานที่",
+        "kind": "car_wash",
+        "source_url": "https://www.openstreetmap.org/node/767185706",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8378222,
+          16.433357
+        ]
+      },
+      "properties": {
+        "name": "ทันตแพทย์ดนัย-ศรีรัตน์",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/767185710",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8293935,
+          16.4343234
+        ]
+      },
+      "properties": {
+        "name": "บีเฟิร์สต์",
+        "category": "บริการ / สถานที่",
+        "kind": "biergarten",
+        "source_url": "https://www.openstreetmap.org/node/767880873",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.831058,
+          16.4332506
+        ]
+      },
+      "properties": {
+        "name": "เจอกัน ฟูด & ดริงก์",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/767880879",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8399221,
+          16.4335606
+        ]
+      },
+      "properties": {
+        "name": "เทคแคร์มินิมาร์ท",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/768551860",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8381222,
+          16.4343527
+        ]
+      },
+      "properties": {
+        "name": "เมี่ยงทอดอุดร",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/768551868",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8410722,
+          16.427013
+        ]
+      },
+      "properties": {
+        "name": "ดีมาโฮเต็ล",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/769956499",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-321562",
+        "website": "https://www.dmahotel-khonkaen.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8380174,
+          16.4260049
+        ]
+      },
+      "properties": {
+        "name": "บ้านไม้คาร์แคร์",
+        "category": "ร้านค้า",
+        "kind": "car_repair",
+        "source_url": "https://www.openstreetmap.org/node/769984332",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8333511,
+          16.4263175
+        ]
+      },
+      "properties": {
+        "name": "คลินิกจัดฟันบ้านฟันสวย",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/773662060",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337119,
+          16.4278842
+        ]
+      },
+      "properties": {
+        "name": "บ้านยาพรพัฒน์",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/773662065",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8386749,
+          16.4261002
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมเป็นหนึ่ง",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/784666878",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8318006,
+          16.4294347
+        ]
+      },
+      "properties": {
+        "name": "โฆษะ สเต็ก เฮ้าส์",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1102988648",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8332392,
+          16.4326469
+        ]
+      },
+      "properties": {
+        "name": "เจ้าพ่อเกษม",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1201648730",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8359085,
+          16.4349558
+        ]
+      },
+      "properties": {
+        "name": "เล้งเย็นตาโฟ",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1202912736",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.829227,
+          16.4311323
+        ]
+      },
+      "properties": {
+        "name": "อนุสาวรีย์ประชาธิปไตย",
+        "category": "สถานที่ประวัติศาสตร์",
+        "kind": "monument",
+        "source_url": "https://www.openstreetmap.org/node/1226778776",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8284712,
+          16.4315427
+        ]
+      },
+      "properties": {
+        "name": "5 ดาว ราชาโต๊ะจีน",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1236074127",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su,PH 10:30-22:00",
+        "phone": "+66815927119;+6643239275",
+        "website": "http://www.5starsfood.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.829028,
+          16.4307738
+        ]
+      },
+      "properties": {
+        "name": "พระแม่ธรณี",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1237110627",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828992,
+          16.4308424
+        ]
+      },
+      "properties": {
+        "name": "ท้าวมหาพรหม ท้าวกบิลพรหม พระราหู",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1237110634",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8289654,
+          16.4307898
+        ]
+      },
+      "properties": {
+        "name": "พระศิวะ พระอุมาเทวี พระพิฆเนศ",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1237110656",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8303888,
+          16.4306751
+        ]
+      },
+      "properties": {
+        "name": "ข้าวต้ม ก๊ก 24 น.",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1237124245",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8358306,
+          16.4341743
+        ]
+      },
+      "properties": {
+        "name": "เฮงง่วนเฮียง",
+        "category": "ร้านค้า",
+        "kind": "gift",
+        "source_url": "https://www.openstreetmap.org/node/1238623483",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8341878,
+          16.4348398
+        ]
+      },
+      "properties": {
+        "name": "สหมิตรขอนแก่น (2005)",
+        "category": "ร้านค้า",
+        "kind": "clothes",
+        "source_url": "https://www.openstreetmap.org/node/1238623496",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8345656,
+          16.4335045
+        ]
+      },
+      "properties": {
+        "name": "คลินิกเวชกรรมหน้าเมือง",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/1238623503",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนหน้าเมือง",
+        "addr:housenumber": "39/6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8340986,
+          16.4337326
+        ]
+      },
+      "properties": {
+        "name": "เจริญแสงพานิช เพ้นท์",
+        "category": "ร้านค้า",
+        "kind": "paint",
+        "source_url": "https://www.openstreetmap.org/node/1238623513",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+6643236266;+6643334459",
+        "website": "http://www.cspaint.co.th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8345352,
+          16.4349325
+        ]
+      },
+      "properties": {
+        "name": "รุ่งแสงขอนแก่น",
+        "category": "ร้านค้า",
+        "kind": "hardware",
+        "source_url": "https://www.openstreetmap.org/node/1238623524",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8340232,
+          16.4329518
+        ]
+      },
+      "properties": {
+        "name": "ชัยรัตนธรรมอิเล็กตริก",
+        "category": "ร้านค้า",
+        "kind": "electronics",
+        "source_url": "https://www.openstreetmap.org/node/1248304852",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8319094,
+          16.4343534
+        ]
+      },
+      "properties": {
+        "name": "บุปผามาดา",
+        "category": "ร้านค้า",
+        "kind": "florist",
+        "source_url": "https://www.openstreetmap.org/node/1248304901",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8334535,
+          16.4342247
+        ]
+      },
+      "properties": {
+        "name": "อภิภัทรไลท์ติ้ง",
+        "category": "ร้านค้า",
+        "kind": "lighting",
+        "source_url": "https://www.openstreetmap.org/node/1248304902",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8341223,
+          16.4270959
+        ]
+      },
+      "properties": {
+        "name": "ญาพ่อเซียงแก้ว",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1252261821",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8314804,
+          16.4340052
+        ]
+      },
+      "properties": {
+        "name": "รุมตอม",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1254056943",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8338605,
+          16.4313286
+        ]
+      },
+      "properties": {
+        "name": "ต้อง",
+        "category": "ร้านค้า",
+        "kind": "bakery",
+        "source_url": "https://www.openstreetmap.org/node/1254056950",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8415118,
+          16.4263825
+        ]
+      },
+      "properties": {
+        "name": "ฝันดี ซิทตี้ วิว",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "motel",
+        "source_url": "https://www.openstreetmap.org/node/1257625188",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8407571,
+          16.4333543
+        ]
+      },
+      "properties": {
+        "name": "ครัวนายตุ๋ย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1277097965",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.841138,
+          16.4325704
+        ]
+      },
+      "properties": {
+        "name": "โคโคนัท",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1277097975",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8391507,
+          16.434014
+        ]
+      },
+      "properties": {
+        "name": "Tamarind Residences",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "guest_house",
+        "source_url": "https://www.openstreetmap.org/node/1277098014",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+6643235800;+66891393919",
+        "website": "http://www.tamarindkhonkaen.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8311428,
+          16.4345955
+        ]
+      },
+      "properties": {
+        "name": "อนันต์เบเกอรี่",
+        "category": "ร้านค้า",
+        "kind": "bakery",
+        "source_url": "https://www.openstreetmap.org/node/1279102771",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.835502,
+          16.4325951
+        ]
+      },
+      "properties": {
+        "name": "หอพระ",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/node/1279240751",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8345004,
+          16.4318232
+        ]
+      },
+      "properties": {
+        "name": "โรงอาหาร",
+        "category": "บริการ / สถานที่",
+        "kind": "food_court",
+        "source_url": "https://www.openstreetmap.org/node/1279240770",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308177,
+          16.4283771
+        ]
+      },
+      "properties": {
+        "name": "ยูบาร์",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/1298310997",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8367328,
+          16.4306689
+        ]
+      },
+      "properties": {
+        "name": "อาเข่ง",
+        "category": "ร้านค้า",
+        "kind": "books",
+        "source_url": "https://www.openstreetmap.org/node/1299490637",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8352743,
+          16.4295225
+        ]
+      },
+      "properties": {
+        "name": "แว่นท็อปเจริญ",
+        "category": "ร้านค้า",
+        "kind": "optician",
+        "source_url": "https://www.openstreetmap.org/node/1299490638",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8367686,
+          16.4311522
+        ]
+      },
+      "properties": {
+        "name": "อรพินเบเกอรี่",
+        "category": "ร้านค้า",
+        "kind": "bakery",
+        "source_url": "https://www.openstreetmap.org/node/1299490640",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8365608,
+          16.4306025
+        ]
+      },
+      "properties": {
+        "name": "เอกชัยเบเกอรี่",
+        "category": "ร้านค้า",
+        "kind": "bakery",
+        "source_url": "https://www.openstreetmap.org/node/1299490642",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8363025,
+          16.4339391
+        ]
+      },
+      "properties": {
+        "name": "ปังไหน..อ่ะ?",
+        "category": "ร้านค้า",
+        "kind": "bakery",
+        "source_url": "https://www.openstreetmap.org/node/1305821712",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8321649,
+          16.429458
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมโฆษะ",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/1384624104",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-320320",
+        "website": "https://www.kosahotel.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8340812,
+          16.4334792
+        ]
+      },
+      "properties": {
+        "name": "ประภาสแกลเลอรี่",
+        "category": "ร้านค้า",
+        "kind": "art",
+        "source_url": "https://www.openstreetmap.org/node/1594856927",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8314561,
+          16.4344123
+        ]
+      },
+      "properties": {
+        "name": "ก๋วยเตี๋ยวเนื้อน่องลาย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/1653918201",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8364653,
+          16.4340921
+        ]
+      },
+      "properties": {
+        "name": "สถานปฏิบัติการเภสัชกรรมชุมชน 3",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/2680413056",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8365155,
+          16.434083
+        ]
+      },
+      "properties": {
+        "name": "คลินิกเทคนิคการแพทย์และกายภาพบำบัด",
+        "category": "บริการ / สถานที่",
+        "kind": "clinic",
+        "source_url": "https://www.openstreetmap.org/node/2680413057",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8364072,
+          16.4340908
+        ]
+      },
+      "properties": {
+        "name": "คลินิกทันตกรรมพิเศษในเมือง",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/2680413059",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8361108,
+          16.4334508
+        ]
+      },
+      "properties": {
+        "name": "อัมพรแหนมเนือง",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/2684788915",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Klang Mueang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8381002,
+          16.4337861
+        ]
+      },
+      "properties": {
+        "name": "ลอยก๋วยเตี๋ยวเป็ด",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/2760029441",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8357349,
+          16.4302553
+        ]
+      },
+      "properties": {
+        "name": "ทีเอสฟาร์มา",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/2904555494",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8325683,
+          16.4277934
+        ]
+      },
+      "properties": {
+        "name": "ข้าวต้มเครื่องแม่หน่อย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3228153461",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "16:00-24:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.837271,
+          16.4300935
+        ]
+      },
+      "properties": {
+        "name": "คลินิกหมอสุกิจ",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/3270010110",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Si Chan Road",
+        "addr:housenumber": "402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371401,
+          16.4303059
+        ]
+      },
+      "properties": {
+        "name": "เคี้ยงซูเปอร์มาร์เก็ต",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/3270010111",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8375782,
+          16.4306273
+        ]
+      },
+      "properties": {
+        "name": "ขอนแก่นรวมแพทย์",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/3270010115",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8411999,
+          16.4283563
+        ]
+      },
+      "properties": {
+        "name": "Hop Inn Khon Kaen",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/3326551805",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "website": "https://hopinnhotel.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8416782,
+          16.4301311
+        ]
+      },
+      "properties": {
+        "name": "คาเฟ่ อเมซอน",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/3365549822",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8418644,
+          16.4300531
+        ]
+      },
+      "properties": {
+        "name": "จิฟฟี่",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/3365549823",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8417897,
+          16.4298607
+        ]
+      },
+      "properties": {
+        "name": "ป.ต.ท.",
+        "category": "บริการ / สถานที่",
+        "kind": "fuel",
+        "source_url": "https://www.openstreetmap.org/node/3365549824",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "website": "http://www.pttplc.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377548,
+          16.4300087
+        ]
+      },
+      "properties": {
+        "name": "ทิเซงฟาร์มาซี",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/3393344267",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8374902,
+          16.4300476
+        ]
+      },
+      "properties": {
+        "name": "ธีระวัฒน์ ไมโครคลีนิค",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/3393348727",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Si Chan Road",
+        "addr:housenumber": "410-418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8406334,
+          16.4292058
+        ]
+      },
+      "properties": {
+        "name": "ปั๊มแก๊ส LPG",
+        "category": "บริการ / สถานที่",
+        "kind": "fuel",
+        "source_url": "https://www.openstreetmap.org/node/3393349876",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8416268,
+          16.4303911
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมบีทู",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/3412105674",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8417674,
+          16.4267551
+        ]
+      },
+      "properties": {
+        "name": "ประชาสโมสร",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3428651317",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "10:30-23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8401986,
+          16.4264314
+        ]
+      },
+      "properties": {
+        "name": "บลองนัวร์",
+        "category": "บริการ / สถานที่",
+        "kind": "ice_cream",
+        "source_url": "https://www.openstreetmap.org/node/3428651318",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "10:30-21:00",
+        "addr:street": "Robmuang Road",
+        "addr:housenumber": "179/5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8404895,
+          16.4260942
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมจันทร์ธารา",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/3429644985",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8373943,
+          16.4313165
+        ]
+      },
+      "properties": {
+        "name": "โจ๊กคุณไหมหมูเด้ง",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3570881699",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8378401,
+          16.4312877
+        ]
+      },
+      "properties": {
+        "name": "อู๋เซี่ยงจี๊",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3570881700",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8417039,
+          16.4262354
+        ]
+      },
+      "properties": {
+        "name": "บ้านปลาทู ซีฟู้ด",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3570890672",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371978,
+          16.4278519
+        ]
+      },
+      "properties": {
+        "name": "Mister Moon",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3579465209",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนชีท่าขอน",
+        "addr:housenumber": "7/22-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8368523,
+          16.4303535
+        ]
+      },
+      "properties": {
+        "name": "บ้านคุณหมอฟัน",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/3626449374",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83852,
+          16.4306311
+        ]
+      },
+      "properties": {
+        "name": "ครัวหยก",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3787170447",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "07:00-16:00",
+        "phone": "+66-43-242937, +66-89-7154580",
+        "addr:street": "หลังเมือง ซอย 6",
+        "addr:housenumber": "169/30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8381434,
+          16.430163
+        ]
+      },
+      "properties": {
+        "name": "เอเซียหูฉลาม",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3787171833",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8388067,
+          16.4300857
+        ]
+      },
+      "properties": {
+        "name": "บะหมี่เรอดัง",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3787189838",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.829718,
+          16.4261874
+        ]
+      },
+      "properties": {
+        "name": "กาแฟสดดอยช้าง",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/3914797145",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8296455,
+          16.4261948
+        ]
+      },
+      "properties": {
+        "name": "ครัวสุดา",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3914797146",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8400103,
+          16.4260345
+        ]
+      },
+      "properties": {
+        "name": "ข้าวราดแกงเจ๊เปิ้ล",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/3929933835",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "06:00-14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836688,
+          16.4260593
+        ]
+      },
+      "properties": {
+        "name": "ร้านนายจันทร์",
+        "category": "ร้านค้า",
+        "kind": "bicycle",
+        "source_url": "https://www.openstreetmap.org/node/3929936114",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8352086,
+          16.4283685
+        ]
+      },
+      "properties": {
+        "name": "สถานธนานุบาล 2",
+        "category": "สำนักงาน",
+        "kind": "pawnbroker",
+        "source_url": "https://www.openstreetmap.org/node/3929941739",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.837356,
+          16.4338628
+        ]
+      },
+      "properties": {
+        "name": "คลินิกเด็กและภูมิแพ้ขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "clinic",
+        "source_url": "https://www.openstreetmap.org/node/4143704089",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Th 17:30-19:30; Sa 10:00-15:00",
+        "addr:street": "Ammart Road",
+        "addr:housenumber": "52/9-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371582,
+          16.433874
+        ]
+      },
+      "properties": {
+        "name": "สุมาลีโอชา",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4152478422",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8309942,
+          16.4298611
+        ]
+      },
+      "properties": {
+        "name": "Happy Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/4183133516",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8307396,
+          16.4298087
+        ]
+      },
+      "properties": {
+        "name": "ท็อปคาร์เร้นท์",
+        "category": "บริการ / สถานที่",
+        "kind": "car_rental",
+        "source_url": "https://www.openstreetmap.org/node/4183139395",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 07:30-19:00",
+        "phone": "+66897112829",
+        "website": "https://topcarrents.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308951,
+          16.4298387
+        ]
+      },
+      "properties": {
+        "name": "คาเฟ่ อเมซอน",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/4183251889",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8311858,
+          16.429905
+        ]
+      },
+      "properties": {
+        "name": "Lucky Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/4183294389",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8313479,
+          16.4300447
+        ]
+      },
+      "properties": {
+        "name": "MK Restaurants",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4183501289",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "1642",
+        "website": "https://www.mkrestaurant.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8306984,
+          16.4313774
+        ]
+      },
+      "properties": {
+        "name": "Tom N Toms",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/4184742389",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8309592,
+          16.4315718
+        ]
+      },
+      "properties": {
+        "name": "Subway",
+        "category": "บริการ / สถานที่",
+        "kind": "fast_food",
+        "source_url": "https://www.openstreetmap.org/node/4184742589",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "website": "https://www.subway.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308144,
+          16.4312527
+        ]
+      },
+      "properties": {
+        "name": "Kacha Kacha",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4184745589",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308298,
+          16.4320282
+        ]
+      },
+      "properties": {
+        "name": "Deep",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/4184746089",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8350816,
+          16.427214
+        ]
+      },
+      "properties": {
+        "name": "ขอนแก่นวิทยา",
+        "category": "ร้านค้า",
+        "kind": "stationery",
+        "source_url": "https://www.openstreetmap.org/node/4206584689",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371168,
+          16.4339994
+        ]
+      },
+      "properties": {
+        "name": "ครัวผู้การ (เซ่งฮง)",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4208768532",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนอำมาตย์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8366876,
+          16.4339049
+        ]
+      },
+      "properties": {
+        "name": "แสงทองอิเล็กทริคไบค์",
+        "category": "ร้านค้า",
+        "kind": "bicycle",
+        "source_url": "https://www.openstreetmap.org/node/4208771289",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Ammart Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8357494,
+          16.4306936
+        ]
+      },
+      "properties": {
+        "name": "คลินิกเด็ก หมออำนวยพร",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/4218460015",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Fr 07:00-08:00, 17:00-20:00; Sa 09:00-20:00; Su 14:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.835789,
+          16.4304807
+        ]
+      },
+      "properties": {
+        "name": "ขอนแก่นจักษุคลินิก",
+        "category": "บริการ / สถานที่",
+        "kind": "clinic",
+        "source_url": "https://www.openstreetmap.org/node/4218460016",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Su-Fr 18:00-21:00, Sa 09:00-12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8281286,
+          16.4260543
+        ]
+      },
+      "properties": {
+        "name": "สถานียา",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/4221153817",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8344238,
+          16.4337955
+        ]
+      },
+      "properties": {
+        "name": "เตี๋ยวเรือหวานเย็น",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4221184797",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.833359,
+          16.4342374
+        ]
+      },
+      "properties": {
+        "name": "ประสิทธิ์โภชนา",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4221215218",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8391276,
+          16.42983
+        ]
+      },
+      "properties": {
+        "name": "เตียฮั่วหยู",
+        "category": "ร้านค้า",
+        "kind": "confectionery",
+        "source_url": "https://www.openstreetmap.org/node/4245400176",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8387877,
+          16.4271834
+        ]
+      },
+      "properties": {
+        "name": "น้องเมย์ราดหน้าน้ำมันหอย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4283784198",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:00-14:00, 14:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377296,
+          16.4322713
+        ]
+      },
+      "properties": {
+        "name": "บุญโฮม",
+        "category": "ร้านค้า",
+        "kind": "clothes",
+        "source_url": "https://www.openstreetmap.org/node/4326375623",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "addr:street": "Lang Muang Road",
+        "addr:housenumber": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377175,
+          16.4321542
+        ]
+      },
+      "properties": {
+        "name": "หัวกะทิ",
+        "category": "บริการ / สถานที่",
+        "kind": "ice_cream",
+        "source_url": "https://www.openstreetmap.org/node/4326375624",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:30-20:00",
+        "addr:street": "Soi Lang Mueang 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8389379,
+          16.429862
+        ]
+      },
+      "properties": {
+        "name": "คลินิกนายแพทย์ชินวัฒน์",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/4326380048",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Si Chan Road",
+        "addr:housenumber": "572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8359104,
+          16.4348361
+        ]
+      },
+      "properties": {
+        "name": "โซล",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4333193179",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 11:00-21:30",
+        "addr:street": "Klang Mueang Road",
+        "addr:housenumber": "54/17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.837802,
+          16.4330083
+        ]
+      },
+      "properties": {
+        "name": "คลินิกตา หมอวีระศักดิ์",
+        "category": "บริการ / สถานที่",
+        "kind": "doctors",
+        "source_url": "https://www.openstreetmap.org/node/4336592337",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road",
+        "addr:housenumber": "74/8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8378288,
+          16.431138
+        ]
+      },
+      "properties": {
+        "name": "ฟราเทลโล่ เฮ้าส์",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/4336605797",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "Lang Muang Road",
+        "addr:housenumber": "155/19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8393323,
+          16.4298208
+        ]
+      },
+      "properties": {
+        "name": "พัฒนาสังฆภัณฑ์ 8",
+        "category": "ร้านค้า",
+        "kind": "religion",
+        "source_url": "https://www.openstreetmap.org/node/4343804719",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "08:00-20:00",
+        "addr:street": "Si Chan Road",
+        "addr:housenumber": "622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8388186,
+          16.4298697
+        ]
+      },
+      "properties": {
+        "name": "ปรีชาข้าวต้ม",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4343804720",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8350702,
+          16.4271462
+        ]
+      },
+      "properties": {
+        "name": "ธัญญาพรเภสัช",
+        "category": "บริการ / สถานที่",
+        "kind": "pharmacy",
+        "source_url": "https://www.openstreetmap.org/node/4428377425",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนกลางเมือง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8319954,
+          16.4277763
+        ]
+      },
+      "properties": {
+        "name": "ร้านสองพี่น้อง(เหล่าตี้ฟาง)",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4462599197",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 06:00-18:00",
+        "phone": "0866405547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.832033,
+          16.4334404
+        ]
+      },
+      "properties": {
+        "name": "ก๋วยเตี๋ยวหมูนงลักษณ์ 2",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4527460995",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "08:30-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8377913,
+          16.4306672
+        ]
+      },
+      "properties": {
+        "name": "โจ๊กเจ๊น้อย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4584006222",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนหลังเมือง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8311166,
+          16.4275388
+        ]
+      },
+      "properties": {
+        "name": "คอฟฟี่ เด้อ หล่า เดอะ แกลเลอรี่",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/4752586021",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8379066,
+          16.4274978
+        ]
+      },
+      "properties": {
+        "name": "เติมรมย์",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4758928421",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "18:00-01:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8378992,
+          16.4276862
+        ]
+      },
+      "properties": {
+        "name": "ซุปเปอร์หมูกาแฟ",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4758935125",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "06:00-12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8378054,
+          16.433144
+        ]
+      },
+      "properties": {
+        "name": "กู๊ดแหนมเนือง",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/4758943740",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "11:00-21:00",
+        "addr:street": "หลังเมือง",
+        "addr:housenumber": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8344512,
+          16.4348185
+        ]
+      },
+      "properties": {
+        "name": "อ.กลการ",
+        "category": "ร้านค้า",
+        "kind": "car",
+        "source_url": "https://www.openstreetmap.org/node/4917864021",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337291,
+          16.42714
+        ]
+      },
+      "properties": {
+        "name": "พีแอนด์พี ฟู้ดมาร์เก็ต",
+        "category": "ร้านค้า",
+        "kind": "butcher",
+        "source_url": "https://www.openstreetmap.org/node/4948117492",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนหน้าเมือง",
+        "addr:housenumber": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8326078,
+          16.4308842
+        ]
+      },
+      "properties": {
+        "name": "SuperRich Currency Exchange",
+        "category": "บริการ / สถานที่",
+        "kind": "bureau_de_change",
+        "source_url": "https://www.openstreetmap.org/node/5055056921",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.840735,
+          16.4301655
+        ]
+      },
+      "properties": {
+        "name": "คอฟฟี่เวิลด์",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/5255164070",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7",
+        "addr:street": "ถนนศรีจันทร์",
+        "addr:housenumber": "687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337682,
+          16.4305986
+        ]
+      },
+      "properties": {
+        "name": "เดอะวันโกลด์แอนด์จิวเวลรี่",
+        "category": "ร้านค้า",
+        "kind": "jewelry",
+        "source_url": "https://www.openstreetmap.org/node/5405672038",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 09:00-17:30",
+        "phone": "0905919944",
+        "addr:street": "ถนนศรีจันทร์",
+        "addr:housenumber": "326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308714,
+          16.4289558
+        ]
+      },
+      "properties": {
+        "name": "โพโมโดโร",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/5493839726",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo,We-Su 17:00-22:30",
+        "phone": "+66 96 398 5365",
+        "website": "https://facebook.com/profile.php?id=100063502032863",
+        "addr:street": "ถ.ประชาสำราญ",
+        "addr:housenumber": "348/16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8396273,
+          16.4264068
+        ]
+      },
+      "properties": {
+        "name": "QBix Hotel",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/5800203334",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนรอบเมือง",
+        "addr:housenumber": "184/15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8408477,
+          16.4280868
+        ]
+      },
+      "properties": {
+        "name": "ดรากอนซูชิ ขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/5811462757",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "11:00-21:30",
+        "addr:street": "ถนนรอบเมือง",
+        "addr:housenumber": "169/10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8408571,
+          16.4281781
+        ]
+      },
+      "properties": {
+        "name": "ป้าแมว",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/5811471080",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนรอบเมือง",
+        "addr:housenumber": "169/13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8403112,
+          16.4289461
+        ]
+      },
+      "properties": {
+        "name": "เจ้ตุ๊ก คาร์แคร์",
+        "category": "บริการ / สถานที่",
+        "kind": "car_wash",
+        "source_url": "https://www.openstreetmap.org/node/5850216718",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:00-20:00",
+        "addr:street": "ถนนรอบเมือง",
+        "addr:housenumber": "724/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8405714,
+          16.4289461
+        ]
+      },
+      "properties": {
+        "name": "ตุ๊กตุ๊ก คาเฟ่",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/5850216719",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:00-23:00",
+        "addr:street": "ถนนรอบเมือง",
+        "addr:housenumber": "152/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8302422,
+          16.4262113
+        ]
+      },
+      "properties": {
+        "name": "CUB House Khon Kaen",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/5913035446",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "09:00-20:00",
+        "addr:street": "ถนนรื่นรมย์",
+        "addr:housenumber": "888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8329137,
+          16.430882
+        ]
+      },
+      "properties": {
+        "name": "ฟินดิจ",
+        "category": "ร้านค้า",
+        "kind": "leather",
+        "source_url": "https://www.openstreetmap.org/node/5948158723",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8286691,
+          16.4319355
+        ]
+      },
+      "properties": {
+        "name": "เชลล์",
+        "category": "บริการ / สถานที่",
+        "kind": "fuel",
+        "source_url": "https://www.openstreetmap.org/node/6009125709",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8288394,
+          16.432553
+        ]
+      },
+      "properties": {
+        "name": "เอชเค เป็ดย่างอาหารจีน",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6009131608",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "10:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8288595,
+          16.4326301
+        ]
+      },
+      "properties": {
+        "name": "ผัดไทยโคราช",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6009141402",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8318074,
+          16.429974
+        ]
+      },
+      "properties": {
+        "name": "Starbucks",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/6033312014",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8375753,
+          16.4289543
+        ]
+      },
+      "properties": {
+        "name": "Architects 49 Khon Kaen",
+        "category": "สำนักงาน",
+        "kind": "architect",
+        "source_url": "https://www.openstreetmap.org/node/6053603516",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Fr 08:30-17:30",
+        "phone": "+6643220494",
+        "addr:street": "ซอยรอบเมือง 13",
+        "addr:housenumber": "217/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8361121,
+          16.4332297
+        ]
+      },
+      "properties": {
+        "name": "เตี๋ยวเรือ 14",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6053623186",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.835089,
+          16.4302916
+        ]
+      },
+      "properties": {
+        "name": "คลินิกทันตแพทย์พันโชค-วิริยา",
+        "category": "บริการ / สถานที่",
+        "kind": "dentist",
+        "source_url": "https://www.openstreetmap.org/node/6062741369",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Tu-Sa 09:00-16:00",
+        "addr:street": "ถนนศรีจันทร์",
+        "addr:housenumber": "336/17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8287214,
+          16.4277022
+        ]
+      },
+      "properties": {
+        "name": "Full Frame",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6232902090",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8283002,
+          16.4280704
+        ]
+      },
+      "properties": {
+        "name": "สุขสันต์ขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/6232917382",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "addr:street": "ถนนประชาสำราญ",
+        "addr:housenumber": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8289486,
+          16.4288535
+        ]
+      },
+      "properties": {
+        "name": "Seph' Housé",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/6232934789",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.82884,
+          16.4293449
+        ]
+      },
+      "properties": {
+        "name": "Diamonds",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/6232952166",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8329405,
+          16.4308283
+        ]
+      },
+      "properties": {
+        "name": "ฟินดิจ",
+        "category": "ร้านค้า",
+        "kind": "shoes",
+        "source_url": "https://www.openstreetmap.org/node/6359765686",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8324239,
+          16.4309432
+        ]
+      },
+      "properties": {
+        "name": "Citibank",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/node/6359766386",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8345941,
+          16.4304634
+        ]
+      },
+      "properties": {
+        "name": "เป็งเส็ง",
+        "category": "ร้านค้า",
+        "kind": "optician",
+        "source_url": "https://www.openstreetmap.org/node/6359766398",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su,PH 08:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.834914,
+          16.4304258
+        ]
+      },
+      "properties": {
+        "name": "แสงสุวรรณ",
+        "category": "ร้านค้า",
+        "kind": "clothes",
+        "source_url": "https://www.openstreetmap.org/node/6359766592",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8343026,
+          16.4305222
+        ]
+      },
+      "properties": {
+        "name": "ธิติวิทยา",
+        "category": "ร้านค้า",
+        "kind": "sports",
+        "source_url": "https://www.openstreetmap.org/node/6359766689",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8320446,
+          16.430136
+        ]
+      },
+      "properties": {
+        "name": "KFC",
+        "category": "บริการ / สถานที่",
+        "kind": "fast_food",
+        "source_url": "https://www.openstreetmap.org/node/6362382491",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8391632,
+          16.4273651
+        ]
+      },
+      "properties": {
+        "name": "ระเริงลิ้น",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6400400119",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "11:00-24:00",
+        "addr:street": "ถนนชีท่าขอน",
+        "addr:housenumber": "75/4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8373876,
+          16.4275697
+        ]
+      },
+      "properties": {
+        "name": "เวโลซี",
+        "category": "ร้านค้า",
+        "kind": "bicycle",
+        "source_url": "https://www.openstreetmap.org/node/6400412147",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "08:00-19:00",
+        "addr:street": "ถนนหลังเมือง",
+        "addr:housenumber": "2/4-6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8418535,
+          16.4336155
+        ]
+      },
+      "properties": {
+        "name": "ไปไหน ไปกัน",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6422632548",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "17:30-24:00",
+        "addr:street": "ถนนอำมาตย์",
+        "addr:housenumber": "71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8410327,
+          16.4321465
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/6440043425",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371449,
+          16.4267824
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/node/6440047854",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8322587,
+          16.4266062
+        ]
+      },
+      "properties": {
+        "name": "โจ๋นแซบ - ลาบก้อย",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/6689932285",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 18:00-03:00",
+        "phone": "0870648400",
+        "addr:street": "ชอยรื่นรมย์ 1 (ข้าวเหนียว)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8367935,
+          16.4320951
+        ]
+      },
+      "properties": {
+        "name": "ตั้งฮะเฮียง",
+        "category": "ร้านค้า",
+        "kind": "deli",
+        "source_url": "https://www.openstreetmap.org/node/7108403369",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนร่วมจิตร",
+        "addr:housenumber": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8363375,
+          16.4339255
+        ]
+      },
+      "properties": {
+        "name": "เตี๋ยวตุ๋นหม้อไฟ Indy",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/7127886539",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนอำมาตย์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371415,
+          16.433773
+        ]
+      },
+      "properties": {
+        "name": "จิงเกิ้ลเบล มิวสิค",
+        "category": "ร้านค้า",
+        "kind": "musical_instrument",
+        "source_url": "https://www.openstreetmap.org/node/7127892879",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนร่วมจิตร",
+        "addr:housenumber": "11-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8342065,
+          16.4329305
+        ]
+      },
+      "properties": {
+        "name": "RICH Store.",
+        "category": "ร้านค้า",
+        "kind": "supermarket",
+        "source_url": "https://www.openstreetmap.org/node/7857247163",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8374213,
+          16.4277706
+        ]
+      },
+      "properties": {
+        "name": "ขอนแก่นแฟนเก่า",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/9075728903",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนชีท่าขอน",
+        "addr:housenumber": "397-399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8332601,
+          16.4344059
+        ]
+      },
+      "properties": {
+        "name": "Muay Noodle Restaurant / หมวยก๋วยเตี๋ยวหมู",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/9588006520",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 09:00-15:00",
+        "phone": "+66 84 5101575",
+        "website": "https://www.facebook.com/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%AB%E0%B8%A1%E0%B8%B9-298886360555282/",
+        "addr:street": "ถนนอำมาตย์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8315921,
+          16.4288273
+        ]
+      },
+      "properties": {
+        "name": "เจเน็ต คอมพิวเตอร์",
+        "category": "ร้านค้า",
+        "kind": "computer",
+        "source_url": "https://www.openstreetmap.org/node/9849143832",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+66 43 389445",
+        "website": "https://fb.me/kkjnet",
+        "addr:street": "ซอยรื่นรมย์ 1",
+        "addr:housenumber": "348/11-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8351871,
+          16.4280913
+        ]
+      },
+      "properties": {
+        "name": "ห้างทองกาญจนาภิเษก เยื้องสถานีตำรวจ kjp2002",
+        "category": "ร้านค้า",
+        "kind": "jewelry",
+        "source_url": "https://www.openstreetmap.org/node/9849151862",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "phone": "+66 43 222992",
+        "website": "https://fb.me/kjp2002.k11",
+        "addr:street": "ถนนกลางเมือง",
+        "addr:housenumber": "62/202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8323446,
+          16.4301094
+        ]
+      },
+      "properties": {
+        "name": "Seasons 27 at Ad Lib",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/10548725614",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308353,
+          16.4292455
+        ]
+      },
+      "properties": {
+        "name": "Smile Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553842284",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308442,
+          16.429193
+        ]
+      },
+      "properties": {
+        "name": "4am",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553851415",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308155,
+          16.429353
+        ]
+      },
+      "properties": {
+        "name": "DC Bar & Craft Beer",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553852504",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308238,
+          16.4293265
+        ]
+      },
+      "properties": {
+        "name": "ชีลลีนบาร์",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553887378",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308643,
+          16.4290717
+        ]
+      },
+      "properties": {
+        "name": "Crash Bar & Eatery",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553890318",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308333,
+          16.4292894
+        ]
+      },
+      "properties": {
+        "name": "Kelly's Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553891406",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308058,
+          16.4293747
+        ]
+      },
+      "properties": {
+        "name": "Kin-D Restaurant",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/10553893362",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308553,
+          16.4291422
+        ]
+      },
+      "properties": {
+        "name": "Cobra Bistro",
+        "category": "บริการ / สถานที่",
+        "kind": "pub",
+        "source_url": "https://www.openstreetmap.org/node/10553896353",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8323441,
+          16.4301002
+        ]
+      },
+      "properties": {
+        "name": "Ad Lib @ Khon Kaen Innovation Centre",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/node/10556309470",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66 43 100 555",
+        "website": "https://www.adlibhotels.co/khon-kaen",
+        "addr:street": "ซอยศรีจันทร์",
+        "addr:housenumber": "999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828794,
+          16.4280229
+        ]
+      },
+      "properties": {
+        "name": "The Library",
+        "category": "บริการ / สถานที่",
+        "kind": "nightclub",
+        "source_url": "https://www.openstreetmap.org/node/10556310867",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 20:00-02:00",
+        "addr:street": "ถนนประชาสำราญ",
+        "addr:housenumber": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830754,
+          16.4315412
+        ]
+      },
+      "properties": {
+        "name": "Mystic Khon Kaen",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/node/11155470964",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 18:00-01:00",
+        "addr:street": "ถนนศรีจันทร์"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8417632,
+          16.4280561
+        ]
+      },
+      "properties": {
+        "name": "Salon Home Of Stars",
+        "category": "ร้านค้า",
+        "kind": "hairdresser",
+        "source_url": "https://www.openstreetmap.org/node/11696795203",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+66982404746",
+        "addr:street": "ถนนเฉลิมพระเกียรติ",
+        "addr:housenumber": "90/569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8338253,
+          16.4307711
+        ]
+      },
+      "properties": {
+        "name": "ศรีจันทร์นมสด",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/12022812121",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "phone": "0955961695",
+        "addr:street": "ถนนศรีจันทร์",
+        "addr:housenumber": "345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8338453,
+          16.4308489
+        ]
+      },
+      "properties": {
+        "name": "ปิ้งย่างประธานเหมา",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/12022823439",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 17:00-23:30",
+        "phone": "0925924649",
+        "website": "https://www.facebook.com/malamao69/",
+        "addr:street": "ถนนหน้าเมือง",
+        "addr:housenumber": "236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8283713,
+          16.4266615
+        ]
+      },
+      "properties": {
+        "name": "Triumph Khon Kaen Motorcycle",
+        "category": "ร้านค้า",
+        "kind": "motorcycle",
+        "source_url": "https://www.openstreetmap.org/node/12592454674",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8285139,
+          16.4284847
+        ]
+      },
+      "properties": {
+        "name": "99",
+        "category": "บริการ / สถานที่",
+        "kind": "nightclub",
+        "source_url": "https://www.openstreetmap.org/node/12645801001",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836903,
+          16.4321179
+        ]
+      },
+      "properties": {
+        "name": "School of Professional Carrier Extension & Thai Cultural Spa",
+        "category": "บริการ / สถานที่",
+        "kind": "school",
+        "source_url": "https://www.openstreetmap.org/node/13275051996",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "website": "https://www.nuadthaiandspa.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8283915,
+          16.4289869
+        ]
+      },
+      "properties": {
+        "name": "Pookky's",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/13275405468",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66811371760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337933,
+          16.4290847
+        ]
+      },
+      "properties": {
+        "name": "We Drink",
+        "category": "บริการ / สถานที่",
+        "kind": "ice_cream",
+        "source_url": "https://www.openstreetmap.org/node/13277105999",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8366195,
+          16.4308015
+        ]
+      },
+      "properties": {
+        "name": "N.P. One",
+        "category": "พื้นที่พักผ่อน",
+        "kind": "fitness_centre",
+        "source_url": "https://www.openstreetmap.org/node/13277185159",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66 99 7021 937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8292778,
+          16.433256
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนดนตรีวรรณกานต์",
+        "category": "บริการ / สถานที่",
+        "kind": "music_school",
+        "source_url": "https://www.openstreetmap.org/node/13397226145",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8371997,
+          16.4274431
+        ]
+      },
+      "properties": {
+        "name": "นิป แนฟ นมสด",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/13410469560",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su,PH 18:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8372497,
+          16.427491
+        ]
+      },
+      "properties": {
+        "name": "แจ่วจงเจริญ",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/13410498874",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su,PH 16:30-23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8293302,
+          16.4334124
+        ]
+      },
+      "properties": {
+        "name": "มาราธอน มิวสิค เซนเตอร์",
+        "category": "ร้านค้า",
+        "kind": "musical_instrument",
+        "source_url": "https://www.openstreetmap.org/node/13434147821",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Sa 09:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8290994,
+          16.4330854
+        ]
+      },
+      "properties": {
+        "name": "เตี๋ยว เทพารักษ์ ขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/13434155460",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su,PH 09:30-16:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8337801,
+          16.4310265
+        ]
+      },
+      "properties": {
+        "name": "ลาบโต๊ะแดง",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/node/13476574116",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8308719,
+          16.4289053
+        ]
+      },
+      "properties": {
+        "name": "หูกระจง",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/13592004701",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8363796,
+          16.4313432
+        ]
+      },
+      "properties": {
+        "name": "ฌูร์คาเฟ่ - chourr cafe",
+        "category": "บริการ / สถานที่",
+        "kind": "cafe",
+        "source_url": "https://www.openstreetmap.org/node/14041285847",
+        "position_note": "จุดจาก OpenStreetMap",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "0637627579",
+        "addr:street": "ถนนสถิตย์ยุติธรรม",
+        "addr:housenumber": "1 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83183848333333,
+          16.426747199999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดหนองไผ่ล้อม",
+        "category": "บริการ / สถานที่",
+        "kind": "marketplace",
+        "source_url": "https://www.openstreetmap.org/way/50885039",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.84006723636365,
+          16.430911690909088
+        ]
+      },
+      "properties": {
+        "name": "วัดศรีจันทร์",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/way/61649275",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83505640999999,
+          16.430973090000002
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ธนารักษ์ จังหวัดขอนแก่น",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "museum",
+        "source_url": "https://www.openstreetmap.org/way/64042725",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.836955125,
+          16.431645575
+        ]
+      },
+      "properties": {
+        "name": "ตลาดร่วมจิตร",
+        "category": "บริการ / สถานที่",
+        "kind": "food_court",
+        "source_url": "https://www.openstreetmap.org/way/64042726",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.84035935714284,
+          16.43056117142857
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนวัดศรีจันทร์",
+        "category": "บริการ / สถานที่",
+        "kind": "school",
+        "source_url": "https://www.openstreetmap.org/way/66320154",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8344815,
+          16.42905574
+        ]
+      },
+      "properties": {
+        "name": "ตลาดบางลำภู",
+        "category": "บริการ / สถานที่",
+        "kind": "marketplace",
+        "source_url": "https://www.openstreetmap.org/way/104245995",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83474508571429,
+          16.427653557142857
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดเทศบาล 3 โบ๊เบ๊",
+        "category": "บริการ / สถานที่",
+        "kind": "marketplace",
+        "source_url": "https://www.openstreetmap.org/way/104246001",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.82860599333334,
+          16.430905
+        ]
+      },
+      "properties": {
+        "name": "สวนเฉลิมพระเกียรติ",
+        "category": "พื้นที่พักผ่อน",
+        "kind": "park",
+        "source_url": "https://www.openstreetmap.org/way/106646060",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828222325,
+          16.43107745
+        ]
+      },
+      "properties": {
+        "name": "เจ้าพ่อหลักเมืองขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/way/106646061",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8284511,
+          16.431091666666667
+        ]
+      },
+      "properties": {
+        "name": "ศาลหลักเมืองขอนแก่น",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/way/106646063",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83036758666667,
+          16.429026713333332
+        ]
+      },
+      "properties": {
+        "name": "เดอะ เฮอริเทจ แกรนด์ ขอนแก่น",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/way/107568142",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "+66-43-913-333",
+        "website": "https://www.heritagegrandkhonkaen.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83308591,
+          16.43259573
+        ]
+      },
+      "properties": {
+        "name": "หนองสระพัง",
+        "category": "พื้นที่พักผ่อน",
+        "kind": "park",
+        "source_url": "https://www.openstreetmap.org/way/107843357",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.831430775,
+          16.4346347
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาพระกิตติคุณ ชุมชนเจ้าพ่อเกษม",
+        "category": "พื้นที่พักผ่อน",
+        "kind": "playground",
+        "source_url": "https://www.openstreetmap.org/way/108892854",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.834201275,
+          16.4261369
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดเทศบาล 1",
+        "category": "บริการ / สถานที่",
+        "kind": "marketplace",
+        "source_url": "https://www.openstreetmap.org/way/109581266",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:street": "ถนนกลางเมือง"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.840503775,
+          16.43439915
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนเทศบาลคุ้มหนองคู",
+        "category": "บริการ / สถานที่",
+        "kind": "school",
+        "source_url": "https://www.openstreetmap.org/way/112331696",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830047925,
+          16.430198775
+        ]
+      },
+      "properties": {
+        "name": "สำนักทะเบียนท้องถิ่น",
+        "category": "บริการ / สถานที่",
+        "kind": "public_building",
+        "source_url": "https://www.openstreetmap.org/way/112560409",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83121698333333,
+          16.428653433333334
+        ]
+      },
+      "properties": {
+        "name": "ที่จอดรถยูบาร์",
+        "category": "บริการ / สถานที่",
+        "kind": "parking",
+        "source_url": "https://www.openstreetmap.org/way/114663638",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83122087777777,
+          16.42943192222222
+        ]
+      },
+      "properties": {
+        "name": "ที่จอดรถตึกคอม",
+        "category": "บริการ / สถานที่",
+        "kind": "parking",
+        "source_url": "https://www.openstreetmap.org/way/114663640",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8314218,
+          16.42847335
+        ]
+      },
+      "properties": {
+        "name": "ฟิต ซอกเกอร์",
+        "category": "พื้นที่พักผ่อน",
+        "kind": "pitch",
+        "source_url": "https://www.openstreetmap.org/way/114663641",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8418937,
+          16.43232485
+        ]
+      },
+      "properties": {
+        "name": "Tawen Dang",
+        "category": "บริการ / สถานที่",
+        "kind": "nightclub",
+        "source_url": "https://www.openstreetmap.org/way/312691568",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8409956,
+          16.43391635
+        ]
+      },
+      "properties": {
+        "name": "Eco Place Hotel",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/way/312691570",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.84088213333332,
+          16.42664195
+        ]
+      },
+      "properties": {
+        "name": "มูลนิธิขอนแก่นสามัคคีอุทิศ (โป๊ยเซียน)",
+        "category": "บริการ / สถานที่",
+        "kind": "place_of_worship",
+        "source_url": "https://www.openstreetmap.org/way/335850378",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828991025,
+          16.42643185
+        ]
+      },
+      "properties": {
+        "name": "บางจาก",
+        "category": "บริการ / สถานที่",
+        "kind": "fuel",
+        "source_url": "https://www.openstreetmap.org/way/383287231",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830105775,
+          16.4264108
+        ]
+      },
+      "properties": {
+        "name": "ตลาดตองแปด",
+        "category": "บริการ / สถานที่",
+        "kind": "marketplace",
+        "source_url": "https://www.openstreetmap.org/way/383290689",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83109433333334,
+          16.42960795
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "category": "ร้านค้า",
+        "kind": "convenience",
+        "source_url": "https://www.openstreetmap.org/way/577709072",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830967525,
+          16.43031135
+        ]
+      },
+      "properties": {
+        "name": "Phanthipa Residence",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/way/577709074",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "phone": "0856813949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83054444999999,
+          16.4303344
+        ]
+      },
+      "properties": {
+        "name": "Chada Veranda Hotel",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/way/577709078",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.82997315,
+          16.43089765
+        ]
+      },
+      "properties": {
+        "name": "ธนาคารนครหลวงไทย",
+        "category": "บริการ / สถานที่",
+        "kind": "bank",
+        "source_url": "https://www.openstreetmap.org/way/577709087",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.831171275,
+          16.429665125
+        ]
+      },
+      "properties": {
+        "name": "Italasia",
+        "category": "ร้านค้า",
+        "kind": "alcohol",
+        "source_url": "https://www.openstreetmap.org/way/577709099",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830923375,
+          16.429603575
+        ]
+      },
+      "properties": {
+        "name": "Yokotai",
+        "category": "บริการ / สถานที่",
+        "kind": "restaurant",
+        "source_url": "https://www.openstreetmap.org/way/577709100",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "addr:housenumber": "3/12-13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.83100185,
+          16.429620875
+        ]
+      },
+      "properties": {
+        "name": "My Bar",
+        "category": "บริการ / สถานที่",
+        "kind": "bar",
+        "source_url": "https://www.openstreetmap.org/way/577709102",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.830860075,
+          16.431594625
+        ]
+      },
+      "properties": {
+        "name": "Hugz Mall",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "attraction",
+        "source_url": "https://www.openstreetmap.org/way/577709104",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.82919338333333,
+          16.427270383333333
+        ]
+      },
+      "properties": {
+        "name": "โรงแรมกลาเซียร์",
+        "category": "ที่พัก / ท่องเที่ยว",
+        "kind": "hotel",
+        "source_url": "https://www.openstreetmap.org/way/665999572",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.833302575,
+          16.427038725
+        ]
+      },
+      "properties": {
+        "name": "รินไหมไทย",
+        "category": "ร้านค้า",
+        "kind": "clothes",
+        "source_url": "https://www.openstreetmap.org/way/1426816549",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "phone": "+66 64 865 6116",
+        "addr:street": "ถนนหน้าเมือง",
+        "addr:housenumber": "412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8319686,
+          16.4323182
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนฮั่วเคี้ยววิทยาลัย",
+        "category": "บริการ / สถานที่",
+        "kind": "school",
+        "source_url": "https://www.openstreetmap.org/way/1559232436",
+        "position_note": "จุดกึ่งกลางรูปทรงโดยประมาณ ไม่ใช่ทางเข้า",
+        "source": "OpenStreetMap",
+        "source_date": "2026-10-29",
+        "website": "https://hkwkk.ac.th/"
+      }
+    }
+  ]
+}
