@@ -1,0 +1,1906 @@
+{
+  "date": "2026-10-29",
+  "crs_coordinates": "EPSG:4326 longitude,latitude",
+  "crs_measurement": "EPSG:32648 UTM zone 48N metres",
+  "method": "point-in-polygon; shortest distance to footprint; polygon validity; overlap screening",
+  "accuracy_certification": false,
+  "independent_ground_checkpoints": 0,
+  "rmse_m": null,
+  "source_coverage": "OSM + Overture release 2026-10-21.0; OSM precedence for overlaps; no automatic marker snapping",
+  "note": "ระยะถึงขอบอาคารไม่ใช่ค่าความคลาดเคลื่อนพิกัด และอาคารใกล้ที่สุดอาจไม่ใช่อาคารเดียวกับสถานที่",
+  "landmarks": [
+    {
+      "number": 1,
+      "name": "01 อาคารธนาคารกรุงเทพ",
+      "coordinates": [
+        102.8324962,
+        16.4306201
+      ],
+      "role": "place_reference",
+      "google_name": "ธนาคารกรุงเทพ สาขาขอนแก่น",
+      "candidates": [
+        {
+          "osm_id": "822219221",
+          "source_id": "osm/way/822219221",
+          "source_dataset": "OpenStreetMap",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "อาคารในย่านศรีจันทร์",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 363.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://www.openstreetmap.org/way/822219221",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "763038913",
+          "source_id": "osm/way/763038913",
+          "source_dataset": "OpenStreetMap",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "อาคารในย่านศรีจันทร์",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 296.0,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://www.openstreetmap.org/way/763038913",
+          "survey_verified": false,
+          "distance_to_footprint_m": 4.12,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "822219222",
+          "source_id": "osm/way/822219222",
+          "source_dataset": "OpenStreetMap",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "อาคารในย่านศรีจันทร์",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 194.3,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://www.openstreetmap.org/way/822219222",
+          "survey_verified": false,
+          "distance_to_footprint_m": 17.11,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 2,
+      "name": "02 กลุ่มตึก จ. ศิลป์ ถนน 5 พฤศจิกา",
+      "coordinates": [
+        102.83396,
+        16.43076
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "47ff0408-19a0-4b40-a57d-0887dedaccf1",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.7124,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 77.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 13.03,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "c047176a-5d33-4489-96d1-ef7faba1093a",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9232,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 432.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 15.11,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "3a29d6d1-1a65-428f-8289-dfaabfa4ce94",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9336,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 1020.2,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 15.68,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 3,
+      "name": "03 ถนน ซอย 5 พฤศจิกา",
+      "coordinates": [
+        102.83301,
+        16.43158
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "183f7b14-1020-4df6-89c8-e6f2f85ad06d",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 73.1,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 3.4,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "4e0c2711-f5ea-4286-91b3-427c13d56b0d",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8968,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 756.1,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 17.92,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "2f260e55-5d92-49eb-9848-f7e1707d8399",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.679,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 24.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 19.14,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 4,
+      "name": "04 อาคารราชพัสดุ ถนน ซอย 5 พฤศจิกา",
+      "coordinates": [
+        102.8338,
+        16.43132
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "af160dac-e98a-4e93-b4f7-1c18566f3067",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 600.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "12e8d490-468a-4282-acf6-74ef2335d915",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 19.3,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.72,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "af64ce5e-f975-43c1-9932-6e6fa0d7a4f9",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.7277,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 25.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 13.46,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 5,
+      "name": "05 ตรอกกุญแจ",
+      "coordinates": [
+        102.83443,
+        16.43003
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "0c0ecd30-7b8f-48f8-8218-c7c1bff288bc",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8002,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 536.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "c57901c1-d78f-48de-9f1c-1fb5fb0091bc",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9445,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 1202.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 10.33,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "202a49ca-88fc-4718-8252-a2ac3d96351c",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8471,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 265.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 13.49,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 6,
+      "name": "06 ร้านชัยเชิญชิม บะหมี่เกี๊ยวหยกจัมโบ้",
+      "coordinates": [
+        102.8364604,
+        16.4297363
+      ],
+      "role": "place_reference",
+      "google_name": "ชัยเชิญชิม บะหมี่เกี๊ยวหยก",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "8cd5d6c2-a61e-47e2-87bd-7846e0bd34e2",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8781,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 94.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 14.83,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "8716c656-aa26-48a9-b380-54d35d86d4ef",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 228.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 15.38,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "0079fd58-6d40-4f15-a6de-18cad00a87b1",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8814,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 680.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 20.43,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 7,
+      "name": "07 วัดซิกข์ ศรีคุรุสิงห์สภา",
+      "coordinates": [
+        102.8365185,
+        16.4292234
+      ],
+      "role": "place_reference",
+      "google_name": "วัดซิกข์ขอนแก่น",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "432dff6c-f2f9-4645-8a0a-ac911afa655c",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9248,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 359.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.18,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "35ec433a-f74b-4f43-82d6-11d1dffe6fb9",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8809,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 231.7,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.34,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "cf171713-72b2-41c4-9bfa-13fa8a7d9ec2",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8878,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 205.4,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 15.51,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 8,
+      "name": "08 ร้านกุนเชียงนายบู๊",
+      "coordinates": [
+        102.8363502,
+        16.4290953
+      ],
+      "role": "place_reference",
+      "google_name": "ร้านกุนเชียงนายบู๊",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "432dff6c-f2f9-4645-8a0a-ac911afa655c",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9248,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 359.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.39,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "1492f072-b0e1-4895-8d73-c7de2ca1817e",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 116.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 6.04,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "7176a316-2d0f-45c3-b2c2-7bf916166daa",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8373,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 32.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.57,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 9,
+      "name": "09 มูลนิธิจิตกุศลขอนแก่น",
+      "coordinates": [
+        102.8375757,
+        16.4286959
+      ],
+      "role": "place_reference",
+      "google_name": "มูลนิธิจิตกุศลขอนแก่น เต็กก่าจีซิมเกาะ",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "f0bbf83e-9fde-44c2-8270-eadca22afe8b",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8491,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 128.1,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "0ef9177c-6ad3-450c-9ea0-450c95c0de2b",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.934,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 359.8,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 3.69,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "5a82cc38-ddc2-4cf6-bb41-c09822c3c80c",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8647,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 151.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 7.07,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 10,
+      "name": "10 ร้านกาแฟ 2499",
+      "coordinates": [
+        102.83762,
+        16.4289792
+      ],
+      "role": "place_reference",
+      "google_name": "๒ ๔ ๙ ๙ Cafe",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "59a78e33-4104-476d-9c0d-eae50ca9aef1",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8621,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 172.2,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "cf0e07d4-e17e-4fa2-9132-767e2c9b3306",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.871,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 215.4,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.59,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "62e4b2a0-f44e-4322-a05e-1c8900c651a5",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8585,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 148.7,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 10.57,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 11,
+      "name": "11 ขอนแก่น สตรีท อาร์ต",
+      "coordinates": [
+        102.83759,
+        16.42954
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "649d58d1-d174-4949-adec-d3db090e8ebe",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8808,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 267.3,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 9.84,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "37978ee2-2276-48da-bf1f-ef478d29c338",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8896,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 226.0,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 10.27,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "14a31e7a-5ae8-4021-969c-59402f8b1e03",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8601,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 144.4,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 11.76,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 12,
+      "name": "12 ร้านน้ำเต้าหู้ 100 ปี",
+      "coordinates": [
+        102.8384082,
+        16.4305746
+      ],
+      "role": "place_reference",
+      "google_name": "ร้านน้ำเต้าหู้ 100 ปี",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "734ab990-005c-40b0-aa10-8e39386e0fbc",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8165,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 60.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "676cc78f-1183-46b9-87c9-cd56a9c00db9",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8823,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 252.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 4.89,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "df714838-b400-4563-bfe3-d70e99333d96",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8985,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 113.1,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 6.72,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 13,
+      "name": "13 วัดศรีจันทร์ พระอารามหลวง",
+      "coordinates": [
+        102.840284,
+        16.4317797
+      ],
+      "role": "place_reference",
+      "google_name": "วัดศรีจันทร์ พระอารามหลวง",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "f4c2da7b-0fd1-4e82-85d9-13cd02c2ce0c",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.7711,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 54.0,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "8b735e15-11b8-43be-82b4-a1d0eea02e38",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.7811,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 45.3,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.43,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "19816bc5-b446-47b1-9253-04b73ba8edb1",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.885,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 638.7,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.7,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 14,
+      "name": "14 ตึกโรงแรมแกรนด์โฮเต็ล",
+      "coordinates": [
+        102.83876,
+        16.43195
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "790b0ad5-fdca-4ddb-b2c1-8e4b1ab0c59d",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9153,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 88.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 1.78,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "81c3a3ab-18c9-43b8-9991-e815536ca80b",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8829,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 78.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.65,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "4e5c6bd7-2a58-479e-81f4-eb96078e0ee9",
+          "source_dataset": "Microsoft ML Buildings",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 227.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 8.96,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 15,
+      "name": "15 ร้านหมูแผ่นย่างถ่าน ตั้ง ฮะ เฮียง",
+      "coordinates": [
+        102.8368084,
+        16.4321324
+      ],
+      "role": "place_reference",
+      "google_name": "ร้านตั้งฮะเฮียง กุนเชียง ของฝาก",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "7d3391b9-48ba-4a49-bd1b-12e38baadc0a",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8587,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 257.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "0f383d7e-abae-443a-bcae-35e191f96bad",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8764,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 129.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 7.66,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "2af8666e-bdd3-46e7-9121-1142c0aaa6cd",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9135,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 666.5,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 11.04,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    },
+    {
+      "number": 16,
+      "name": "16 ซอยร้านตัดเสื้อร่วมจิตร",
+      "coordinates": [
+        102.83724,
+        16.4329
+      ],
+      "role": "photo_viewpoint",
+      "google_name": "",
+      "candidates": [
+        {
+          "osm_id": "",
+          "source_id": "df6c201d-3c9c-4860-9c38-b9a4313c7360",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8487,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 154.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 4.15,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "2a710047-5e4b-4fb1-a0ff-b44cb03312ea",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.7303,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 53.3,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 7.92,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "4d6d8f5c-ba89-4ac1-bfb5-8978fcde8fcb",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.8782,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 110.6,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 12.77,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "จุดมุมภาพโดยประมาณ ไม่ผูกอาคารอัตโนมัติ"
+    },
+    {
+      "number": 17,
+      "name": "17 ตลาดโต้รุ่งร่วมจิตร",
+      "coordinates": [
+        102.8369065,
+        16.4314599
+      ],
+      "role": "place_reference",
+      "google_name": "ตลาดโต้รุ่งร่วมจิตร",
+      "candidates": [
+        {
+          "osm_id": "64042726",
+          "source_id": "osm/way/64042726",
+          "source_dataset": "OpenStreetMap",
+          "source_confidence": null,
+          "source_image_date": null,
+          "name": "ตลาดร่วมจิตร",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 1583.0,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://www.openstreetmap.org/way/64042726",
+          "survey_verified": false,
+          "distance_to_footprint_m": 0.0,
+          "point_inside_footprint": true
+        },
+        {
+          "osm_id": "",
+          "source_id": "b34bc638-d525-4fbc-92fb-c65a00f72e8e",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9067,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 499.1,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 23.1,
+          "point_inside_footprint": false
+        },
+        {
+          "osm_id": "",
+          "source_id": "10d2f0aa-3950-451f-a473-ebbe7183333e",
+          "source_dataset": "Google Open Buildings",
+          "source_confidence": 0.9138,
+          "source_image_date": "2023-05-01T00:00:00.000Z",
+          "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+          "valid": true,
+          "validity": "Valid Geometry",
+          "area_m2": 218.9,
+          "height_method": "default",
+          "height_m": null,
+          "source_url": "https://docs.overturemaps.org/guides/buildings/",
+          "survey_verified": false,
+          "distance_to_footprint_m": 23.4,
+          "point_inside_footprint": false
+        }
+      ],
+      "building_identity_verified": false,
+      "entrance_verified": false,
+      "height_verified": false,
+      "camera_bearing_verified": false,
+      "qc_status": "ต้องยืนยันอาคารและทางเข้า"
+    }
+  ],
+  "overlaps": [
+    {
+      "source_ids": [
+        "4e9db993-0072-4d9a-8669-53294b07ba46",
+        "c7229c99-1783-4fca-9d00-6f66e3f51957"
+      ],
+      "intersection_m2": 3.28
+    },
+    {
+      "source_ids": [
+        "5c60bcdd-f38d-40f6-aec0-6e964e589958",
+        "9a9daedb-88d1-4fa3-8c84-511276fe642d"
+      ],
+      "intersection_m2": 5.53
+    },
+    {
+      "source_ids": [
+        "5c60bcdd-f38d-40f6-aec0-6e964e589958",
+        "3dd06392-cb26-4673-9536-031fde24e894"
+      ],
+      "intersection_m2": 2.01
+    },
+    {
+      "source_ids": [
+        "a7cde982-8177-41ba-a5a7-418c6aa5be31",
+        "3d70738e-28b9-4d60-88d5-f8332ae4a963"
+      ],
+      "intersection_m2": 9.42
+    },
+    {
+      "source_ids": [
+        "c5ea8216-edfa-4261-9ea8-6ede98a4b53d",
+        "2f4320ce-afb0-4f57-9fc6-7e5775fd29e1"
+      ],
+      "intersection_m2": 2.8
+    },
+    {
+      "source_ids": [
+        "19d0f551-6612-45db-bad4-cdf46e2fb4a9",
+        "c019fa10-4a9b-4d56-aee2-fc7c98be89f9"
+      ],
+      "intersection_m2": 2.51
+    },
+    {
+      "source_ids": [
+        "0b8ad330-727c-410e-99e7-604a03867778",
+        "48e20143-2805-4fc9-940b-f61a7131f5ec"
+      ],
+      "intersection_m2": 1.58
+    },
+    {
+      "source_ids": [
+        "0b8ad330-727c-410e-99e7-604a03867778",
+        "f14af75f-3c41-4505-b446-9864043e0adc"
+      ],
+      "intersection_m2": 7.46
+    },
+    {
+      "source_ids": [
+        "94b7d585-2295-4b50-a7d9-f678324e265f",
+        "c34810ce-93d6-43c7-9c5b-fb1305a02c61"
+      ],
+      "intersection_m2": 1.97
+    },
+    {
+      "source_ids": [
+        "db587794-939e-4509-9edb-dd6c2e297022",
+        "5c602549-d469-4dec-bc3c-b8e4c5af5fbb"
+      ],
+      "intersection_m2": 9.47
+    },
+    {
+      "source_ids": [
+        "f5d05692-61fc-4af5-bbc9-1aaa14ed0ecf",
+        "60b16919-85ea-4c47-b2c2-d1980067b3a4"
+      ],
+      "intersection_m2": 1.04
+    },
+    {
+      "source_ids": [
+        "0165e2cd-3268-4610-9551-a1fb4653dc34",
+        "f376c6c5-e8ce-4a5f-99c6-8cd342cc32ff"
+      ],
+      "intersection_m2": 1.9
+    },
+    {
+      "source_ids": [
+        "3c841ef2-e60a-4850-aca0-6158ff3cb285",
+        "01c7b280-0be9-4298-9fcd-be0484255ed5"
+      ],
+      "intersection_m2": 3.31
+    },
+    {
+      "source_ids": [
+        "2a696e3a-06fe-4921-8d4f-7e547d93a4c9",
+        "01c7b280-0be9-4298-9fcd-be0484255ed5"
+      ],
+      "intersection_m2": 2.65
+    },
+    {
+      "source_ids": [
+        "86a16944-2bbb-4596-91f6-cc4af5168a98",
+        "bf70fc29-bf88-4eee-a267-067206946d49"
+      ],
+      "intersection_m2": 4.19
+    },
+    {
+      "source_ids": [
+        "c4820a90-6924-4cfd-8d39-eb38ea21e09b",
+        "161e3c43-860f-40b7-a5a0-3ff8ca121121"
+      ],
+      "intersection_m2": 4.8
+    },
+    {
+      "source_ids": [
+        "1df82d46-430a-43ad-8d82-8b2382c766a7",
+        "6086113b-b1f3-4f1e-938a-87d2c9718267"
+      ],
+      "intersection_m2": 6.28
+    },
+    {
+      "source_ids": [
+        "1df82d46-430a-43ad-8d82-8b2382c766a7",
+        "343e3f8f-dbb9-4100-99dc-f5d38cf56e93"
+      ],
+      "intersection_m2": 10.83
+    },
+    {
+      "source_ids": [
+        "0517d3e7-c199-48bf-95b5-aaf0e1230ba9",
+        "ebe25f8a-1b5f-4904-9b35-09220c192af5"
+      ],
+      "intersection_m2": 10.54
+    },
+    {
+      "source_ids": [
+        "2c168d41-7bfd-49ea-9742-d4f7ae6b7e16",
+        "5a298b19-2256-435d-944f-aa1866050d14"
+      ],
+      "intersection_m2": 27.74
+    },
+    {
+      "source_ids": [
+        "b39d3de6-582b-4e05-a271-f91f0508e9d5",
+        "0c0ecd30-7b8f-48f8-8218-c7c1bff288bc"
+      ],
+      "intersection_m2": 2.98
+    },
+    {
+      "source_ids": [
+        "d9485c92-fd5c-46fa-9315-434640bdb297",
+        "a6756027-eba0-4b63-b2f2-043389aaed6f"
+      ],
+      "intersection_m2": 2.88
+    },
+    {
+      "source_ids": [
+        "a94fabc7-5830-4723-a728-9665e81a6e78",
+        "58cc6e91-ca2d-43e5-911c-acaa085891a8"
+      ],
+      "intersection_m2": 1.33
+    },
+    {
+      "source_ids": [
+        "ddc18d1c-ba4e-4ab7-83da-e0fb8c3e71a5",
+        "a764b610-1232-4194-b60e-125f52d46da6"
+      ],
+      "intersection_m2": 4.25
+    },
+    {
+      "source_ids": [
+        "dc7ac341-f16b-48b6-9505-45d6bfbe2ca4",
+        "27a6e209-2418-414e-9d63-3cccf93268b2"
+      ],
+      "intersection_m2": 4.87
+    },
+    {
+      "source_ids": [
+        "8166b94a-fc08-4ceb-bcfe-703b0ffd5494",
+        "27a6e209-2418-414e-9d63-3cccf93268b2"
+      ],
+      "intersection_m2": 4.48
+    },
+    {
+      "source_ids": [
+        "8166b94a-fc08-4ceb-bcfe-703b0ffd5494",
+        "dc7ac341-f16b-48b6-9505-45d6bfbe2ca4"
+      ],
+      "intersection_m2": 6.15
+    },
+    {
+      "source_ids": [
+        "0b5e6122-d03a-46f4-b084-d0f922a183a4",
+        "a29f1bfa-e4e2-4dde-989f-3c80de4f3918"
+      ],
+      "intersection_m2": 14.91
+    },
+    {
+      "source_ids": [
+        "9035d1fd-1a15-4aae-9777-cc2c61f20cf9",
+        "2d37b970-7087-476c-8176-eba63bddb769"
+      ],
+      "intersection_m2": 5.19
+    },
+    {
+      "source_ids": [
+        "14a3e99c-da76-492b-bd16-6430178fcaf8",
+        "e012d75e-dedd-4935-ad28-b60916220ede"
+      ],
+      "intersection_m2": 1.3
+    },
+    {
+      "source_ids": [
+        "74c96db8-209d-415e-838f-47af9b273a4a",
+        "7314049b-eacd-4fd4-ae02-1b583eb8ab3a"
+      ],
+      "intersection_m2": 2.82
+    },
+    {
+      "source_ids": [
+        "f4c4326d-467e-4b2c-8807-df2566233762",
+        "37978ee2-2276-48da-bf1f-ef478d29c338"
+      ],
+      "intersection_m2": 3.58
+    },
+    {
+      "source_ids": [
+        "0ef2f1e6-ad29-4f5d-af93-d02692f11739",
+        "8ba480b5-491b-433d-b1a5-2c53dc2b439a"
+      ],
+      "intersection_m2": 3.13
+    },
+    {
+      "source_ids": [
+        "2a59f6ce-9078-4ab9-83fb-2b7292ea4041",
+        "eec531d7-c1db-457f-8471-4817d1c13c19"
+      ],
+      "intersection_m2": 1.36
+    },
+    {
+      "source_ids": [
+        "685010ca-d52d-4ce9-bcc7-e22ed77f2bc1",
+        "fa1b761d-0d93-4d15-9c90-fa57cffab29f"
+      ],
+      "intersection_m2": 1.63
+    },
+    {
+      "source_ids": [
+        "2123a045-8cf2-4098-b2ea-992d50f75252",
+        "2c6d2db9-0842-4fdc-9568-1d0af4e3839a"
+      ],
+      "intersection_m2": 2.07
+    },
+    {
+      "source_ids": [
+        "a932bb9c-80c8-4c74-8363-cfe12f8f072d",
+        "b21fe8c3-78cc-453f-8047-3493e0de4335"
+      ],
+      "intersection_m2": 2.49
+    },
+    {
+      "source_ids": [
+        "cc749ce9-16b4-454b-9e51-c48e545c7648",
+        "659e94bb-089e-4755-a1eb-6a84d1269eb3"
+      ],
+      "intersection_m2": 1.84
+    },
+    {
+      "source_ids": [
+        "ea950a83-5af1-425c-83cb-14120609ab6c",
+        "7f5db9ba-6108-4d46-a606-34b4adc455d0"
+      ],
+      "intersection_m2": 5.11
+    },
+    {
+      "source_ids": [
+        "0b50307a-5c58-4864-a0ee-2fe8502318f2",
+        "1c9eb1bd-f416-41af-8bb0-490b7dbd2747"
+      ],
+      "intersection_m2": 13.09
+    },
+    {
+      "source_ids": [
+        "3bc5ce41-e825-4afb-a9d3-857c1f1d676d",
+        "e564167e-d7f0-44b8-953d-16c6378489ae"
+      ],
+      "intersection_m2": 3.77
+    },
+    {
+      "source_ids": [
+        "5e1fba32-93a2-4b74-b65c-358874bde70d",
+        "dd230bad-cea7-4c01-b9db-2513e408729c"
+      ],
+      "intersection_m2": 3.23
+    },
+    {
+      "source_ids": [
+        "e2bf2755-40e7-4f3f-ac20-9760f9d99ee3",
+        "e6c5ee0a-7fe9-4184-b6e5-f2e962006381"
+      ],
+      "intersection_m2": 7.63
+    },
+    {
+      "source_ids": [
+        "d4a2609f-6020-46b2-857b-3268a17a7386",
+        "8a15b3f7-21eb-45eb-9d96-2ed0715aac6e"
+      ],
+      "intersection_m2": 1.19
+    },
+    {
+      "source_ids": [
+        "a3d69e72-ba95-4e90-a524-603cbd5d9d75",
+        "9817a1b2-4616-487b-a3ac-74cc223a8a8e"
+      ],
+      "intersection_m2": 4.16
+    },
+    {
+      "source_ids": [
+        "f5e5a269-852c-48a2-a771-7360d47314c3",
+        "4aba14ba-0e91-48e1-9296-c77a83654690"
+      ],
+      "intersection_m2": 7.93
+    },
+    {
+      "source_ids": [
+        "ead8f918-dbc9-4b97-9a4e-24ef77469293",
+        "f0761b12-c265-4e75-8a31-cb5fd771f49a"
+      ],
+      "intersection_m2": 1.39
+    },
+    {
+      "source_ids": [
+        "bc5a2451-31de-47cd-ba51-8a9cfae8b388",
+        "5cceb0a7-6619-45e5-b0ea-b9bd31cea3f2"
+      ],
+      "intersection_m2": 1.19
+    },
+    {
+      "source_ids": [
+        "d880fe60-2e0b-472a-b919-1dcd01fca04e",
+        "38c2d948-ff97-4f80-a848-70558e740ee8"
+      ],
+      "intersection_m2": 2.89
+    },
+    {
+      "source_ids": [
+        "de9f0c0b-9134-4b10-8f72-c78c79e9d24c",
+        "eb4f15d8-0d2f-40b0-af49-f11630293fee"
+      ],
+      "intersection_m2": 1.88
+    },
+    {
+      "source_ids": [
+        "8e6d2903-7aeb-4e12-b9b4-bfd24cd634f3",
+        "e765a659-a77e-434f-be5a-2e9d66ae7cda"
+      ],
+      "intersection_m2": 1.12
+    },
+    {
+      "source_ids": [
+        "f7aca2ab-0ab8-4d81-8429-c1c52b0f9838",
+        "62e6c46c-d8ab-4db6-8c52-977b812bc035"
+      ],
+      "intersection_m2": 1.01
+    },
+    {
+      "source_ids": [
+        "f26527ad-ce4a-4c85-8837-ab0671aa978f",
+        "44201b03-af51-4e7e-8931-c17dffda24df"
+      ],
+      "intersection_m2": 3.45
+    },
+    {
+      "source_ids": [
+        "e12c53b1-252d-4ef0-9ad8-22b20e8187d6",
+        "1da1367a-c387-4a50-976f-5273a135b6d3"
+      ],
+      "intersection_m2": 2.95
+    },
+    {
+      "source_ids": [
+        "d823885a-3356-4ee5-a10c-30bf40dd5284",
+        "2a57a9fd-5d0b-4aaf-b22c-7013be0eba1a"
+      ],
+      "intersection_m2": 1.58
+    },
+    {
+      "source_ids": [
+        "4194d696-eb0c-413d-a027-2f414184525b",
+        "c959c734-e983-4c36-a054-83f8d72ac2da"
+      ],
+      "intersection_m2": 2.23
+    },
+    {
+      "source_ids": [
+        "7ea257df-7e7a-4b40-94be-455c03cec385",
+        "98de3864-5328-4e62-8139-beb697e0098c"
+      ],
+      "intersection_m2": 1.37
+    },
+    {
+      "source_ids": [
+        "bc70d40f-a3e7-44c8-9640-0b246fd274e8",
+        "130e1c44-eaa0-4a48-ae65-968db45324a2"
+      ],
+      "intersection_m2": 4.62
+    },
+    {
+      "source_ids": [
+        "ee147708-11b8-4052-bc53-38bca91ae2fc",
+        "bc70d40f-a3e7-44c8-9640-0b246fd274e8"
+      ],
+      "intersection_m2": 6.25
+    },
+    {
+      "source_ids": [
+        "bf691080-aa1a-4a9c-9226-0c38be1c1d6b",
+        "c155a172-a5e6-4fe7-9665-ca501fb8e3b8"
+      ],
+      "intersection_m2": 1.11
+    },
+    {
+      "source_ids": [
+        "35febdaf-db76-427f-957d-c3c34dc5b0d1",
+        "636442c6-ac4c-4d12-9fcc-f9afffa6b9c6"
+      ],
+      "intersection_m2": 1.73
+    },
+    {
+      "source_ids": [
+        "914dc403-f432-473b-b723-166beb914bcb",
+        "ee147708-11b8-4052-bc53-38bca91ae2fc"
+      ],
+      "intersection_m2": 4.38
+    },
+    {
+      "source_ids": [
+        "a420401e-de8c-4e36-bfb3-2b3d7505527d",
+        "e3cd9b29-b5f5-4787-a6a9-4839b1f88b69"
+      ],
+      "intersection_m2": 4.85
+    },
+    {
+      "source_ids": [
+        "98eca4d4-ce7e-41db-89d8-27759b3f2c4b",
+        "e0a3d1a8-52cf-4cbe-b33e-1a32c0d54f56"
+      ],
+      "intersection_m2": 8.43
+    },
+    {
+      "source_ids": [
+        "bb5ecf50-7d56-4f83-afce-f4dbc23149a1",
+        "9c7d8416-0e7b-4716-93b1-1d4356382327"
+      ],
+      "intersection_m2": 4.84
+    },
+    {
+      "source_ids": [
+        "9755cf2f-5f08-47f1-8a9f-2289844e9f26",
+        "030503fe-9f30-440a-ae7b-f8832e166550"
+      ],
+      "intersection_m2": 1.04
+    },
+    {
+      "source_ids": [
+        "7bc9f634-bca7-4a81-8444-e3fb4dcb0399",
+        "a334d04c-5527-4bc1-8acc-69cd7b3879b5"
+      ],
+      "intersection_m2": 2.08
+    },
+    {
+      "source_ids": [
+        "15dd2d77-801d-4927-8ebc-b7e71675d37c",
+        "2f1b1ed9-c91c-4a1f-a83b-3cfd9763be93"
+      ],
+      "intersection_m2": 2.84
+    },
+    {
+      "source_ids": [
+        "15dd2d77-801d-4927-8ebc-b7e71675d37c",
+        "a334d04c-5527-4bc1-8acc-69cd7b3879b5"
+      ],
+      "intersection_m2": 6.13
+    },
+    {
+      "source_ids": [
+        "1309224d-a8b7-4a83-adde-a78e30d0a78e",
+        "52d1efcf-80b2-4bb1-b45d-6f0d621f6848"
+      ],
+      "intersection_m2": 1.57
+    },
+    {
+      "source_ids": [
+        "91b1573c-8fe9-46dc-ae0a-106b933638d8",
+        "0fb6aef1-3330-4257-ad57-227bccfee932"
+      ],
+      "intersection_m2": 2.26
+    },
+    {
+      "source_ids": [
+        "4e0c2711-f5ea-4286-91b3-427c13d56b0d",
+        "51ff7e4d-5775-434e-833b-5ea98772a322"
+      ],
+      "intersection_m2": 1.36
+    },
+    {
+      "source_ids": [
+        "8e3d3b1d-e462-4151-989f-a1711d388ed5",
+        "dfda5db4-1b3c-4531-a853-e0acf708ca4f"
+      ],
+      "intersection_m2": 5.73
+    },
+    {
+      "source_ids": [
+        "f7cff7fd-b8bd-4fbf-9a8f-27cb9c6bf35e",
+        "af64ce5e-f975-43c1-9932-6e6fa0d7a4f9"
+      ],
+      "intersection_m2": 1.44
+    },
+    {
+      "source_ids": [
+        "24ed0f51-e8a6-4c41-94ac-a785b995624c",
+        "c5f89ed5-4c78-4559-a87a-f8f82a1bd732"
+      ],
+      "intersection_m2": 1.84
+    },
+    {
+      "source_ids": [
+        "8639ce11-a45d-499b-841f-865b14d0b5a8",
+        "54f69272-4810-4542-ab01-c9b6c44fb44c"
+      ],
+      "intersection_m2": 4.94
+    },
+    {
+      "source_ids": [
+        "b506a95f-bb76-4451-b94e-a64c46dad822",
+        "46fa6c58-dc8a-46d2-9d22-bbbac025444f"
+      ],
+      "intersection_m2": 2.13
+    },
+    {
+      "source_ids": [
+        "58f10b16-aa1e-4817-83e5-bc755e433b2c",
+        "1fe783c8-9c1c-4a00-8ff1-def70eccbe28"
+      ],
+      "intersection_m2": 3.3
+    },
+    {
+      "source_ids": [
+        "26afdffe-1034-43c1-968b-455eb6f6038c",
+        "2529102a-8422-406e-be9a-eb25ff17fa50"
+      ],
+      "intersection_m2": 3.01
+    },
+    {
+      "source_ids": [
+        "d79c044b-41e5-4d5e-8671-3faf8ba9fdd5",
+        "1e3a6a74-20c2-496d-947b-7529ffbe046b"
+      ],
+      "intersection_m2": 1.93
+    },
+    {
+      "source_ids": [
+        "71bbab51-3c39-425a-86a8-28252b0ef411",
+        "629807bc-d11b-4bac-9f14-ca5101ea88a5"
+      ],
+      "intersection_m2": 1.7
+    },
+    {
+      "source_ids": [
+        "b34bc638-d525-4fbc-92fb-c65a00f72e8e",
+        "10d2f0aa-3950-451f-a473-ebbe7183333e"
+      ],
+      "intersection_m2": 1.37
+    },
+    {
+      "source_ids": [
+        "0502744c-0651-42e7-b225-f9955a8d9c57",
+        "d577e3b5-dc84-4839-a5a8-f5d03a3393ec"
+      ],
+      "intersection_m2": 3.38
+    },
+    {
+      "source_ids": [
+        "704d8f50-89c1-439b-aea5-f23300b3d31d",
+        "a81de607-c720-4b2d-95b4-a802a6cd734f"
+      ],
+      "intersection_m2": 1.26
+    },
+    {
+      "source_ids": [
+        "65c917e0-af84-493f-a51d-db80738b6821",
+        "4d6d8f5c-ba89-4ac1-bfb5-8978fcde8fcb"
+      ],
+      "intersection_m2": 1.01
+    },
+    {
+      "source_ids": [
+        "f69a7b45-f149-446b-9013-a14f03c367d1",
+        "9acc5119-327c-4c16-bf68-66d4d9854cc1"
+      ],
+      "intersection_m2": 8.49
+    },
+    {
+      "source_ids": [
+        "f93f81bf-6ab2-44fe-8874-40db44eebf34",
+        "46880e52-540a-4366-a40e-e89a6a0ef747"
+      ],
+      "intersection_m2": 3.1
+    },
+    {
+      "source_ids": [
+        "c6d548ad-9eea-4253-ab73-df55155624bb",
+        "82215602-74fd-47b2-b481-c08bf20e57c1"
+      ],
+      "intersection_m2": 3.12
+    },
+    {
+      "source_ids": [
+        "7e1ca015-5021-4541-9ef4-5e31c6a55572",
+        "38dc7ebd-1ab9-4fe9-8fc3-3ccc9ec400a6"
+      ],
+      "intersection_m2": 3.44
+    },
+    {
+      "source_ids": [
+        "69b21435-6737-4b8b-b879-aebc9ed93796",
+        "f31fbc6d-b573-4f0b-bcfa-895959c102ac"
+      ],
+      "intersection_m2": 4.03
+    },
+    {
+      "source_ids": [
+        "5ec614cf-06b4-4a39-b1ee-368b95e43907",
+        "f31fbc6d-b573-4f0b-bcfa-895959c102ac"
+      ],
+      "intersection_m2": 1.36
+    },
+    {
+      "source_ids": [
+        "be328d33-d972-47cf-9473-ec8f422659de",
+        "711a4c70-1e98-471d-94c0-7ff5dc992ccd"
+      ],
+      "intersection_m2": 2.69
+    },
+    {
+      "source_ids": [
+        "a0330f23-5379-4fc4-b77f-6fb4a40f358b",
+        "565754b8-9876-4aef-be7f-b3d7ea7da9ca"
+      ],
+      "intersection_m2": 5.5
+    },
+    {
+      "source_ids": [
+        "233c8b0c-1c08-4959-8121-906ac10b4c3b",
+        "f4b8c44e-33a5-483b-a9ce-ec6aff866d5d"
+      ],
+      "intersection_m2": 4.57
+    },
+    {
+      "source_ids": [
+        "2d3451b8-677e-489a-b036-5dcafb9c4c04",
+        "e9c2fdba-f23b-4795-bbe6-5b0eb1d36724"
+      ],
+      "intersection_m2": 4.27
+    },
+    {
+      "source_ids": [
+        "c3f9abf9-b0c5-4d3c-892e-d51f19168a56",
+        "34ad3ef7-90e5-4b13-a2f3-7a514022379d"
+      ],
+      "intersection_m2": 4.79
+    },
+    {
+      "source_ids": [
+        "5c096489-3dac-45e1-9f02-49f81fac5812",
+        "e9c2fdba-f23b-4795-bbe6-5b0eb1d36724"
+      ],
+      "intersection_m2": 3.1
+    },
+    {
+      "source_ids": [
+        "d929f99d-e081-4bb6-95ec-59227b819115",
+        "c11cd1dc-8071-448d-86ad-70f738af2598"
+      ],
+      "intersection_m2": 2.45
+    },
+    {
+      "source_ids": [
+        "83088154-3bd6-4c96-a50d-a6a9273bc658",
+        "42a4b7a7-0973-47e4-b3e5-e54f035d912c"
+      ],
+      "intersection_m2": 13.29
+    },
+    {
+      "source_ids": [
+        "86d7aaa5-e03c-4a9b-a0f0-d928758c5f7d",
+        "9830cd49-ef30-4a98-810c-1be3e1d34ad8"
+      ],
+      "intersection_m2": 19.44
+    },
+    {
+      "source_ids": [
+        "ff3260a7-6639-41b1-83b3-2c741547decc",
+        "86d7aaa5-e03c-4a9b-a0f0-d928758c5f7d"
+      ],
+      "intersection_m2": 3.5
+    },
+    {
+      "source_ids": [
+        "2a3bdf48-9498-4dd0-914a-bc8855353676",
+        "c85bee43-afd3-4420-ba26-1a586f972ece"
+      ],
+      "intersection_m2": 6.02
+    },
+    {
+      "source_ids": [
+        "00ca8121-e3c3-4f48-b7e6-fe1e57ef34e2",
+        "2f9d3e06-778e-4f02-ba1e-f6adf77fa0cf"
+      ],
+      "intersection_m2": 3.15
+    },
+    {
+      "source_ids": [
+        "0b47f214-5675-452e-b55c-2fc14b1c3932",
+        "ea2be37b-128b-4d6b-96ec-9ae0abd446cd"
+      ],
+      "intersection_m2": 2.98
+    }
+  ],
+  "invalid_count": 0,
+  "height_unknown_count": 2522,
+  "building_count": 2524,
+  "overlap_pairs": 104,
+  "overlap_buildings": 194,
+  "original_osm_building_count": 146,
+  "original_osm_place_pins_in_footprint": 2
+}

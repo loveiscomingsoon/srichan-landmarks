@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.8367885,
+              16.4314092
+            ],
+            [
+              102.8370934,
+              16.4313664
+            ],
+            [
+              102.8370748,
+              16.4318936
+            ],
+            [
+              102.8368638,
+              16.4319131
+            ],
+            [
+              102.8367885,
+              16.4314092
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "64042726",
+        "name": "ตลาดร่วมจิตร",
+        "height": null,
+        "height_method": "default",
+        "levels": null,
+        "building": "yes",
+        "source_dataset": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/64042726",
+        "source_id": "osm/way/64042726",
+        "survey_verified": false,
+        "topology_review": false
+      }
+    }
+  ],
+  "note": "อาคารใกล้สุดเป็นเพียงตัวเลือกตรวจสอบ ไม่ใช่การยืนยันว่าเป็นสถานที่เดียวกัน"
+}

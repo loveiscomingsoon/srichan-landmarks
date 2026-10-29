@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.8346538,
+              16.4299462
+            ],
+            [
+              102.8346686,
+              16.4300493
+            ],
+            [
+              102.834314,
+              16.4300968
+            ],
+            [
+              102.8343093,
+              16.4300643
+            ],
+            [
+              102.834276,
+              16.4300687
+            ],
+            [
+              102.8342807,
+              16.4301013
+            ],
+            [
+              102.834226,
+              16.4301086
+            ],
+            [
+              102.8342112,
+              16.4300055
+            ],
+            [
+              102.8346538,
+              16.4299462
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "",
+        "source_id": "0c0ecd30-7b8f-48f8-8218-c7c1bff288bc",
+        "gers_id": "0c0ecd30-7b8f-48f8-8218-c7c1bff288bc",
+        "source_dataset": "Google Open Buildings",
+        "source_release": "2026-10-21.0",
+        "source_url": "https://docs.overturemaps.org/guides/buildings/",
+        "source_record": "7P84CRJM+2Q82",
+        "source_version": "2024-04-16",
+        "source_confidence": 0.8002,
+        "source_image_date": "2023-05-01T00:00:00.000Z",
+        "license": "ODbL-1.0; Google Open Buildings attribution CC BY 4.0 where applicable",
+        "survey_verified": false,
+        "name": "ขอบอาคารจากข้อมูลเปิด — ยังไม่ยืนยันสถานที่",
+        "height": null,
+        "height_method": "default",
+        "levels": null,
+        "building": "yes",
+        "topology_review": true
+      }
+    }
+  ],
+  "note": "อาคารใกล้สุดเป็นเพียงตัวเลือกตรวจสอบ ไม่ใช่การยืนยันว่าเป็นสถานที่เดียวกัน"
+}

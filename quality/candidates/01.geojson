@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              102.8324624,
+              16.4306624
+            ],
+            [
+              102.832561,
+              16.4306576
+            ],
+            [
+              102.8325983,
+              16.4306285
+            ],
+            [
+              102.832596,
+              16.4305658
+            ],
+            [
+              102.8326334,
+              16.4305635
+            ],
+            [
+              102.832624,
+              16.4304493
+            ],
+            [
+              102.8325872,
+              16.4304537
+            ],
+            [
+              102.8324806,
+              16.4304663
+            ],
+            [
+              102.8324536,
+              16.4304695
+            ],
+            [
+              102.8324624,
+              16.4306624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "822219221",
+        "name": "อาคารในย่านศรีจันทร์",
+        "height": null,
+        "height_method": "default",
+        "levels": null,
+        "building": "commercial",
+        "source_dataset": "OpenStreetMap",
+        "source_url": "https://www.openstreetmap.org/way/822219221",
+        "source_id": "osm/way/822219221",
+        "survey_verified": false,
+        "topology_review": false
+      }
+    }
+  ],
+  "note": "อาคารใกล้สุดเป็นเพียงตัวเลือกตรวจสอบ ไม่ใช่การยืนยันว่าเป็นสถานที่เดียวกัน"
+}
